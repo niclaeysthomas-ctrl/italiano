@@ -1,0 +1,20 @@
+{
+  "id": "b2-gerundio",
+  "level": "B2",
+  "order": 3,
+  "title": "Gérondif, infinitif passé et participe",
+  "summary": "Alléger ses phrases : facendo, avendo fatto, dopo aver fatto, finito il lavoro…",
+  "blocks": [
+    { "type": "rule", "text": "Gérondif : parlando, prendendo, partendo. Il exprime la manière, la cause ou la simultanéité : Sbagliando s'impara (c'est en se trompant qu'on apprend)." },
+    { "type": "rule", "text": "Gérondif passé : avendo / essendo + participe, pour une action antérieure : Avendo finito, è uscito." },
+    { "type": "rule", "text": "Dopo + infinitif passé : Dopo aver mangiato… / Dopo essere arrivati…" },
+    { "type": "p", "text": "Le participe passé seul remplace une subordonnée temporelle, surtout à l'écrit : Finita la riunione, siamo andati a pranzo." },
+    { "type": "tip", "text": "Le gérondif italien n'a pas de « en » : « en marchant » = camminando." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "« En lisant le journal… »", "text": "___ il giornale, ho scoperto la notizia.", "options": ["Leggendo", "In leggendo", "Letto", "Leggere"], "answer": 0, "explanation": "Gérondif sans préposition." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Dopo ___ arrivati, abbiamo cenato.", "options": ["essendo", "essere", "aver", "siamo"], "answer": 1, "explanation": "Dopo + infinitif passé : dopo essere arrivati." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "___ il lavoro, è andato in palestra.", "options": ["Finendo", "Finire", "Finito", "Finisce"], "answer": 2, "explanation": "Participe absolu : action terminée." },
+    { "id": "e4", "type": "cloze", "prompt": "Gérondif de fare.", "text": "Si impara ___ errori.", "answers": ["facendo"], "explanation": "Fare → facendo." }
+  ]
+}

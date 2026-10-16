@@ -1,0 +1,22 @@
+{
+  "id": "b1-rito-del-caffe",
+  "level": "B1",
+  "title": "Il rito del caffè",
+  "text": "Per molti italiani la giornata non comincia davvero finché non hanno bevuto il primo caffè. Di solito si prende al bar, in piedi, al bancone: si ordina, si beve in pochi secondi e si riparte. È un momento breve ma importante, spesso un'occasione per scambiare due parole con il barista.\n\nGli stranieri restano spesso sorpresi da alcune regole non scritte. Il cappuccino, per esempio, si beve quasi solo a colazione: ordinarlo dopo pranzo fa sorridere più di un cameriere. E se chiedete semplicemente «un caffè», vi serviranno un espresso.\n\nA Napoli esiste anche la tradizione del «caffè sospeso»: chi può permetterselo paga un caffè in più, che resta a disposizione di chi non ha soldi. Un piccolo gesto di solidarietà che negli ultimi anni si è diffuso anche in altre città.",
+  "translation": "Pour beaucoup d'Italiens, la journée ne commence vraiment qu'après le premier café. On le prend généralement au bar, debout, au comptoir : on commande, on le boit en quelques secondes et on repart. C'est un moment bref mais important, souvent l'occasion d'échanger quelques mots avec le barista.\n\nLes étrangers sont souvent surpris par certaines règles non écrites. Le cappuccino, par exemple, ne se boit presque qu'au petit-déjeuner : le commander après le déjeuner fait sourire plus d'un serveur. Et si vous demandez simplement « un café », on vous servira un expresso.\n\nÀ Naples existe aussi la tradition du « café suspendu » : celui qui peut se le permettre paie un café en plus, qui reste à la disposition de quelqu'un qui n'a pas d'argent. Un petit geste de solidarité qui s'est aussi répandu dans d'autres villes ces dernières années.",
+  "glossary": [
+    { "term": "finché non", "fr": "tant que… ne… pas ; jusqu'à ce que" },
+    { "term": "bancone", "fr": "comptoir" },
+    { "term": "scambiare due parole", "fr": "échanger quelques mots" },
+    { "term": "regole non scritte", "fr": "règles non écrites" },
+    { "term": "cameriere", "fr": "serveur" },
+    { "term": "sospeso", "fr": "suspendu" },
+    { "term": "permetterselo", "fr": "se le permettre" },
+    { "term": "si è diffuso", "fr": "s'est répandu" }
+  ],
+  "questions": [
+    { "q": "Comment boit-on souvent le café au bar ?", "options": ["Assis en terrasse", "Debout au comptoir", "À emporter", "Seulement le soir"], "answer": 1 },
+    { "q": "Quand boit-on surtout le cappuccino ?", "options": ["Après le dîner", "L'après-midi", "Au petit-déjeuner", "À n'importe quelle heure"], "answer": 2 },
+    { "q": "Qu'est-ce que le « caffè sospeso » ?", "options": ["Un café payé d'avance pour quelqu'un dans le besoin", "Un café glacé", "Un café servi plus tard", "Un café offert par le bar"], "answer": 0 }
+  ]
+}

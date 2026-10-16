@@ -21,7 +21,7 @@ Cette version pose **l'architecture complète** ; le contenu est un échantillon
 | Moteurs (répétition espacée, test adaptatif, comparaison de phrases, contenu du jour) | Fonctionnels et testés |
 | Écrans (accueil, test, cartes, grammaire, lecture, dictée, oral, profil) | Fonctionnels |
 | Stockage local, export/import | Fonctionnel |
-| Contenu | 565 cartes (mots, expressions et phrases entières, toutes avec un exemple traduit) dans 32 paquets ; 4 leçons, 5 lectures, 25 questions de test |
+| Contenu | 565 cartes (mots, expressions et phrases entières, toutes avec un exemple traduit) dans 32 paquets ; 21 leçons de grammaire (A1 → C1), 10 lectures (deux par niveau), 25 questions de test |
 
 Limites connues, à garder en tête :
 

@@ -1,0 +1,20 @@
+{
+  "id": "a2-pronomi-diretti",
+  "level": "A2",
+  "order": 4,
+  "title": "Les pronoms COD et COI",
+  "summary": "lo, la, li, le / gli, le : remplacer un complément.",
+  "blocks": [
+    { "type": "table", "caption": "Pronoms", "head": ["Personne", "direct (COD)", "indirect (COI)"], "rows": [["io", "mi", "mi"], ["tu", "ti", "ti"], ["lui", "lo", "gli"], ["lei", "la", "le"], ["Lei (politesse)", "La", "Le"], ["noi", "ci", "ci"], ["voi", "vi", "vi"], ["loro", "li, le", "gli"]] },
+    { "type": "rule", "text": "Le pronom se place avant le verbe conjugué, mais il se colle à l'infinitif : Lo vedo. / Voglio vederlo." },
+    { "type": "rule", "text": "Au passato prossimo, le participe s'accorde avec lo, la, li, le : Hai visto Maria? — Sì, l'ho vista." },
+    { "type": "examples", "items": [{ "it": "Conosci Paolo? — Sì, lo conosco bene.", "fr": "Tu connais Paolo ? — Oui, je le connais bien." }, { "it": "Telefono a Giulia e le dico tutto.", "fr": "J'appelle Giulia et je lui dis tout." }] }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Remplace « il giornale ».", "text": "Leggi il giornale? — Sì, ___ leggo.", "options": ["lo", "la", "gli", "li"], "answer": 0, "explanation": "Masculin singulier direct : lo." },
+    { "id": "e2", "type": "choice", "prompt": "Remplace « a Marco ».", "text": "Scrivo a Marco → ___ scrivo.", "options": ["Lo", "Gli", "Le", "Ci"], "answer": 1, "explanation": "Indirect masculin : gli." },
+    { "id": "e3", "type": "choice", "prompt": "Accord du participe.", "text": "Le foto? Le ho ___ ieri.", "options": ["stampato", "stampati", "stampate", "stampata"], "answer": 2, "explanation": "Le (fém. plur.) → stampate." },
+    { "id": "e4", "type": "choice", "prompt": "Remplace « a mia madre ».", "text": "Porto i fiori a mia madre → ___ porto i fiori.", "options": ["La", "Gli", "Lo", "Le"], "answer": 3, "explanation": "Indirect féminin : le." },
+    { "id": "e5", "type": "cloze", "prompt": "Remplace « le chiavi ».", "text": "Hai le chiavi? — No, non ___ ho.", "answers": ["le"], "explanation": "Féminin pluriel direct : le." }
+  ]
+}

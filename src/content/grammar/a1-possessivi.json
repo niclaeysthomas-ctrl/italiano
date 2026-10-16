@@ -1,0 +1,20 @@
+{
+  "id": "a1-possessivi",
+  "level": "A1",
+  "order": 5,
+  "title": "Les possessifs",
+  "summary": "Il mio, la tua, i suoi… et l'exception de la famille.",
+  "blocks": [
+    { "type": "p", "text": "En italien, le possessif est en général précédé de l'article : il mio libro (mon livre), la nostra casa (notre maison). Il s'accorde avec l'objet possédé." },
+    { "type": "table", "caption": "Possessifs", "head": ["", "masc. sing.", "fém. sing.", "masc. plur.", "fém. plur."], "rows": [["io", "il mio", "la mia", "i miei", "le mie"], ["tu", "il tuo", "la tua", "i tuoi", "le tue"], ["lui, lei", "il suo", "la sua", "i suoi", "le sue"], ["noi", "il nostro", "la nostra", "i nostri", "le nostre"], ["voi", "il vostro", "la vostra", "i vostri", "le vostre"], ["loro", "il loro", "la loro", "i loro", "le loro"]] },
+    { "type": "rule", "text": "Pas d'article devant un nom de famille au singulier non modifié : mia madre, tuo fratello. Mais : i miei fratelli, la mia sorellina, il loro padre." },
+    { "type": "tip", "text": "Suo veut dire à la fois « son » (à lui) et « son » (à elle) : c'est l'objet qui décide du genre. Il suo libro = son livre (de Marco ou de Giulia)." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "___ madre è di Napoli.", "options": ["Mia", "La mia", "Il mio", "Mio"], "answer": 0, "explanation": "Famille au singulier : pas d'article." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Dove sono ___ chiavi?", "options": ["la mia", "le mie", "i miei", "mie"], "answer": 1, "explanation": "Le chiavi, féminin pluriel : le mie." },
+    { "id": "e3", "type": "choice", "prompt": "Giulia a une voiture. C'est…", "text": "___ macchina.", "options": ["il suo", "la loro", "la sua", "sua"], "answer": 2, "explanation": "Macchina est féminin : la sua, même si la propriétaire est une femme ou un homme." },
+    { "id": "e4", "type": "choice", "prompt": "Complète.", "text": "Ho conosciuto ___ genitori.", "options": ["tuoi", "le tue", "il tuo", "i tuoi"], "answer": 3, "explanation": "Pluriel de famille : l'article revient, i tuoi." },
+    { "id": "e5", "type": "cloze", "prompt": "« notre maison »", "text": "___ casa è in campagna.", "answers": ["la nostra"], "explanation": "Article + possessif : la nostra casa." }
+  ]
+}

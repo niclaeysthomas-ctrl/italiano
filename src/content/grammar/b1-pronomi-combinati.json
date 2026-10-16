@@ -1,0 +1,19 @@
+{
+  "id": "b1-pronomi-combinati",
+  "level": "B1",
+  "order": 3,
+  "title": "Les pronoms combinés et ne",
+  "summary": "Me lo, glielo, ce ne… combiner deux pronoms.",
+  "blocks": [
+    { "type": "p", "text": "Quand un pronom indirect précède lo, la, li, le ou ne, le i devient e : mi → me, ti → te, ci → ce, vi → ve. Gli et le deviennent glie- et forment un seul mot." },
+    { "type": "table", "caption": "Combinaisons", "head": ["", "lo", "la", "li", "le", "ne"], "rows": [["mi", "me lo", "me la", "me li", "me le", "me ne"], ["ti", "te lo", "te la", "te li", "te le", "te ne"], ["gli, le", "glielo", "gliela", "glieli", "gliele", "gliene"], ["ci", "ce lo", "ce la", "ce li", "ce le", "ce ne"], ["vi", "ve lo", "ve la", "ve li", "ve le", "ve ne"]] },
+    { "type": "rule", "text": "Ne remplace une quantité ou un complément introduit par di : Quanti caffè bevi? — Ne bevo tre." },
+    { "type": "examples", "items": [{ "it": "Mi presti la bici? — Sì, te la presto.", "fr": "Tu me prêtes ton vélo ? — Oui, je te le prête." }, { "it": "Hai detto a Luca la verità? — Sì, gliel'ho detta.", "fr": "Tu as dit la vérité à Luca ? — Oui, je la lui ai dite." }] }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Remplace « il libro » et « a me ».", "text": "Mi dai il libro? — Sì, ___ do.", "options": ["te lo", "ti lo", "me lo", "glielo"], "answer": 0, "explanation": "À toi + le : te lo." },
+    { "id": "e2", "type": "choice", "prompt": "Remplace « le chiavi » et « a lei ».", "text": "Do le chiavi a Sara → ___ do.", "options": ["Le le", "Gliele", "Gliela", "Glieli"], "answer": 1, "explanation": "À elle + les (fém.) : gliele." },
+    { "id": "e3", "type": "choice", "prompt": "Quantité.", "text": "Quante sorelle hai? — ___ ho due.", "options": ["Le", "Li", "Ne", "Ci"], "answer": 2, "explanation": "Quantité : ne." },
+    { "id": "e4", "type": "cloze", "prompt": "Remplace « la storia » et « a noi ».", "text": "Ci racconti la storia? — Sì, ___ racconto.", "answers": ["ve la"], "explanation": "À vous + la : ve la." }
+  ]
+}

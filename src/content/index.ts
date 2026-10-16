@@ -40,16 +40,38 @@ import deck_c1_registre from './decks/c1-registre.json';
 
 import placement from './placement/questions.json';
 
-import lessonEssereAvere from './grammar/a1-essere-avere.json';
-import lessonArticoli from './grammar/a1-articoli.json';
-import lessonPassato from './grammar/a2-passato-prossimo.json';
-import lessonCongiuntivo from './grammar/b1-congiuntivo-presente.json';
+import lesson_a1_articoli from './grammar/a1-articoli.json';
+import lesson_a1_essere_avere from './grammar/a1-essere-avere.json';
+import lesson_a1_possessivi from './grammar/a1-possessivi.json';
+import lesson_a1_preposizioni from './grammar/a1-preposizioni.json';
+import lesson_a1_presente from './grammar/a1-presente.json';
+import lesson_a2_futuro from './grammar/a2-futuro.json';
+import lesson_a2_imperfetto from './grammar/a2-imperfetto.json';
+import lesson_a2_passato_prossimo from './grammar/a2-passato-prossimo.json';
+import lesson_a2_pronomi_diretti from './grammar/a2-pronomi-diretti.json';
+import lesson_a2_riflessivi from './grammar/a2-riflessivi.json';
+import lesson_b1_condizionale from './grammar/b1-condizionale.json';
+import lesson_b1_congiuntivo_presente from './grammar/b1-congiuntivo-presente.json';
+import lesson_b1_periodo_ipotetico from './grammar/b1-periodo-ipotetico.json';
+import lesson_b1_pronomi_combinati from './grammar/b1-pronomi-combinati.json';
+import lesson_b1_relativi from './grammar/b1-relativi.json';
+import lesson_b2_concordanza from './grammar/b2-concordanza.json';
+import lesson_b2_gerundio from './grammar/b2-gerundio.json';
+import lesson_b2_passivo_si from './grammar/b2-passivo-si.json';
+import lesson_c1_discorso_indiretto from './grammar/c1-discorso-indiretto.json';
+import lesson_c1_ipotetico_misto from './grammar/c1-ipotetico-misto.json';
+import lesson_c1_passato_remoto from './grammar/c1-passato-remoto.json';
 
-import readingA1 from './readings/a1-la-mia-giornata.json';
-import readingA2 from './readings/a2-weekend-al-lago.json';
-import readingB1 from './readings/b1-lavorare-da-casa.json';
-import readingB2 from './readings/b2-paradosso-del-turismo.json';
-import readingC1 from './readings/c1-arte-di-arrangiarsi.json';
+import reading_a1_al_mercato from './readings/a1-al-mercato.json';
+import reading_a1_la_mia_giornata from './readings/a1-la-mia-giornata.json';
+import reading_a2_cena_tra_amici from './readings/a2-cena-tra-amici.json';
+import reading_a2_weekend_al_lago from './readings/a2-weekend-al-lago.json';
+import reading_b1_lavorare_da_casa from './readings/b1-lavorare-da-casa.json';
+import reading_b1_rito_del_caffe from './readings/b1-rito-del-caffe.json';
+import reading_b2_fuga_dei_cervelli from './readings/b2-fuga-dei-cervelli.json';
+import reading_b2_paradosso_del_turismo from './readings/b2-paradosso-del-turismo.json';
+import reading_c1_arte_di_arrangiarsi from './readings/c1-arte-di-arrangiarsi.json';
+import reading_c1_lingua_e_dialetti from './readings/c1-lingua-e-dialetti.json';
 
 // Les JSON importés sont typés de façon large (string au lieu de 'A1' | 'A2'…) :
 // la conformité réelle est garantie par les tests de validation du contenu.
@@ -93,11 +115,44 @@ export const decks: Deck[] = [
 
 export const placementQuestions: PlacementQuestion[] = as<PlacementQuestion[]>(placement);
 
-export const lessons: GrammarLesson[] = [lessonEssereAvere, lessonArticoli, lessonPassato, lessonCongiuntivo]
+export const lessons: GrammarLesson[] = [
+  lesson_a1_articoli,
+  lesson_a1_essere_avere,
+  lesson_a1_possessivi,
+  lesson_a1_preposizioni,
+  lesson_a1_presente,
+  lesson_a2_futuro,
+  lesson_a2_imperfetto,
+  lesson_a2_passato_prossimo,
+  lesson_a2_pronomi_diretti,
+  lesson_a2_riflessivi,
+  lesson_b1_condizionale,
+  lesson_b1_congiuntivo_presente,
+  lesson_b1_periodo_ipotetico,
+  lesson_b1_pronomi_combinati,
+  lesson_b1_relativi,
+  lesson_b2_concordanza,
+  lesson_b2_gerundio,
+  lesson_b2_passivo_si,
+  lesson_c1_discorso_indiretto,
+  lesson_c1_ipotetico_misto,
+  lesson_c1_passato_remoto,
+]
   .map((l) => as<GrammarLesson>(l))
   .sort((a, b) => a.level.localeCompare(b.level) || a.order - b.order);
 
-export const readings: Reading[] = [readingA1, readingA2, readingB1, readingB2, readingC1].map((r) => as<Reading>(r));
+export const readings: Reading[] = [
+  reading_a1_al_mercato,
+  reading_a1_la_mia_giornata,
+  reading_a2_cena_tra_amici,
+  reading_a2_weekend_al_lago,
+  reading_b1_lavorare_da_casa,
+  reading_b1_rito_del_caffe,
+  reading_b2_fuga_dei_cervelli,
+  reading_b2_paradosso_del_turismo,
+  reading_c1_arte_di_arrangiarsi,
+  reading_c1_lingua_e_dialetti,
+].map((r) => as<Reading>(r));
 
 /** Toutes les notes du contenu, avec leur niveau résolu. */
 export const contentNotes: StudyNote[] = decks.flatMap((deck) =>

@@ -1,0 +1,22 @@
+{
+  "id": "a1-preposizioni",
+  "level": "A1",
+  "order": 4,
+  "title": "Les prépositions et leurs contractions",
+  "summary": "di, a, da, in, su + article : del, al, dal, nel, sul…",
+  "blocks": [
+    { "type": "p", "text": "Comme « au » et « du » en français, les prépositions di, a, da, in et su se soudent à l'article défini qui suit." },
+    { "type": "table", "caption": "Prépositions articulées", "head": ["", "il", "lo", "l'", "la", "i", "gli", "le"], "rows": [["di", "del", "dello", "dell'", "della", "dei", "degli", "delle"], ["a", "al", "allo", "all'", "alla", "ai", "agli", "alle"], ["da", "dal", "dallo", "dall'", "dalla", "dai", "dagli", "dalle"], ["in", "nel", "nello", "nell'", "nella", "nei", "negli", "nelle"], ["su", "sul", "sullo", "sull'", "sulla", "sui", "sugli", "sulle"]] },
+    { "type": "rule", "text": "Ville : a (vado a Roma). Pays et région : in (vado in Italia). Chez quelqu'un : da (vado da Marco)." },
+    { "type": "tip", "text": "Con, per et tra ne se contractent pas dans l'usage courant : con il treno, per la stazione." },
+    { "type": "examples", "items": [{ "it": "Il libro è sul tavolo.", "fr": "Le livre est sur la table." }, { "it": "Vengo dalla stazione.", "fr": "Je viens de la gare." }, { "it": "Abito nel centro storico.", "fr": "J'habite dans le centre historique." }] }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Vado ___ cinema.", "options": ["al", "nel", "dal", "del"], "answer": 0, "explanation": "Aller au cinéma : a + il = al." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Le chiavi sono ___ borsa.", "options": ["sulla", "nella", "della", "alla"], "answer": 1, "explanation": "Dans le sac : in + la = nella." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Stasera vado ___ Giulia.", "options": ["a", "in", "da", "di"], "answer": 2, "explanation": "Chez quelqu'un : da." },
+    { "id": "e4", "type": "choice", "prompt": "Complète.", "text": "Quest'estate andiamo ___ Spagna.", "options": ["a", "da", "nella", "in"], "answer": 3, "explanation": "Pays : in, sans article." },
+    { "id": "e5", "type": "cloze", "prompt": "di + gli", "text": "La casa ___ zii è grande.", "answers": ["degli"], "explanation": "di + gli = degli." },
+    { "id": "e6", "type": "cloze", "prompt": "a + le", "text": "Il treno parte ___ otto.", "answers": ["alle"], "explanation": "Heures : a + le = alle otto." }
+  ]
+}

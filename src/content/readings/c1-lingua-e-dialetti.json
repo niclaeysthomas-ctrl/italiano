@@ -1,0 +1,22 @@
+{
+  "id": "c1-lingua-e-dialetti",
+  "level": "C1",
+  "title": "Una lingua, cento dialetti",
+  "text": "Quando l'Italia fu unificata, nel 1861, soltanto una piccola minoranza della popolazione parlava abitualmente l'italiano. La lingua comune, nata dal fiorentino letterario di Dante, Petrarca e Boccaccio, era per lo più una lingua scritta, appannaggio delle élite colte. Nella vita quotidiana regnavano i dialetti, spesso così diversi tra loro da risultare reciprocamente incomprensibili.\n\nA diffondere l'italiano contribuirono, nel corso del Novecento, la scuola obbligatoria, il servizio militare, le migrazioni interne e, soprattutto, la televisione, che portò la lingua nazionale in ogni casa. Oggi la quasi totalità degli italiani la padroneggia, ma i dialetti non sono affatto scomparsi.\n\nAnzi, dopo decenni in cui erano stati percepiti come segno di arretratezza, conoscono una sorta di rivalutazione: compaiono nelle canzoni, nel cinema, perfino nella pubblicità. Più che antagonisti, lingua e dialetti appaiono ormai come registri complementari, tra cui i parlanti si muovono con naturalezza a seconda del contesto.",
+  "translation": "Quand l'Italie fut unifiée, en 1861, seule une petite minorité de la population parlait habituellement l'italien. La langue commune, née du florentin littéraire de Dante, Pétrarque et Boccace, était surtout une langue écrite, apanage des élites cultivées. Dans la vie quotidienne régnaient les dialectes, souvent si différents les uns des autres qu'ils en devenaient mutuellement incompréhensibles.\n\nAu cours du XXe siècle, l'école obligatoire, le service militaire, les migrations internes et surtout la télévision, qui fit entrer la langue nationale dans chaque foyer, contribuèrent à diffuser l'italien. Aujourd'hui, la quasi-totalité des Italiens la maîtrise, mais les dialectes n'ont nullement disparu.\n\nAu contraire, après des décennies où ils avaient été perçus comme un signe d'arriération, ils connaissent une sorte de réhabilitation : on les retrouve dans les chansons, au cinéma, et même dans la publicité. Plus que des rivaux, langue et dialectes apparaissent désormais comme des registres complémentaires, entre lesquels les locuteurs passent avec naturel selon le contexte.",
+  "glossary": [
+    { "term": "appannaggio", "fr": "apanage, privilège" },
+    { "term": "colte", "fr": "cultivées" },
+    { "term": "reciprocamente", "fr": "mutuellement" },
+    { "term": "padroneggia", "fr": "maîtrise" },
+    { "term": "affatto", "fr": "nullement (avec non)" },
+    { "term": "arretratezza", "fr": "arriération, retard" },
+    { "term": "rivalutazione", "fr": "réhabilitation, revalorisation" },
+    { "term": "a seconda del", "fr": "selon le" }
+  ],
+  "questions": [
+    { "q": "Quelle était la situation linguistique en 1861 ?", "options": ["Tout le monde parlait italien", "Peu de gens parlaient l'italien au quotidien", "On parlait surtout latin", "Le florentin était interdit"], "answer": 1 },
+    { "q": "Quel facteur le texte juge-t-il décisif pour diffuser l'italien ?", "options": ["La presse écrite", "Le tourisme", "La télévision", "Internet"], "answer": 2 },
+    { "q": "Comment sont perçus les dialectes aujourd'hui ?", "options": ["Comme des registres complémentaires de l'italien", "Comme des langues mortes", "Comme un signe d'arriération", "Comme interdits à l'école"], "answer": 0 }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b2-passivo-si",
+  "level": "B2",
+  "order": 2,
+  "title": "Le passif et le si impersonnel",
+  "summary": "essere, venire, andare + participe ; si dice, si vendono…",
+  "blocks": [
+    { "type": "rule", "text": "Passif avec essere ou venire : La legge è stata approvata. / La legge viene approvata (venire seulement aux temps simples)." },
+    { "type": "rule", "text": "Andare + participe exprime l'obligation : Il modulo va compilato (le formulaire doit être rempli)." },
+    { "type": "p", "text": "Le si passivant s'accorde avec le nom : In Italia si beve molto caffè. / Qui si vendono biglietti. Le si impersonnel traduit « on » : Si vive bene qui." },
+    { "type": "tip", "text": "Avec un verbe réfléchi, si impersonnel devient ci si : Ci si alza presto in campagna." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "In questo negozio ___ prodotti biologici.", "options": ["si vendono", "si vende", "vende", "sono venduto"], "answer": 0, "explanation": "Si passivant + pluriel : si vendono." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Il ponte ___ nel 1592.", "options": ["ha costruito", "fu costruito", "costruiva", "si costruisce"], "answer": 1, "explanation": "Passif au passé simple : fu costruito." },
+    { "id": "e3", "type": "choice", "prompt": "Obligation.", "text": "Questi documenti ___ firmati entro domani.", "options": ["vengono", "sono stati", "vanno", "si"], "answer": 2, "explanation": "Andare + participe : obligation." },
+    { "id": "e4", "type": "cloze", "prompt": "« On s'habitue »", "text": "___ abitua a tutto.", "answers": ["ci si"], "explanation": "Réfléchi + impersonnel : ci si." }
+  ]
+}

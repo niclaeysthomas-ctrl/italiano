@@ -1,0 +1,21 @@
+{
+  "id": "b1-condizionale",
+  "level": "B1",
+  "order": 2,
+  "title": "Le conditionnel présent",
+  "summary": "Souhaits, politesse, conseils et informations non confirmées.",
+  "blocks": [
+    { "type": "table", "caption": "Conditionnel présent", "head": ["Personne", "parlare", "prendere", "partire"], "rows": [["io", "parlerei", "prenderei", "partirei"], ["tu", "parleresti", "prenderesti", "partiresti"], ["lui, lei", "parlerebbe", "prenderebbe", "partirebbe"], ["noi", "parleremmo", "prenderemmo", "partiremmo"], ["voi", "parlereste", "prendereste", "partireste"], ["loro", "parlerebbero", "prenderebbero", "partirebbero"]] },
+    { "type": "rule", "text": "Même radical qu'au futur : sarei, avrei, andrei, farei, verrei, vorrei, potrei, dovrei." },
+    { "type": "tip", "text": "Attention à noi : parleremmo (conditionnel, deux m) ≠ parleremo (futur, un m)." },
+    { "type": "p", "text": "Dans la presse, le conditionnel signale une information non confirmée : Il ministro si dimetterebbe (le ministre démissionnerait)." },
+    { "type": "examples", "items": [{ "it": "Vorrei un caffè, per favore.", "fr": "Je voudrais un café, s'il vous plaît." }, { "it": "Dovresti riposarti di più.", "fr": "Tu devrais te reposer davantage." }] }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète poliment.", "text": "___ aprire la finestra?", "options": ["Potrebbe", "Può essere", "Potrà", "Poteva"], "answer": 0, "explanation": "Politesse : potrebbe." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Al posto tuo, io ___ quel lavoro.", "options": ["accetterò", "accetterei", "accettavo", "accetti"], "answer": 1, "explanation": "Conseil : conditionnel." },
+    { "id": "e3", "type": "choice", "prompt": "Conditionnel, noi.", "text": "Ci ___ venire anche noi.", "options": ["piacerà", "piace", "piacerebbe", "piacerebbero"], "answer": 2, "explanation": "Ci piacerebbe : nous aimerions." },
+    { "id": "e4", "type": "cloze", "prompt": "Conjugue andare (noi).", "text": "Con più soldi, ___ in Giappone.", "answers": ["andremmo"], "explanation": "Andare → andremmo (deux m)." },
+    { "id": "e5", "type": "cloze", "prompt": "Conjugue dovere (tu).", "text": "___ chiamare tua madre.", "answers": ["dovresti"], "explanation": "Dovere → dovresti." }
+  ]
+}

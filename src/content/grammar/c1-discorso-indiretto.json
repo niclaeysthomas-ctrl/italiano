@@ -1,0 +1,18 @@
+{
+  "id": "c1-discorso-indiretto",
+  "level": "C1",
+  "order": 2,
+  "title": "Le discours indirect au passé",
+  "summary": "Rapporter des paroles : temps, pronoms et repères.",
+  "blocks": [
+    { "type": "table", "caption": "Transformations après un verbe au passé (disse che…)", "head": ["Discours direct", "Discours indirect"], "rows": [["présent : « Sono stanco »", "imparfait : che era stanco"], ["passato prossimo : « Ho finito »", "plus-que-parfait : che aveva finito"], ["futur : « Verrò »", "conditionnel passé : che sarebbe venuto"], ["impératif : « Vieni! »", "di + infinitif : di venire"], ["subjonctif présent", "subjonctif imparfait"]] },
+    { "type": "table", "caption": "Repères de temps et de lieu", "head": ["Direct", "Indirect"], "rows": [["oggi", "quel giorno"], ["domani", "il giorno dopo"], ["ieri", "il giorno prima"], ["qui", "lì"], ["questo", "quello"]] },
+    { "type": "tip", "text": "Le futur dans le passé se rend par le conditionnel passé, pas présent : Disse che sarebbe arrivato (il dit qu'il arriverait)." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "« Domani parto. » → Disse che…", "text": "Disse che ___ il giorno dopo.", "options": ["sarebbe partito", "partirebbe", "partirà", "parte"], "answer": 0, "explanation": "Futur dans le passé : conditionnel passé." },
+    { "id": "e2", "type": "choice", "prompt": "« Ho perso il treno. » → Mi raccontò che…", "text": "Mi raccontò che ___ il treno.", "options": ["ha perso", "aveva perso", "perdeva", "perse"], "answer": 1, "explanation": "Passato prossimo → plus-que-parfait." },
+    { "id": "e3", "type": "choice", "prompt": "« Aspettami! » → Mi chiese…", "text": "Mi chiese ___.", "options": ["che aspetto", "aspettami", "di aspettarlo", "di aspettarmi"], "answer": 2, "explanation": "Impératif → di + infinitif, pronom adapté : di aspettarlo." },
+    { "id": "e4", "type": "cloze", "prompt": "« Sono felice » → Disse che…", "text": "Disse che ___ felice.", "answers": ["era"], "explanation": "Présent → imparfait." }
+  ]
+}

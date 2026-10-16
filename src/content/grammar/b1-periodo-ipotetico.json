@@ -1,0 +1,19 @@
+{
+  "id": "b1-periodo-ipotetico",
+  "level": "B1",
+  "order": 4,
+  "title": "L'hypothèse : periodo ipotetico",
+  "summary": "Réel, possible, irréel : se + quel temps ?",
+  "blocks": [
+    { "type": "table", "caption": "Les trois types", "head": ["Type", "se + …", "conséquence", "exemple"], "rows": [["réel", "présent", "présent ou futur", "Se piove, resto a casa."], ["possible", "subjonctif imparfait", "conditionnel présent", "Se avessi tempo, viaggerei."], ["irréel passé", "subjonctif plus-que-parfait", "conditionnel passé", "Se fossi venuto, ti saresti divertito."]] },
+    { "type": "rule", "text": "Contrairement au français, après se on met le subjonctif imparfait, jamais le conditionnel : Se potessi (et non « se potrei »)." },
+    { "type": "tip", "text": "Subjonctif imparfait : parlassi, prendessi, partissi ; essere → fossi ; avere → avessi ; fare → facessi." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Se ___ ricco, comprerei una casa al mare.", "options": ["fossi", "sarei", "ero", "sono"], "answer": 0, "explanation": "Hypothèse possible : se + subjonctif imparfait." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Se finisco presto, ti ___.", "options": ["chiamerei", "chiamo", "chiamassi", "avrei chiamato"], "answer": 1, "explanation": "Hypothèse réelle : présent." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Se avessi studiato, ___ l'esame.", "options": ["superavo", "supererei", "avrei superato", "superassi"], "answer": 2, "explanation": "Irréel du passé : conditionnel passé." },
+    { "id": "e4", "type": "cloze", "prompt": "Conjugue potere (io).", "text": "Se ___, verrei con te.", "answers": ["potessi"], "explanation": "Subjonctif imparfait : potessi." },
+    { "id": "e5", "type": "cloze", "prompt": "Conjugue avere (noi).", "text": "Se ___ più spazio, adotteremmo un cane.", "answers": ["avessimo"], "explanation": "Avere → avessimo." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a2-cena-tra-amici",
+  "level": "A2",
+  "title": "Una cena tra amici",
+  "text": "Venerdì scorso ho invitato a cena alcuni amici. Ho deciso di preparare un piatto tipico della mia regione: le lasagne. Ho fatto la spesa il giovedì e ho cucinato tutto il pomeriggio.\n\nGli ospiti sono arrivati verso le otto. Marta ha portato una bottiglia di vino rosso e Paolo un dolce fatto in casa. Mentre mangiavamo, abbiamo parlato dei nostri viaggi e abbiamo riso molto.\n\nVerso mezzanotte qualcuno ha proposto di giocare a carte. Alla fine siamo andati a letto tardissimo, ma è stata una serata bellissima. La prossima volta la cena sarà a casa di Marta.",
+  "translation": "Vendredi dernier, j'ai invité quelques amis à dîner. J'ai décidé de préparer un plat typique de ma région : les lasagnes. J'ai fait les courses le jeudi et j'ai cuisiné tout l'après-midi.\n\nLes invités sont arrivés vers huit heures. Marta a apporté une bouteille de vin rouge et Paolo un gâteau fait maison. Pendant que nous mangions, nous avons parlé de nos voyages et nous avons beaucoup ri.\n\nVers minuit, quelqu'un a proposé de jouer aux cartes. Finalement nous nous sommes couchés très tard, mais ce fut une soirée magnifique. La prochaine fois, le dîner aura lieu chez Marta.",
+  "glossary": [
+    { "term": "ho invitato", "fr": "j'ai invité" },
+    { "term": "piatto tipico", "fr": "plat typique" },
+    { "term": "ospiti", "fr": "invités" },
+    { "term": "fatto in casa", "fr": "fait maison" },
+    { "term": "abbiamo riso", "fr": "nous avons ri" },
+    { "term": "qualcuno", "fr": "quelqu'un" },
+    { "term": "tardissimo", "fr": "très tard" },
+    { "term": "serata", "fr": "soirée" }
+  ],
+  "questions": [
+    { "q": "Quel plat a été préparé ?", "options": ["Un risotto", "Des lasagnes", "Une pizza", "Des pâtes au pesto"], "answer": 1 },
+    { "q": "Qu'a apporté Paolo ?", "options": ["Du vin rouge", "Des fleurs", "Un gâteau fait maison", "Du pain"], "answer": 2 },
+    { "q": "Où aura lieu le prochain dîner ?", "options": ["Chez Marta", "Chez Paolo", "Au restaurant", "Ce n'est pas décidé"], "answer": 0 }
+  ]
+}

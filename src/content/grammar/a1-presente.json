@@ -1,0 +1,22 @@
+{
+  "id": "a1-presente",
+  "level": "A1",
+  "order": 3,
+  "title": "Le présent des verbes réguliers",
+  "summary": "Les trois groupes : -are, -ere, -ire.",
+  "blocks": [
+    { "type": "p", "text": "On retire la terminaison de l'infinitif et on ajoute celle de la personne. Les groupes -ere et -ire ne diffèrent qu'à la deuxième personne du pluriel." },
+    { "type": "table", "caption": "Présent de l'indicatif", "head": ["Personne", "parlare", "prendere", "dormire"], "rows": [["io", "parlo", "prendo", "dormo"], ["tu", "parli", "prendi", "dormi"], ["lui, lei", "parla", "prende", "dorme"], ["noi", "parliamo", "prendiamo", "dormiamo"], ["voi", "parlate", "prendete", "dormite"], ["loro", "parlano", "prendono", "dormono"]] },
+    { "type": "rule", "text": "Beaucoup de verbes en -ire ajoutent -isc- au singulier et à la 3e personne du pluriel : capire → capisco, capisci, capisce, capiamo, capite, capiscono." },
+    { "type": "tip", "text": "L'accent tonique de la 3e personne du pluriel tombe sur la même syllabe qu'au singulier : PAR-la-no, pas par-LA-no." },
+    { "type": "examples", "items": [{ "it": "Parliamo italiano a casa.", "fr": "Nous parlons italien à la maison." }, { "it": "Prendi un caffè?", "fr": "Tu prends un café ?" }, { "it": "Non capisco la domanda.", "fr": "Je ne comprends pas la question." }] }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Loro ___ in centro.", "options": ["abitano", "abitate", "abitiamo", "abita"], "answer": 0, "explanation": "Loro + -are : -ano." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Voi ___ la televisione?", "options": ["vedono", "vedete", "vedi", "vediamo"], "answer": 1, "explanation": "Voi + -ere : -ete." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Marco ___ fino alle nove.", "options": ["dormi", "dormono", "dorme", "dormo"], "answer": 2, "explanation": "Lui + -ire : -e." },
+    { "id": "e4", "type": "choice", "prompt": "Complète.", "text": "Io non ___ il tedesco.", "options": ["capiscono", "capisce", "capisci", "capisco"], "answer": 3, "explanation": "Capire prend -isc- : io capisco." },
+    { "id": "e5", "type": "cloze", "prompt": "Conjugue lavorare.", "text": "Noi ___ in un ufficio.", "answers": ["lavoriamo"], "explanation": "Noi : -iamo pour les trois groupes." },
+    { "id": "e6", "type": "cloze", "prompt": "Conjugue finire.", "text": "Tu ___ alle sei?", "answers": ["finisci"], "explanation": "Finire prend -isc- : tu finisci." }
+  ]
+}

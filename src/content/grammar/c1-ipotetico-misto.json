@@ -1,0 +1,19 @@
+{
+  "id": "c1-ipotetico-misto",
+  "level": "C1",
+  "order": 3,
+  "title": "Hypothèses mixtes et tournures concessives",
+  "summary": "Se avessi studiato, ora sarei… ; qualunque, chiunque, comunque + subjonctif.",
+  "blocks": [
+    { "type": "rule", "text": "Hypothèse mixte : condition passée, conséquence présente. Se avessi accettato quel lavoro, ora vivrei a Milano." },
+    { "type": "rule", "text": "Ou l'inverse : Se fossi più paziente, non avrei litigato con lui." },
+    { "type": "p", "text": "À l'oral, on entend souvent l'imparfait des deux côtés : Se lo sapevo, te lo dicevo. C'est courant mais familier ; à l'écrit, on garde la forme standard." },
+    { "type": "rule", "text": "Qualunque cosa, chiunque, ovunque, comunque + subjonctif : Chiunque tu sia, benvenuto. Ovunque tu vada, ti seguirò." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Se fossi partito prima, ora ___ già a casa.", "options": ["saresti", "saresti stato", "eri", "sarai"], "answer": 0, "explanation": "Conséquence présente : conditionnel présent." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Se fossi più organizzato, non ___ la scadenza.", "options": ["perderei", "avrei perso", "perdevo", "perderò"], "answer": 1, "explanation": "Conséquence passée : conditionnel passé." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Qualunque cosa ___, non arrenderti.", "options": ["succede", "succederà", "succeda", "succedeva"], "answer": 2, "explanation": "Qualunque cosa + subjonctif." },
+    { "id": "e4", "type": "cloze", "prompt": "Conjugue andare (tu).", "text": "Ovunque tu ___, scrivimi.", "answers": ["vada"], "explanation": "Ovunque + subjonctif présent : vada." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "b1-relativi",
+  "level": "B1",
+  "order": 5,
+  "title": "Les pronoms relatifs",
+  "summary": "che, cui, il quale, chi.",
+  "blocks": [
+    { "type": "rule", "text": "Che : sujet ou objet direct, invariable. Il libro che leggo. La donna che parla." },
+    { "type": "rule", "text": "Cui : après une préposition. La città in cui vivo. L'amico a cui ho scritto. Il film di cui parlavamo." },
+    { "type": "p", "text": "Il quale, la quale, i quali, le quali remplacent che ou cui dans une langue plus soignée, ou pour lever une ambiguïté : la sorella di Marco, la quale abita a Roma." },
+    { "type": "tip", "text": "Il cui = dont le : Lo scrittore il cui libro ha vinto il premio (l'écrivain dont le livre a gagné le prix)." },
+    { "type": "examples", "items": [{ "it": "È il ristorante di cui ti ho parlato.", "fr": "C'est le restaurant dont je t'ai parlé." }, { "it": "Chi cerca trova.", "fr": "Qui cherche trouve." }] }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Il ragazzo ___ vedi è mio cugino.", "options": ["che", "cui", "di cui", "il cui"], "answer": 0, "explanation": "Objet direct : che." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "La casa ___ abito è antica.", "options": ["che", "in cui", "di cui", "cui"], "answer": 1, "explanation": "Abitare in : in cui." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Il collega ___ ho dato il libro è assente.", "options": ["che", "di cui", "a cui", "il quale"], "answer": 2, "explanation": "Dare a qualcuno : a cui." },
+    { "id": "e4", "type": "cloze", "prompt": "« dont le »", "text": "Una pittrice ___ quadri sono famosi.", "answers": ["i cui"], "explanation": "L'article s'accorde avec quadri : i cui." }
+  ]
+}

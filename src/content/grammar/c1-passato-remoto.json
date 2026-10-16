@@ -1,0 +1,20 @@
+{
+  "id": "c1-passato-remoto",
+  "level": "C1",
+  "order": 1,
+  "title": "Le passé simple : passato remoto",
+  "summary": "Le temps du récit littéraire et historique.",
+  "blocks": [
+    { "type": "p", "text": "Le passato remoto raconte des faits achevés et coupés du présent : histoire, littérature, biographies. Dans le Sud, on l'emploie aussi à l'oral." },
+    { "type": "table", "caption": "Formes régulières", "head": ["Personne", "parlare", "credere", "partire"], "rows": [["io", "parlai", "credei (credetti)", "partii"], ["tu", "parlasti", "credesti", "partisti"], ["lui, lei", "parlò", "credé (credette)", "partì"], ["noi", "parlammo", "credemmo", "partimmo"], ["voi", "parlaste", "credeste", "partiste"], ["loro", "parlarono", "crederono (credettero)", "partirono"]] },
+    { "type": "table", "caption": "Irréguliers fréquents", "head": ["Infinitif", "io", "lui, lei", "loro"], "rows": [["essere", "fui", "fu", "furono"], ["avere", "ebbi", "ebbe", "ebbero"], ["fare", "feci", "fece", "fecero"], ["dire", "dissi", "disse", "dissero"], ["vedere", "vidi", "vide", "videro"], ["venire", "venni", "venne", "vennero"], ["scrivere", "scrissi", "scrisse", "scrissero"], ["nascere", "nacqui", "nacque", "nacquero"]] },
+    { "type": "tip", "text": "Les irréguliers ne le sont qu'à io, lui/lei et loro ; tu, noi et voi restent réguliers : facesti, facemmo, faceste." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Leonardo ___ a Vinci nel 1452.", "options": ["nacque", "nasceva", "è nascito", "nascé"], "answer": 0, "explanation": "Nascere → nacque." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Quando lo ___, rimasi senza parole.", "options": ["vedei", "vidi", "vedetti", "viddi"], "answer": 1, "explanation": "Vedere → vidi." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "I Romani ___ strade in tutto l'impero.", "options": ["costruirono", "costruivano", "costruiscono", "costruisserono"], "answer": 0, "explanation": "Fait historique achevé : costruirono." },
+    { "id": "e4", "type": "cloze", "prompt": "Conjugue fare (lui).", "text": "Garibaldi ___ l'unità d'Italia con i Mille.", "answers": ["fece"], "explanation": "Fare → fece." },
+    { "id": "e5", "type": "cloze", "prompt": "Conjugue avere (loro).", "text": "Gli esploratori ___ molta fortuna.", "answers": ["ebbero"], "explanation": "Avere → ebbero." }
+  ]
+}

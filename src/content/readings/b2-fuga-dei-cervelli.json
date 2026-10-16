@@ -1,0 +1,22 @@
+{
+  "id": "b2-fuga-dei-cervelli",
+  "level": "B2",
+  "title": "La fuga dei cervelli",
+  "text": "Da anni si parla di «fuga dei cervelli» per descrivere i giovani laureati che lasciano l'Italia in cerca di opportunità all'estero. Ingegneri, medici, ricercatori: molti trovano a Berlino, Londra o Parigi stipendi più alti e percorsi di carriera più rapidi.\n\nLe cause sono note: salari d'ingresso bassi, contratti precari e un sistema in cui l'anzianità conta spesso più del merito. A ciò si aggiunge la difficoltà di accedere ai finanziamenti per la ricerca, che spinge molti scienziati a proseguire altrove il proprio lavoro.\n\nNegli ultimi tempi, tuttavia, alcune misure fiscali hanno cercato di invertire la tendenza, offrendo agevolazioni a chi decide di rientrare. Non tutti sono convinti della loro efficacia: secondo i critici, finché non cambierà la cultura del lavoro, gli incentivi economici da soli non basteranno.",
+  "translation": "Depuis des années, on parle de « fuite des cerveaux » pour décrire les jeunes diplômés qui quittent l'Italie à la recherche d'opportunités à l'étranger. Ingénieurs, médecins, chercheurs : beaucoup trouvent à Berlin, Londres ou Paris des salaires plus élevés et des carrières plus rapides.\n\nLes causes sont connues : salaires d'embauche bas, contrats précaires et un système où l'ancienneté compte souvent plus que le mérite. À cela s'ajoute la difficulté d'accéder aux financements de la recherche, qui pousse de nombreux scientifiques à poursuivre leur travail ailleurs.\n\nCes derniers temps, toutefois, certaines mesures fiscales ont tenté d'inverser la tendance, en offrant des avantages à ceux qui décident de revenir. Tout le monde n'est pas convaincu de leur efficacité : selon les critiques, tant que la culture du travail ne changera pas, les incitations financières ne suffiront pas à elles seules.",
+  "glossary": [
+    { "term": "laureati", "fr": "diplômés (de l'université)" },
+    { "term": "percorsi di carriera", "fr": "parcours professionnels" },
+    { "term": "precari", "fr": "précaires" },
+    { "term": "anzianità", "fr": "ancienneté" },
+    { "term": "altrove", "fr": "ailleurs" },
+    { "term": "invertire la tendenza", "fr": "inverser la tendance" },
+    { "term": "agevolazioni", "fr": "avantages, facilités (fiscales)" },
+    { "term": "rientrare", "fr": "revenir (au pays)" }
+  ],
+  "questions": [
+    { "q": "Que désigne la « fuga dei cervelli » ?", "options": ["Le départ de jeunes diplômés à l'étranger", "L'arrivée de chercheurs étrangers", "La baisse du niveau scolaire", "Le manque d'universités"], "answer": 0 },
+    { "q": "Quelle cause n'est PAS citée ?", "options": ["Les contrats précaires", "Les salaires bas", "Le climat", "Le poids de l'ancienneté"], "answer": 2 },
+    { "q": "Que pensent les critiques des mesures fiscales ?", "options": ["Qu'elles sont parfaites", "Qu'elles ne suffiront pas sans changement culturel", "Qu'elles coûtent trop cher", "Qu'il faut les supprimer"], "answer": 1 }
+  ]
+}

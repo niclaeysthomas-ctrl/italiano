@@ -1,0 +1,18 @@
+{
+  "id": "a2-riflessivi",
+  "level": "A2",
+  "order": 5,
+  "title": "Les verbes pronominaux",
+  "summary": "Alzarsi, vestirsi, divertirsi… au présent et au passé.",
+  "blocks": [
+    { "type": "table", "caption": "alzarsi (se lever)", "head": ["Personne", "présent", "passato prossimo"], "rows": [["io", "mi alzo", "mi sono alzato/a"], ["tu", "ti alzi", "ti sei alzato/a"], ["lui, lei", "si alza", "si è alzato/a"], ["noi", "ci alziamo", "ci siamo alzati/e"], ["voi", "vi alzate", "vi siete alzati/e"], ["loro", "si alzano", "si sono alzati/e"]] },
+    { "type": "rule", "text": "Au passé, les pronominaux prennent toujours essere, et le participe s'accorde avec le sujet." },
+    { "type": "tip", "text": "Avec un verbe modal, le pronom va devant ou se colle à l'infinitif : Mi devo alzare = Devo alzarmi." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Ogni mattina ___ alle sette.", "options": ["mi sveglio", "si sveglio", "sveglio", "ti svegli"], "answer": 0, "explanation": "Io → mi sveglio." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Ieri sera Anna ___ molto.", "options": ["ha divertito", "si è divertita", "si è divertito", "è divertita"], "answer": 1, "explanation": "Pronominal : essere + accord, si è divertita." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Devo ___ in fretta.", "options": ["mi vestire", "vestire", "vestirmi", "vestirsi"], "answer": 2, "explanation": "Pronom collé à l'infinitif : vestirmi." },
+    { "id": "e4", "type": "cloze", "prompt": "Conjugue chiamarsi (loro).", "text": "I miei figli ___ Luca e Sara.", "answers": ["si chiamano"], "explanation": "Loro → si chiamano." }
+  ]
+}

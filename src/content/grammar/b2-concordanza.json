@@ -1,0 +1,20 @@
+{
+  "id": "b2-concordanza",
+  "level": "B2",
+  "order": 1,
+  "title": "Le subjonctif imparfait et la concordance",
+  "summary": "Penso che sia / Pensavo che fosse : accorder les temps.",
+  "blocks": [
+    { "type": "table", "caption": "Subjonctif imparfait", "head": ["Personne", "parlare", "prendere", "essere"], "rows": [["che io", "parlassi", "prendessi", "fossi"], ["che tu", "parlassi", "prendessi", "fossi"], ["che lui, lei", "parlasse", "prendesse", "fosse"], ["che noi", "parlassimo", "prendessimo", "fossimo"], ["che voi", "parlaste", "prendeste", "foste"], ["che loro", "parlassero", "prendessero", "fossero"]] },
+    { "type": "table", "caption": "Concordance des temps", "head": ["Principale", "simultanéité", "antériorité"], "rows": [["présent : Penso che…", "sia", "sia stato"], ["passé : Pensavo che…", "fosse", "fosse stato"], ["conditionnel : Vorrei che…", "fosse", "fosse stato"]] },
+    { "type": "tip", "text": "Après vorrei che, on emploie toujours le subjonctif imparfait : Vorrei che tu venissi." },
+    { "type": "examples", "items": [{ "it": "Credevo che fossi in vacanza.", "fr": "Je croyais que tu étais en vacances." }, { "it": "Era il libro più bello che avessi mai letto.", "fr": "C'était le plus beau livre que j'aie jamais lu." }] }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Speravo che tu ___.", "options": ["venissi", "venga", "verrai", "vieni"], "answer": 0, "explanation": "Principale au passé : subjonctif imparfait." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Penso che ieri Marco ___ malato.", "options": ["fosse", "sia stato", "sia", "era"], "answer": 1, "explanation": "Principale au présent, fait antérieur : sia stato." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Vorrei che voi ___ più attenti.", "options": ["siate", "sarete", "foste", "eravate"], "answer": 2, "explanation": "Vorrei che + subjonctif imparfait : foste." },
+    { "id": "e4", "type": "cloze", "prompt": "Conjugue dire (loro).", "text": "Non sapevo che ___ la verità.", "answers": ["dicessero"], "explanation": "Dire → dicessero (radical dic-)." },
+    { "id": "e5", "type": "cloze", "prompt": "Conjugue stare (tu).", "text": "Temevo che tu ___ male.", "answers": ["stessi"], "explanation": "Stare → stessi." }
+  ]
+}

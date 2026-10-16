@@ -1,0 +1,20 @@
+{
+  "id": "a2-futuro",
+  "level": "A2",
+  "order": 3,
+  "title": "Le futur simple",
+  "summary": "Parler de projets, faire des suppositions.",
+  "blocks": [
+    { "type": "table", "caption": "Futur simple", "head": ["Personne", "parlare", "prendere", "partire"], "rows": [["io", "parlerò", "prenderò", "partirò"], ["tu", "parlerai", "prenderai", "partirai"], ["lui, lei", "parlerà", "prenderà", "partirà"], ["noi", "parleremo", "prenderemo", "partiremo"], ["voi", "parlerete", "prenderete", "partirete"], ["loro", "parleranno", "prenderanno", "partiranno"]] },
+    { "type": "rule", "text": "Les verbes en -are changent le a en e : parlare → parlerò. Irréguliers fréquents : essere → sarò, avere → avrò, andare → andrò, fare → farò, venire → verrò, volere → vorrò." },
+    { "type": "tip", "text": "Le futur sert aussi à faire une supposition : Dov'è Marco? — Sarà in ufficio. (Il doit être au bureau.)" },
+    { "type": "examples", "items": [{ "it": "L'anno prossimo andrò in Sicilia.", "fr": "L'an prochain, j'irai en Sicile." }, { "it": "Che ore sono? — Saranno le dieci.", "fr": "Quelle heure est-il ? — Il doit être dix heures." }] }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Domani ___ a casa tutto il giorno.", "options": ["sarò", "ero", "sono stato", "sia"], "answer": 0, "explanation": "Essere au futur : sarò." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Noi ___ la cena alle otto.", "options": ["mangiaremo", "mangeremo", "mangiamo", "mangiavamo"], "answer": 1, "explanation": "-are → -er- : mangeremo (le i disparaît)." },
+    { "id": "e3", "type": "choice", "prompt": "Il est sûrement fatigué :", "text": "___ stanco.", "options": ["È stato", "Era", "Sarà", "Sia"], "answer": 2, "explanation": "Supposition : futur." },
+    { "id": "e4", "type": "cloze", "prompt": "Conjugue venire (loro).", "text": "I miei amici ___ a trovarmi a maggio.", "answers": ["verranno"], "explanation": "Venire → verranno." },
+    { "id": "e5", "type": "cloze", "prompt": "Conjugue avere (tu).", "text": "Quando ___ tempo, chiamami.", "answers": ["avrai"], "explanation": "Avere → avrai." }
+  ]
+}

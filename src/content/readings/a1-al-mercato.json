@@ -1,0 +1,22 @@
+{
+  "id": "a1-al-mercato",
+  "level": "A1",
+  "title": "Al mercato",
+  "text": "Il sabato mattina vado al mercato con mia madre. Il mercato è in piazza, vicino alla chiesa. C'è molta gente.\n\nCompriamo la frutta e la verdura. Il signor Bruno vende pomodori, zucchine e arance. Mia madre chiede: «Quanto costano le arance?» Lui risponde: «Due euro al chilo.»\n\nPoi andiamo dal formaggiaio e prendiamo un pezzo di parmigiano. Alla fine beviamo un caffè al bar della piazza e torniamo a casa a piedi.",
+  "translation": "Le samedi matin, je vais au marché avec ma mère. Le marché est sur la place, près de l'église. Il y a beaucoup de monde.\n\nNous achetons des fruits et des légumes. M. Bruno vend des tomates, des courgettes et des oranges. Ma mère demande : « Combien coûtent les oranges ? » Il répond : « Deux euros le kilo. »\n\nEnsuite nous allons chez le fromager et nous prenons un morceau de parmesan. À la fin, nous buvons un café au bar de la place et nous rentrons à la maison à pied.",
+  "glossary": [
+    { "term": "molta gente", "fr": "beaucoup de monde" },
+    { "term": "vende", "fr": "vend" },
+    { "term": "pomodori", "fr": "tomates" },
+    { "term": "zucchine", "fr": "courgettes" },
+    { "term": "al chilo", "fr": "le kilo" },
+    { "term": "formaggiaio", "fr": "fromager" },
+    { "term": "un pezzo", "fr": "un morceau" },
+    { "term": "a piedi", "fr": "à pied" }
+  ],
+  "questions": [
+    { "q": "Quand va-t-elle au marché ?", "options": ["Le dimanche soir", "Le samedi matin", "Le lundi matin", "Tous les jours"], "answer": 1 },
+    { "q": "Combien coûtent les oranges ?", "options": ["Deux euros le kilo", "Un euro le kilo", "Trois euros pièce", "Ce n'est pas dit"], "answer": 0 },
+    { "q": "Comment rentrent-elles ?", "options": ["En bus", "En voiture", "À pied", "À vélo"], "answer": 2 }
+  ]
+}
