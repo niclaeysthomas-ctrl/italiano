@@ -42,7 +42,7 @@ export interface ReviewEntry {
   day: string;
 }
 
-export type AttemptKind = 'grammar' | 'reading' | 'dictation' | 'speaking';
+export type AttemptKind = 'grammar' | 'reading' | 'dictation' | 'speaking' | 'translation';
 
 export interface Attempt {
   id?: number;

@@ -7,6 +7,7 @@ Application web installable pour apprendre l'italien du niveau **A1** au niveau 
 - **Grammaire** : leçons courtes (règle, tableaux, exemples écoutables) et exercices corrigés (QCM, textes à trous).
 - **Lecture du jour** : un texte par jour adapté au niveau, glossaire au toucher, traduction, questions de compréhension, mots à envoyer dans ses cartes.
 - **Écoute** : synthèse vocale italienne partout, dictée avec correction mot à mot.
+- **Traduction écrite** : phrases du français vers l'italien, correction mot à mot, indice, validation de sa propre traduction.
 - **Oral** : répétition après le modèle avec reconnaissance vocale et score, enregistrement de sa voix pour se réécouter.
 - **Progression** : série de jours, statistiques, export et import de toutes les données.
 
@@ -21,7 +22,7 @@ Cette version pose **l'architecture complète** ; le contenu est un échantillon
 | Moteurs (répétition espacée, test adaptatif, comparaison de phrases, contenu du jour) | Fonctionnels et testés |
 | Écrans (accueil, test, cartes, grammaire, lecture, dictée, oral, profil) | Fonctionnels |
 | Stockage local, export/import | Fonctionnel |
-| Contenu | 565 cartes (mots, expressions et phrases entières, toutes avec un exemple traduit) dans 32 paquets ; 21 leçons de grammaire (A1 → C1), 10 lectures (deux par niveau), 25 questions de test |
+| Contenu | 670 cartes (mots, expressions et phrases entières, toutes avec un exemple traduit) dans 37 paquets ; 21 leçons de grammaire (A1 → C1), 10 lectures (deux par niveau), 25 questions de test |
 
 Limites connues, à garder en tête :
 

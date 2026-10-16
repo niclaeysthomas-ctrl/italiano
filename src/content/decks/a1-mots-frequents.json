@@ -1,0 +1,33 @@
+{
+  "id": "a1-mots-frequents",
+  "title": "Mots les plus fréquents",
+  "level": "A1",
+  "description": "Petits mots indispensables : questions, lieux, quantités.",
+  "notes": [
+    { "id": "a1f-chi", "it": "chi?", "fr": "qui ?", "example": "Chi è quella ragazza?", "exampleFr": "Qui est cette fille ?" },
+    { "id": "a1f-che-cosa", "it": "che cosa?", "fr": "quoi ? ; qu'est-ce que ?", "example": "Che cosa vuoi mangiare?", "exampleFr": "Qu'est-ce que tu veux manger ?" },
+    { "id": "a1f-quando", "it": "quando?", "fr": "quand ?", "example": "Quando parti per Roma?", "exampleFr": "Quand pars-tu pour Rome ?" },
+    { "id": "a1f-perche", "it": "perché?", "fr": "pourquoi ?", "example": "Perché non vieni con noi?", "exampleFr": "Pourquoi ne viens-tu pas avec nous ?" },
+    { "id": "a1f-come", "it": "come?", "fr": "comment ?", "example": "Come si chiama tuo figlio?", "exampleFr": "Comment s'appelle ton fils ?" },
+    { "id": "a1f-quale", "it": "quale?", "fr": "quel ? lequel ?", "example": "Quale preferisci, il rosso o il verde?", "exampleFr": "Lequel tu préfères, le rouge ou le vert ?" },
+    { "id": "a1f-quanti", "it": "quanti? quante?", "fr": "combien ?", "example": "Quante persone vengono stasera?", "exampleFr": "Combien de personnes viennent ce soir ?" },
+    { "id": "a1f-qui", "it": "qui, lì", "fr": "ici, là", "example": "Aspettami qui, torno subito.", "exampleFr": "Attends-moi ici, je reviens tout de suite." },
+    { "id": "a1f-subito", "it": "subito", "fr": "tout de suite", "example": "Arrivo subito!", "exampleFr": "J'arrive tout de suite !" },
+    { "id": "a1f-ancora", "it": "ancora", "fr": "encore", "example": "Vuoi ancora un po' di pasta?", "exampleFr": "Tu veux encore un peu de pâtes ?" },
+    { "id": "a1f-gia", "it": "già", "fr": "déjà", "example": "Hai già mangiato?", "exampleFr": "Tu as déjà mangé ?" },
+    { "id": "a1f-dopo", "it": "dopo, prima", "fr": "après, avant", "example": "Prima lavoro, dopo esco.", "exampleFr": "D'abord je travaille, après je sors." },
+    { "id": "a1f-insieme", "it": "insieme", "fr": "ensemble", "example": "Andiamo insieme al concerto?", "exampleFr": "On va ensemble au concert ?" },
+    { "id": "a1f-solo", "it": "solo", "fr": "seulement ; seul", "example": "Ho solo dieci minuti.", "exampleFr": "J'ai seulement dix minutes." },
+    { "id": "a1f-forse", "it": "forse", "fr": "peut-être", "example": "Forse domani piove.", "exampleFr": "Il pleuvra peut-être demain." },
+    { "id": "a1f-certo", "it": "certo", "fr": "bien sûr", "example": "Mi aiuti? — Certo!", "exampleFr": "Tu m'aides ? — Bien sûr !" },
+    { "id": "a1f-qualcosa", "it": "qualcosa", "fr": "quelque chose", "example": "Vuoi bere qualcosa?", "exampleFr": "Tu veux boire quelque chose ?" },
+    { "id": "a1f-tempo", "it": "il tempo", "fr": "le temps", "example": "Non ho tempo oggi.", "exampleFr": "Je n'ai pas le temps aujourd'hui." },
+    { "id": "a1f-soldi", "it": "i soldi", "fr": "l'argent", "example": "Non ho abbastanza soldi.", "exampleFr": "Je n'ai pas assez d'argent." },
+    { "id": "a1f-cosa", "it": "la cosa", "fr": "la chose", "example": "Ho tante cose da fare.", "exampleFr": "J'ai beaucoup de choses à faire." },
+    { "id": "a1f-persona", "it": "la persona, la gente", "fr": "la personne, les gens", "example": "La gente qui è molto cordiale.", "exampleFr": "Les gens ici sont très chaleureux." },
+    { "id": "a1f-paese", "it": "il paese", "fr": "le pays ; le village", "example": "Mio nonno vive in un piccolo paese.", "exampleFr": "Mon grand-père vit dans un petit village." },
+    { "id": "a1f-lingua", "it": "la lingua", "fr": "la langue", "example": "Parli altre lingue?", "exampleFr": "Tu parles d'autres langues ?" },
+    { "id": "a1f-parola", "it": "la parola", "fr": "le mot ; la parole", "example": "Non conosco questa parola.", "exampleFr": "Je ne connais pas ce mot." },
+    { "id": "a1f-telefono", "it": "il telefono, il cellulare", "fr": "le téléphone, le portable", "example": "Ho lasciato il cellulare a casa.", "exampleFr": "J'ai laissé mon portable à la maison." }
+  ]
+}

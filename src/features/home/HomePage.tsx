@@ -85,6 +85,14 @@ export function HomePage() {
           ) : (
             <TaskRow to="/grammaire" line="grammaire" icon="book" title="Grammaire" meta={`Pas encore de leçon ${level}, revois les précédentes`} />
           )}
+          <TaskRow
+            to="/traduction"
+            line="traduction"
+            icon="translate"
+            title="Traduction"
+            meta="8 phrases du français vers l’italien"
+            done={doneToday('translation')}
+          />
           <TaskRow to="/dictee" line="dictee" icon="pencil" title="Dictée" meta="5 phrases à écouter et écrire" done={doneToday('dictation')} />
           <TaskRow to="/oral" line="oral" icon="mic" title="Prononciation" meta="Répète après le modèle" done={doneToday('speaking')} />
         </ul>

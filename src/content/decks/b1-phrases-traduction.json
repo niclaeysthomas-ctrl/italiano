@@ -1,0 +1,28 @@
+{
+  "id": "b1-phrases-traduction",
+  "title": "Phrases à traduire : raconter et nuancer",
+  "level": "B1",
+  "description": "Subjonctif, conditionnel, pronoms : des phrases à produire en entier.",
+  "notes": [
+    { "id": "b1t-spero-che", "it": "Spero che tu stia meglio.", "fr": "J'espère que tu vas mieux.", "example": "Ho saputo che eri malato: spero che tu stia meglio.", "exampleFr": "J'ai appris que tu étais malade : j'espère que tu vas mieux." },
+    { "id": "b1t-penso-che-abbia", "it": "Penso che abbia ragione lei.", "fr": "Je pense que c'est elle qui a raison.", "example": "Ho ascoltato tutti e due, ma penso che abbia ragione lei.", "exampleFr": "J'ai écouté les deux, mais je pense que c'est elle qui a raison." },
+    { "id": "b1t-e-meglio-che", "it": "È meglio che tu parta presto.", "fr": "Il vaut mieux que tu partes tôt.", "example": "C'è sciopero domani: è meglio che tu parta presto.", "exampleFr": "Il y a grève demain : il vaut mieux que tu partes tôt." },
+    { "id": "b1t-glielo-dico", "it": "Glielo dico domani.", "fr": "Je le lui dis demain.", "example": "Non sa ancora niente, glielo dico domani.", "exampleFr": "Il ne sait encore rien, je le lui dis demain." },
+    { "id": "b1t-me-ne-sono-andato", "it": "Me ne sono andato prima della fine.", "fr": "Je suis parti avant la fin.", "example": "Il film era noioso, me ne sono andato prima della fine.", "exampleFr": "Le film était ennuyeux, je suis parti avant la fin." },
+    { "id": "b1t-non-ce-la-faccio", "it": "Non ce la faccio a finire entro stasera.", "fr": "Je n'arriverai pas à finir d'ici ce soir.", "example": "Mi dispiace, non ce la faccio a finire entro stasera.", "exampleFr": "Désolé, je n'arriverai pas à finir d'ici ce soir." },
+    { "id": "b1t-avrei-voluto", "it": "Avrei voluto venire, ma ero malato.", "fr": "J'aurais voulu venir, mais j'étais malade.", "example": "Scusa per la festa: avrei voluto venire, ma ero malato.", "exampleFr": "Désolé pour la fête : j'aurais voulu venir, mais j'étais malade." },
+    { "id": "b1t-se-avessi-tempo", "it": "Se avessi più tempo, leggerei di più.", "fr": "Si j'avais plus de temps, je lirais davantage.", "example": "Se avessi più tempo, leggerei di più e guarderei meno la TV.", "exampleFr": "Si j'avais plus de temps, je lirais davantage et regarderais moins la télé." },
+    { "id": "b1t-da-quando", "it": "Vivo a Torino da tre anni.", "fr": "J'habite à Turin depuis trois ans.", "example": "Vivo a Torino da tre anni e mi trovo benissimo.", "exampleFr": "J'habite à Turin depuis trois ans et je m'y plais beaucoup." },
+    { "id": "b1t-mi-hanno-detto", "it": "Mi hanno detto che il museo è chiuso.", "fr": "On m'a dit que le musée est fermé.", "example": "Non andare oggi: mi hanno detto che il museo è chiuso.", "exampleFr": "N'y va pas aujourd'hui : on m'a dit que le musée est fermé." },
+    { "id": "b1t-fammi-sapere", "it": "Fammi sapere se vieni.", "fr": "Dis-moi si tu viens.", "example": "Organizziamo una cena sabato: fammi sapere se vieni.", "exampleFr": "On organise un dîner samedi : dis-moi si tu viens." },
+    { "id": "b1t-prima-che", "it": "Torna a casa prima che faccia buio.", "fr": "Rentre à la maison avant qu'il fasse nuit.", "example": "Puoi giocare fuori, ma torna a casa prima che faccia buio.", "exampleFr": "Tu peux jouer dehors, mais rentre avant qu'il fasse nuit." },
+    { "id": "b1t-senza-che", "it": "È uscito senza che nessuno se ne accorgesse.", "fr": "Il est sorti sans que personne ne s'en aperçoive.", "example": "È uscito dalla riunione senza che nessuno se ne accorgesse.", "exampleFr": "Il est sorti de la réunion sans que personne ne s'en aperçoive." },
+    { "id": "b1t-piu-di-quanto", "it": "È più difficile di quanto pensassi.", "fr": "C'est plus difficile que je ne le pensais.", "example": "Questo esame è più difficile di quanto pensassi.", "exampleFr": "Cet examen est plus difficile que je ne le pensais." },
+    { "id": "b1t-la-persona-con-cui", "it": "È la persona con cui lavoro.", "fr": "C'est la personne avec qui je travaille.", "example": "Ti presento Anna: è la persona con cui lavoro.", "exampleFr": "Je te présente Anna : c'est la personne avec qui je travaille." },
+    { "id": "b1t-stavo-per", "it": "Stavo per chiamarti!", "fr": "J'allais justement t'appeler !", "example": "Che coincidenza, stavo per chiamarti!", "exampleFr": "Quelle coïncidence, j'allais justement t'appeler !" },
+    { "id": "b1t-nonostante", "it": "Nonostante il traffico, siamo arrivati in tempo.", "fr": "Malgré la circulation, nous sommes arrivés à temps.", "example": "Nonostante il traffico, siamo arrivati in tempo per il treno.", "exampleFr": "Malgré la circulation, nous sommes arrivés à temps pour le train." },
+    { "id": "b1t-si-puo", "it": "Si può pagare con la carta?", "fr": "On peut payer par carte ?", "example": "Scusi, qui si può pagare con la carta?", "exampleFr": "Excusez-moi, ici on peut payer par carte ?" },
+    { "id": "b1t-dovresti", "it": "Dovresti dormire di più.", "fr": "Tu devrais dormir davantage.", "example": "Hai l'aria stanca: dovresti dormire di più.", "exampleFr": "Tu as l'air fatigué : tu devrais dormir davantage." },
+    { "id": "b1t-ci-penso-io", "it": "Ci penso io.", "fr": "Je m'en occupe.", "example": "Non preoccuparti per i biglietti, ci penso io.", "exampleFr": "Ne t'inquiète pas pour les billets, je m'en occupe." }
+  ]
+}

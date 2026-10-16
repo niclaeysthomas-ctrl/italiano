@@ -12,6 +12,7 @@ import { PlacementPage } from '../features/placement/PlacementPage.tsx';
 import { DictationPage } from '../features/practice/DictationPage.tsx';
 import { PracticePage } from '../features/practice/PracticePage.tsx';
 import { SpeakingPage } from '../features/practice/SpeakingPage.tsx';
+import { TranslationPage } from '../features/practice/TranslationPage.tsx';
 import { ProfilePage } from '../features/profile/ProfilePage.tsx';
 import { ReadingPage } from '../features/reading/ReadingPage.tsx';
 import { WelcomePage } from '../features/welcome/WelcomePage.tsx';
@@ -36,6 +37,7 @@ const ROUTES: Route[] = [
   { pattern: '/lecture/:id', render: ({ id }) => <ReadingPage id={id} /> },
   { pattern: '/dictee', render: () => <DictationPage /> },
   { pattern: '/oral', render: () => <SpeakingPage /> },
+  { pattern: '/traduction', render: () => <TranslationPage /> },
   { pattern: '/profil', render: () => <ProfilePage /> },
   { pattern: '/test', render: () => <PlacementPage />, focus: true },
 ];

@@ -1,0 +1,28 @@
+{
+  "id": "c1-argumentation",
+  "title": "Débattre et argumenter finement",
+  "level": "C1",
+  "description": "Concéder, objecter, nuancer à l'oral comme à l'écrit.",
+  "notes": [
+    { "id": "c1a-e-pur-vero", "it": "È pur vero che…, ma…", "fr": "Il est vrai que…, mais…", "example": "È pur vero che costa molto, ma la qualità è indiscutibile.", "exampleFr": "Il est vrai que ça coûte cher, mais la qualité est indiscutable." },
+    { "id": "c1a-non-a-caso", "it": "non a caso", "fr": "ce n'est pas un hasard si", "example": "Non a caso, il progetto è stato premiato.", "exampleFr": "Ce n'est pas un hasard si le projet a été récompensé." },
+    { "id": "c1a-tutt-altro", "it": "tutt'altro", "fr": "bien au contraire ; loin de là", "example": "Non è stato un fallimento, tutt'altro.", "exampleFr": "Ce n'est pas un échec, loin de là." },
+    { "id": "c1a-a-mio-avviso", "it": "a mio avviso", "fr": "à mon avis", "example": "A mio avviso, la proposta va rivista.", "exampleFr": "À mon avis, la proposition doit être revue." },
+    { "id": "c1a-di-fatto", "it": "di fatto", "fr": "de fait ; dans les faits", "example": "La legge esiste, ma di fatto non viene applicata.", "exampleFr": "La loi existe, mais dans les faits elle n'est pas appliquée." },
+    { "id": "c1a-in-ultima-analisi", "it": "in ultima analisi", "fr": "en dernière analyse", "example": "In ultima analisi, la responsabilità è della direzione.", "exampleFr": "En dernière analyse, la responsabilité incombe à la direction." },
+    { "id": "c1a-per-giunta", "it": "per giunta", "fr": "qui plus est ; en plus", "example": "Era in ritardo e, per giunta, senza documenti.", "exampleFr": "Il était en retard et, qui plus est, sans papiers." },
+    { "id": "c1a-ciononostante", "it": "ciononostante", "fr": "malgré cela", "example": "Il tempo era pessimo; ciononostante, la gara si è svolta.", "exampleFr": "Le temps était épouvantable ; malgré cela, la course a eu lieu." },
+    { "id": "c1a-confutare", "it": "confutare", "fr": "réfuter", "example": "I dati confutano questa ipotesi.", "exampleFr": "Les données réfutent cette hypothèse." },
+    { "id": "c1a-avvalorare", "it": "avvalorare", "fr": "corroborer ; étayer", "example": "Nuove prove avvalorano la sua versione.", "exampleFr": "De nouvelles preuves corroborent sa version." },
+    { "id": "c1a-ridimensionare", "it": "ridimensionare", "fr": "relativiser ; revoir à la baisse", "example": "Bisogna ridimensionare le aspettative.", "exampleFr": "Il faut revoir les attentes à la baisse." },
+    { "id": "c1a-strumentalizzare", "it": "strumentalizzare", "fr": "instrumentaliser", "example": "Il tema è stato strumentalizzato in campagna elettorale.", "exampleFr": "Le sujet a été instrumentalisé pendant la campagne électorale." },
+    { "id": "c1a-presupposto", "it": "il presupposto", "fr": "la condition préalable ; le postulat", "example": "La fiducia è il presupposto di ogni accordo.", "exampleFr": "La confiance est la condition préalable de tout accord." },
+    { "id": "c1a-nodo", "it": "il nodo", "fr": "le nœud ; le point crucial", "example": "Il nodo della questione è il finanziamento.", "exampleFr": "Le nœud de la question, c'est le financement." },
+    { "id": "c1a-fuorviante", "it": "fuorviante", "fr": "trompeur ; qui induit en erreur", "example": "Il titolo dell'articolo è fuorviante.", "exampleFr": "Le titre de l'article est trompeur." },
+    { "id": "c1a-opinabile", "it": "opinabile", "fr": "discutable", "example": "La sua interpretazione è quantomeno opinabile.", "exampleFr": "Son interprétation est pour le moins discutable." },
+    { "id": "c1a-quantomeno", "it": "quantomeno", "fr": "pour le moins ; au moins", "example": "Avresti potuto quantomeno avvisarmi.", "exampleFr": "Tu aurais pu au moins me prévenir." },
+    { "id": "c1a-viceversa", "it": "viceversa", "fr": "inversement", "example": "Ciò che vale per i genitori vale viceversa per i figli.", "exampleFr": "Ce qui vaut pour les parents vaut inversement pour les enfants." },
+    { "id": "c1a-sta-di-fatto", "it": "Sta di fatto che…", "fr": "Toujours est-il que…", "example": "Dici di averlo spedito; sta di fatto che non è arrivato.", "exampleFr": "Tu dis l'avoir envoyé ; toujours est-il qu'il n'est pas arrivé." },
+    { "id": "c1a-a-prescindere", "it": "a prescindere", "fr": "par principe ; quoi qu'il en soit", "example": "È contrario a prescindere, senza ascoltare.", "exampleFr": "Il est contre par principe, sans écouter." }
+  ]
+}

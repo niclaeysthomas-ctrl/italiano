@@ -1,0 +1,28 @@
+{
+  "id": "b2-cultura",
+  "title": "Culture, arts et société",
+  "level": "B2",
+  "description": "Parler de cinéma, de littérature, d'histoire et de patrimoine.",
+  "notes": [
+    { "id": "b2c-regista", "it": "il/la regista", "fr": "le/la réalisateur(trice)", "example": "Il regista ha vinto un premio a Venezia.", "exampleFr": "Le réalisateur a gagné un prix à Venise." },
+    { "id": "b2c-trama", "it": "la trama", "fr": "l'intrigue", "example": "La trama è avvincente fino all'ultima pagina.", "exampleFr": "L'intrigue est captivante jusqu'à la dernière page." },
+    { "id": "b2c-recensione", "it": "la recensione", "fr": "la critique (d'une œuvre)", "example": "Il film ha ricevuto ottime recensioni.", "exampleFr": "Le film a reçu d'excellentes critiques." },
+    { "id": "b2c-colonna-sonora", "it": "la colonna sonora", "fr": "la bande originale", "example": "La colonna sonora è di Ennio Morricone.", "exampleFr": "La bande originale est d'Ennio Morricone." },
+    { "id": "b2c-capolavoro", "it": "il capolavoro", "fr": "le chef-d'œuvre", "example": "Questo affresco è un capolavoro del Rinascimento.", "exampleFr": "Cette fresque est un chef-d'œuvre de la Renaissance." },
+    { "id": "b2c-patrimonio", "it": "il patrimonio", "fr": "le patrimoine", "example": "L'Italia ha un patrimonio artistico immenso.", "exampleFr": "L'Italie possède un patrimoine artistique immense." },
+    { "id": "b2c-restauro", "it": "il restauro", "fr": "la restauration (d'une œuvre)", "example": "La chiesa è chiusa per restauro.", "exampleFr": "L'église est fermée pour restauration." },
+    { "id": "b2c-romanzo", "it": "il romanzo", "fr": "le roman", "example": "Ho appena finito un romanzo di Elena Ferrante.", "exampleFr": "Je viens de finir un roman d'Elena Ferrante." },
+    { "id": "b2c-saggio", "it": "il saggio", "fr": "l'essai", "example": "Ha scritto un saggio sulla storia della lingua.", "exampleFr": "Il a écrit un essai sur l'histoire de la langue." },
+    { "id": "b2c-ambientato", "it": "essere ambientato", "fr": "se dérouler (une histoire)", "example": "Il romanzo è ambientato a Napoli negli anni Cinquanta.", "exampleFr": "Le roman se déroule à Naples dans les années cinquante." },
+    { "id": "b2c-protagonista", "it": "il/la protagonista", "fr": "le personnage principal", "example": "La protagonista è una giovane avvocata.", "exampleFr": "Le personnage principal est une jeune avocate." },
+    { "id": "b2c-tradizione", "it": "la tradizione", "fr": "la tradition", "example": "Ogni regione ha le sue tradizioni culinarie.", "exampleFr": "Chaque région a ses traditions culinaires." },
+    { "id": "b2c-secolo", "it": "il secolo", "fr": "le siècle", "example": "Il palazzo risale al sedicesimo secolo.", "exampleFr": "Le palais date du XVIe siècle." },
+    { "id": "b2c-risalire", "it": "risalire a", "fr": "remonter à ; dater de", "example": "Queste mura risalgono all'epoca romana.", "exampleFr": "Ces murs remontent à l'époque romaine." },
+    { "id": "b2c-mostra-temporanea", "it": "la mostra temporanea", "fr": "l'exposition temporaire", "example": "La mostra temporanea chiude a fine mese.", "exampleFr": "L'exposition temporaire ferme à la fin du mois." },
+    { "id": "b2c-palcoscenico", "it": "il palcoscenico", "fr": "la scène (théâtre)", "example": "L'attrice è salita sul palcoscenico tra gli applausi.", "exampleFr": "L'actrice est montée sur scène sous les applaudissements." },
+    { "id": "b2c-sottotitoli", "it": "i sottotitoli", "fr": "les sous-titres", "example": "Guardo i film in italiano con i sottotitoli.", "exampleFr": "Je regarde les films en italien avec les sous-titres." },
+    { "id": "b2c-uscire-film", "it": "uscire (un film, un libro)", "fr": "sortir (un film, un livre)", "example": "Il suo nuovo libro esce a novembre.", "exampleFr": "Son nouveau livre sort en novembre." },
+    { "id": "b2c-colpire", "it": "colpire", "fr": "frapper ; marquer", "example": "Mi ha colpito la sincerità del racconto.", "exampleFr": "La sincérité du récit m'a frappé." },
+    { "id": "b2c-commuovere", "it": "commuovere (commosso)", "fr": "émouvoir (ému)", "example": "Il finale mi ha commosso.", "exampleFr": "La fin m'a ému." }
+  ]
+}

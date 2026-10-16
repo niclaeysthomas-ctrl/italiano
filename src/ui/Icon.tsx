@@ -14,6 +14,7 @@ const PATHS = {
   chevron: 'm9 5 7 7-7 7',
   plus: 'M12 5v14M5 12h14',
   read: 'M5 5h14M5 9.5h14M5 14h9M5 18.5h6',
+  translate: 'M4 5h8M8 3v2m-3 0c.5 3 2.5 5.5 6 7M11 5c-.5 3-2.5 5.5-6 7m7 8 4-9 4 9m-6.5-3h5',
   pencil: 'M4 20h4L19 9l-4-4L4 16zM13.5 6.5l4 4',
 } as const;
 

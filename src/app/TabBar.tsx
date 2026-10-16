@@ -5,7 +5,7 @@ const TABS: { to: string; label: string; icon: IconName; match: (path: string) =
   { to: '/', label: 'Accueil', icon: 'home', match: (p) => p === '/' },
   { to: '/cartes', label: 'Cartes', icon: 'cards', match: (p) => p.startsWith('/cartes') },
   { to: '/grammaire', label: 'Grammaire', icon: 'book', match: (p) => p.startsWith('/grammaire') },
-  { to: '/pratique', label: 'Pratique', icon: 'wave', match: (p) => ['/pratique', '/lecture', '/dictee', '/oral'].some((s) => p.startsWith(s)) },
+  { to: '/pratique', label: 'Pratique', icon: 'wave', match: (p) => ['/pratique', '/lecture', '/dictee', '/oral', '/traduction'].some((s) => p.startsWith(s)) },
   { to: '/profil', label: 'Profil', icon: 'user', match: (p) => p.startsWith('/profil') },
 ];
 

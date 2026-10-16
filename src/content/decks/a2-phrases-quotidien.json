@@ -1,0 +1,28 @@
+{
+  "id": "a2-phrases-quotidien",
+  "title": "Phrases à traduire : le quotidien",
+  "level": "A2",
+  "description": "Raconter sa journée, ses habitudes et ses projets.",
+  "notes": [
+    { "id": "a2q-di-solito", "it": "Di solito mi alzo alle sette.", "fr": "D'habitude, je me lève à sept heures.", "example": "Di solito mi alzo alle sette, ma oggi ho dormito fino alle nove.", "exampleFr": "D'habitude je me lève à sept heures, mais aujourd'hui j'ai dormi jusqu'à neuf heures." },
+    { "id": "a2q-vado-in-palestra", "it": "Vado in palestra due volte a settimana.", "fr": "Je vais à la salle de sport deux fois par semaine.", "example": "Vado in palestra due volte a settimana, il martedì e il giovedì.", "exampleFr": "Je vais à la salle deux fois par semaine, le mardi et le jeudi." },
+    { "id": "a2q-ci-metto", "it": "Ci metto mezz'ora per andare al lavoro.", "fr": "Je mets une demi-heure pour aller au travail.", "example": "In bici ci metto mezz'ora per andare al lavoro.", "exampleFr": "À vélo, je mets une demi-heure pour aller au travail." },
+    { "id": "a2q-stasera-penso", "it": "Stasera penso di restare a casa.", "fr": "Ce soir, je pense rester à la maison.", "example": "Sono stanco: stasera penso di restare a casa.", "exampleFr": "Je suis fatigué : ce soir je pense rester à la maison." },
+    { "id": "a2q-non-ho-mai", "it": "Non sono mai stato in Sardegna.", "fr": "Je ne suis jamais allé en Sardaigne.", "example": "Non sono mai stato in Sardegna, ma vorrei andarci.", "exampleFr": "Je ne suis jamais allé en Sardaigne, mais j'aimerais y aller." },
+    { "id": "a2q-l-anno-scorso", "it": "L'anno scorso ho cambiato lavoro.", "fr": "L'année dernière, j'ai changé de travail.", "example": "L'anno scorso ho cambiato lavoro e ora sono più contento.", "exampleFr": "L'année dernière j'ai changé de travail et maintenant je suis plus content." },
+    { "id": "a2q-mi-piacerebbe-imparare", "it": "Mi piace cucinare, soprattutto la pasta.", "fr": "J'aime cuisiner, surtout les pâtes.", "example": "Mi piace cucinare, soprattutto la pasta fresca.", "exampleFr": "J'aime cuisiner, surtout les pâtes fraîches." },
+    { "id": "a2q-sono-appena", "it": "Sono appena tornato dalle vacanze.", "fr": "Je viens de rentrer de vacances.", "example": "Sono appena tornato dalle vacanze e ho tanto lavoro.", "exampleFr": "Je viens de rentrer de vacances et j'ai beaucoup de travail." },
+    { "id": "a2q-ho-dimenticato", "it": "Ho dimenticato di comprare il pane.", "fr": "J'ai oublié d'acheter du pain.", "example": "Accidenti, ho dimenticato di comprare il pane!", "exampleFr": "Zut, j'ai oublié d'acheter du pain !" },
+    { "id": "a2q-che-fai-domani", "it": "Che cosa fai domani pomeriggio?", "fr": "Qu'est-ce que tu fais demain après-midi ?", "example": "Che cosa fai domani pomeriggio? Andiamo al parco?", "exampleFr": "Qu'est-ce que tu fais demain après-midi ? On va au parc ?" },
+    { "id": "a2q-non-mi-sento", "it": "Oggi non mi sento molto bene.", "fr": "Aujourd'hui, je ne me sens pas très bien.", "example": "Oggi non mi sento molto bene, resto a letto.", "exampleFr": "Aujourd'hui je ne me sens pas très bien, je reste au lit." },
+    { "id": "a2q-ho-preso-il-raffreddore", "it": "Ho preso il raffreddore.", "fr": "J'ai attrapé un rhume.", "example": "Con questo freddo ho preso il raffreddore.", "exampleFr": "Avec ce froid, j'ai attrapé un rhume." },
+    { "id": "a2q-quanto-tempo-fa", "it": "Ci siamo conosciuti tre anni fa.", "fr": "Nous nous sommes rencontrés il y a trois ans.", "example": "Ci siamo conosciuti tre anni fa a una festa.", "exampleFr": "Nous nous sommes rencontrés il y a trois ans à une fête." },
+    { "id": "a2q-mi-serve", "it": "Mi serve una mano.", "fr": "J'ai besoin d'un coup de main.", "example": "Mi serve una mano per spostare il divano.", "exampleFr": "J'ai besoin d'un coup de main pour déplacer le canapé." },
+    { "id": "a2q-faccio-fatica", "it": "Faccio fatica a capire il dialetto.", "fr": "J'ai du mal à comprendre le dialecte.", "example": "Capisco l'italiano, ma faccio fatica a capire il dialetto.", "exampleFr": "Je comprends l'italien, mais j'ai du mal à comprendre le dialecte." },
+    { "id": "a2q-mentre-aspettavo", "it": "Mentre aspettavo l'autobus, ha cominciato a piovere.", "fr": "Pendant que j'attendais le bus, il a commencé à pleuvoir.", "example": "Mentre aspettavo l'autobus, ha cominciato a piovere forte.", "exampleFr": "Pendant que j'attendais le bus, il a commencé à pleuvoir fort." },
+    { "id": "a2q-quando-arrivo", "it": "Quando arrivo, ti mando un messaggio.", "fr": "Quand j'arrive, je t'envoie un message.", "example": "Quando arrivo a Milano, ti mando un messaggio.", "exampleFr": "Quand j'arriverai à Milan, je t'enverrai un message." },
+    { "id": "a2q-meglio-di", "it": "Questo ristorante è meglio di quello.", "fr": "Ce restaurant est meilleur que celui-là.", "example": "Secondo me questo ristorante è meglio di quello in piazza.", "exampleFr": "À mon avis ce restaurant est meilleur que celui de la place." },
+    { "id": "a2q-ne-ho-due", "it": "Ne ho comprati due.", "fr": "J'en ai acheté deux.", "example": "Erano in offerta, quindi ne ho comprati due.", "exampleFr": "Ils étaient en promotion, donc j'en ai acheté deux." },
+    { "id": "a2q-ci-vado", "it": "Ci vado domani.", "fr": "J'y vais demain.", "example": "Sei già stato in banca? — No, ci vado domani.", "exampleFr": "Tu es déjà allé à la banque ? — Non, j'y vais demain." }
+  ]
+}

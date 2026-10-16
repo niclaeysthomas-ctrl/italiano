@@ -1,7 +1,7 @@
 import type { ReactNode } from 'react';
 import { Icon } from './Icon.tsx';
 
-export type Line = 'cartes' | 'grammaire' | 'lecture' | 'dictee' | 'oral' | 'neutre';
+export type Line = 'cartes' | 'grammaire' | 'lecture' | 'dictee' | 'oral' | 'traduction' | 'neutre';
 
 interface Props {
   title: string;

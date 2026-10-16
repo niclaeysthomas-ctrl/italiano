@@ -27,6 +27,7 @@
   --l-lecture: #e9b400;
   --l-dictee: #1b63b5;
   --l-oral: #8a55b0;
+  --l-traduction: #0f8a85;
   --l-neutre: #4b575d;
 
   --on-line: #ffffff;
@@ -58,6 +59,7 @@
     --l-grammaire: #2f9a5d;
     --l-dictee: #3b82d6;
     --l-oral: #a477c9;
+    --l-traduction: #2bb3ac;
     --l-neutre: #8a9792;
   }
 }
@@ -212,6 +214,9 @@ textarea {
 }
 .line-oral {
   --line: var(--l-oral);
+}
+.line-traduction {
+  --line: var(--l-traduction);
 }
 .line-neutre {
   --line: var(--l-neutre);
@@ -1314,4 +1319,18 @@ audio {
   .app {
     padding-top: 24px;
   }
+}
+
+/* ---------- Traduction ---------- */
+
+.translate__fr {
+  font-size: 22px;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.translate__hint {
+  font-size: 20px;
+  letter-spacing: 0.04em;
+  color: var(--ink-2);
 }

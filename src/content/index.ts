@@ -38,6 +38,12 @@ import deck_c1_nuances from './decks/c1-nuances.json';
 import deck_c1_phrases from './decks/c1-phrases.json';
 import deck_c1_registre from './decks/c1-registre.json';
 
+import deck_a1_mots_frequents from './decks/a1-mots-frequents.json';
+import deck_a2_phrases_quotidien from './decks/a2-phrases-quotidien.json';
+import deck_b1_phrases_traduction from './decks/b1-phrases-traduction.json';
+import deck_b2_cultura from './decks/b2-cultura.json';
+import deck_c1_argumentation from './decks/c1-argumentation.json';
+
 import placement from './placement/questions.json';
 
 import lesson_a1_articoli from './grammar/a1-articoli.json';
@@ -81,6 +87,7 @@ export const decks: Deck[] = [
   // Ordre d'apparition des nouvelles cartes au sein d'un niveau.
   deck_a1_essentiels,
   deck_a1_phrases,
+  deck_a1_mots_frequents,
   deck_a1_nombres_temps,
   deck_a1_personnes,
   deck_a1_verbes,
@@ -90,12 +97,14 @@ export const decks: Deck[] = [
   deck_a2_quotidien,
   deck_a2_verbes_expressions,
   deck_a2_phrases,
+  deck_a2_phrases_quotidien,
   deck_a2_casa,
   deck_a2_acquisti,
   deck_a2_viaggi,
   deck_a2_lavoro_salute,
   deck_b1_nuances,
   deck_b1_phrases,
+  deck_b1_phrases_traduction,
   deck_b1_verbes,
   deck_b1_emozioni,
   deck_b1_societe,
@@ -106,11 +115,13 @@ export const decks: Deck[] = [
   deck_b2_verbes,
   deck_b2_idiomes,
   deck_b2_societe_economie,
+  deck_b2_cultura,
   deck_c1_registre,
   deck_c1_phrases,
   deck_c1_langue_soutenue,
   deck_c1_nuances,
   deck_c1_idiomes,
+  deck_c1_argumentation,
 ].map((d) => as<Deck>(d));
 
 export const placementQuestions: PlacementQuestion[] = as<PlacementQuestion[]>(placement);
