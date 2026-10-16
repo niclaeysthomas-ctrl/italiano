@@ -1,0 +1,12 @@
+{
+  "id": "b2-argumenter",
+  "title": "Argumenter",
+  "level": "B2",
+  "description": "Concession, prise de position et expressions de l'actualité.",
+  "notes": [
+    { "id": "b2-nonostante", "it": "nonostante", "fr": "malgré ; bien que", "example": "Nonostante la pioggia, siamo usciti.", "exampleFr": "Malgré la pluie, nous sommes sortis." },
+    { "id": "b2-rendersi-conto", "it": "rendersi conto", "fr": "se rendre compte", "example": "Non mi ero reso conto dell'errore.", "exampleFr": "Je ne m'étais pas rendu compte de l'erreur." },
+    { "id": "b2-punto-di-vista", "it": "il punto di vista", "fr": "le point de vue", "example": "Capisco il tuo punto di vista.", "exampleFr": "Je comprends ton point de vue." },
+    { "id": "b2-ribadire", "it": "ribadire", "fr": "réaffirmer ; répéter avec insistance", "example": "Il ministro ha ribadito la sua posizione.", "exampleFr": "Le ministre a réaffirmé sa position." }
+  ]
+}

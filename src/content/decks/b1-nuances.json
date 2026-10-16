@@ -1,0 +1,14 @@
+{
+  "id": "b1-nuances",
+  "title": "Nuances et connecteurs",
+  "level": "B1",
+  "description": "Mots de liaison et verbes utiles pour argumenter.",
+  "notes": [
+    { "id": "b1-riuscire", "it": "riuscire a", "fr": "réussir à ; arriver à", "example": "Non riesco a dormire.", "exampleFr": "Je n'arrive pas à dormir." },
+    { "id": "b1-ormai", "it": "ormai", "fr": "désormais ; maintenant (il est trop tard)", "example": "Ormai è troppo tardi.", "exampleFr": "Maintenant, il est trop tard." },
+    { "id": "b1-affrontare", "it": "affrontare", "fr": "affronter", "example": "Dobbiamo affrontare il problema.", "exampleFr": "Nous devons affronter le problème." },
+    { "id": "b1-colloquio", "it": "il colloquio", "fr": "l'entretien", "example": "Domani ho un colloquio di lavoro.", "exampleFr": "Demain, j'ai un entretien d'embauche." },
+    { "id": "b1-magari", "it": "magari", "fr": "peut-être ; j'aimerais bien", "example": "Magari ci vediamo stasera.", "exampleFr": "Peut-être qu'on se voit ce soir." },
+    { "id": "b1-in-realta", "it": "in realtà", "fr": "en fait ; en réalité", "example": "In realtà non ho fame.", "exampleFr": "En fait, je n'ai pas faim." }
+  ]
+}

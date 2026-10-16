@@ -1,0 +1,12 @@
+{
+  "id": "c1-registre",
+  "title": "Registre soutenu",
+  "level": "C1",
+  "description": "Tournures écrites et administratives.",
+  "notes": [
+    { "id": "c1-qualora", "it": "qualora", "fr": "au cas où ; si jamais", "example": "Qualora fosse necessario, la richiameremo.", "exampleFr": "Si nécessaire, nous vous rappellerons." },
+    { "id": "c1-avvalersi", "it": "avvalersi di", "fr": "recourir à ; faire appel à", "example": "L'azienda si avvale di consulenti esterni.", "exampleFr": "L'entreprise fait appel à des consultants externes." },
+    { "id": "c1-a-prescindere", "it": "a prescindere da", "fr": "indépendamment de", "example": "A prescindere dal risultato, è stata un'esperienza utile.", "exampleFr": "Indépendamment du résultat, ce fut une expérience utile." },
+    { "id": "c1-sfociare", "it": "sfociare in", "fr": "déboucher sur ; dégénérer en", "example": "La discussione è sfociata in un litigio.", "exampleFr": "La discussion a dégénéré en dispute." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a1-la-mia-giornata",
+  "level": "A1",
+  "title": "La mia giornata",
+  "text": "Mi chiamo Luca e abito a Bologna. Ogni mattina mi sveglio alle sette. Faccio colazione con un caffè e un cornetto.\n\nPoi prendo l'autobus e vado al lavoro. Lavoro in una libreria in centro. A pranzo mangio un panino con i colleghi.\n\nLa sera torno a casa, cucino la cena e leggo un libro. Il sabato vedo i miei amici.",
+  "translation": "Je m'appelle Luca et j'habite à Bologne. Chaque matin, je me réveille à sept heures. Je prends mon petit-déjeuner avec un café et un croissant.\n\nEnsuite, je prends le bus et je vais au travail. Je travaille dans une librairie du centre-ville. Le midi, je mange un sandwich avec mes collègues.\n\nLe soir, je rentre à la maison, je prépare le dîner et je lis un livre. Le samedi, je vois mes amis.",
+  "glossary": [
+    { "term": "abito", "fr": "j'habite" },
+    { "term": "mi sveglio", "fr": "je me réveille" },
+    { "term": "colazione", "fr": "le petit-déjeuner" },
+    { "term": "cornetto", "fr": "croissant (à l'italienne)" },
+    { "term": "libreria", "fr": "librairie (faux ami : pas « bibliothèque »)" },
+    { "term": "pranzo", "fr": "le déjeuner" },
+    { "term": "colleghi", "fr": "les collègues" },
+    { "term": "la sera", "fr": "le soir" }
+  ],
+  "questions": [
+    { "q": "Où habite Luca ?", "options": ["À Rome", "À Bologne", "À Milan", "À Naples"], "answer": 1 },
+    { "q": "Où travaille-t-il ?", "options": ["Dans une bibliothèque", "Dans un bar", "Dans une librairie", "Dans une école"], "answer": 2 },
+    { "q": "Que fait-il le soir ?", "options": ["Il cuisine et il lit", "Il va au cinéma", "Il travaille", "Il voit ses amis"], "answer": 0 }
+  ]
+}

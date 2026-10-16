@@ -1,0 +1,22 @@
+{
+  "id": "b2-paradosso-del-turismo",
+  "level": "B2",
+  "title": "Il paradosso del turismo",
+  "text": "Ogni anno milioni di visitatori affollano le calli di Venezia, attratti da una bellezza che sembra sospesa nel tempo. Eppure proprio questo successo rischia di compromettere ciò che lo rende possibile.\n\nGli abitanti del centro storico sono diminuiti in modo drastico negli ultimi decenni, mentre gli affitti brevi per turisti hanno sostituito molte abitazioni tradizionali. Per arginare il fenomeno, il Comune ha introdotto un contributo d'accesso per i visitatori giornalieri nei periodi di maggiore affluenza.\n\nI sostenitori della misura ritengono che sia un primo passo necessario; i critici, invece, temono che trasformi la città in un museo a pagamento, senza affrontare le cause profonde dello spopolamento.",
+  "translation": "Chaque année, des millions de visiteurs envahissent les ruelles de Venise, attirés par une beauté qui semble suspendue dans le temps. Et pourtant, ce succès même risque de compromettre ce qui le rend possible.\n\nLe nombre d'habitants du centre historique a chuté de façon spectaculaire au cours des dernières décennies, tandis que les locations de courte durée pour touristes ont remplacé de nombreux logements traditionnels. Pour endiguer le phénomène, la municipalité a instauré une contribution d'accès pour les visiteurs à la journée lors des périodes de forte affluence.\n\nLes partisans de la mesure estiment qu'il s'agit d'un premier pas nécessaire ; les critiques, en revanche, craignent qu'elle transforme la ville en musée payant, sans s'attaquer aux causes profondes du dépeuplement.",
+  "glossary": [
+    { "term": "affollano", "fr": "envahissent, se pressent dans" },
+    { "term": "calli", "fr": "les ruelles (à Venise)" },
+    { "term": "eppure", "fr": "et pourtant" },
+    { "term": "affitti brevi", "fr": "les locations de courte durée" },
+    { "term": "arginare", "fr": "endiguer" },
+    { "term": "affluenza", "fr": "l'affluence" },
+    { "term": "ritengono", "fr": "estiment" },
+    { "term": "spopolamento", "fr": "le dépeuplement" }
+  ],
+  "questions": [
+    { "q": "Quel paradoxe décrit le texte ?", "options": ["Le succès touristique menace ce qui attire les touristes", "Les touristes ne viennent plus", "La ville manque d'hôtels", "Les habitants refusent les visiteurs"], "answer": 0 },
+    { "q": "Qu'a instauré la municipalité ?", "options": ["Une interdiction des locations", "Une contribution d'accès pour les visiteurs à la journée", "Un quota d'habitants", "Un nouveau musée"], "answer": 1 },
+    { "q": "Que craignent les critiques ?", "options": ["Une baisse des prix", "Plus d'habitants", "Une ville transformée en musée payant", "La fermeture des canaux"], "answer": 2 }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a1-essere-avere",
+  "level": "A1",
+  "order": 1,
+  "title": "Être et avoir : essere et avere",
+  "summary": "Les deux verbes les plus fréquents, au présent.",
+  "blocks": [
+    { "type": "p", "text": "Comme en français, essere (être) et avere (avoir) servent à se présenter, à décrire et à former les temps composés. On omet presque toujours le pronom sujet : la terminaison du verbe suffit." },
+    {
+      "type": "table",
+      "caption": "Présent de l'indicatif",
+      "head": ["Personne", "essere", "avere"],
+      "rows": [
+        ["io", "sono", "ho"],
+        ["tu", "sei", "hai"],
+        ["lui, lei", "è", "ha"],
+        ["noi", "siamo", "abbiamo"],
+        ["voi", "siete", "avete"],
+        ["loro", "sono", "hanno"]
+      ]
+    },
+    { "type": "rule", "text": "Le h de ho, hai, ha, hanno ne se prononce jamais : il sert seulement à distinguer ces formes de o (ou), ai (aux), a (à) et anno (année)." },
+    { "type": "tip", "text": "Attention à l'accent : è (il est) n'est pas e (et). Et l'âge se dit avec avere : ho 30 anni." },
+    {
+      "type": "examples",
+      "items": [
+        { "it": "Sono di Lione.", "fr": "Je suis de Lyon." },
+        { "it": "Marco ha fame.", "fr": "Marco a faim." },
+        { "it": "Siete stanchi?", "fr": "Vous êtes fatigués ?" },
+        { "it": "Ho trent'anni.", "fr": "J'ai trente ans." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Marco ___ italiano.", "options": ["è", "e", "ha", "ho"], "answer": 0, "explanation": "Avec l'accent, è est le verbe être ; sans accent, e veut dire « et »." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Noi ___ una casa al mare.", "options": ["siamo", "abbiamo", "avete", "hanno"], "answer": 1, "explanation": "Posséder : avere. Avec noi, la forme est abbiamo." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Tu ___ fame?", "options": ["sei", "ha", "hai", "ho"], "answer": 2, "explanation": "Comme « avoir faim » : avere fame. Avec tu, la forme est hai." },
+    { "id": "e4", "type": "choice", "prompt": "Complète.", "text": "Loro ___ stanchi.", "options": ["hanno", "siete", "è", "sono"], "answer": 3, "explanation": "Un état : essere. Avec loro, la forme est sono, comme pour io." },
+    { "id": "e5", "type": "cloze", "prompt": "Écris la bonne forme.", "text": "Io ___ venticinque anni.", "answers": ["ho"], "explanation": "L'âge se dit avec avere : ho venticinque anni." },
+    { "id": "e6", "type": "cloze", "prompt": "Écris la bonne forme.", "text": "Voi ___ di Parigi?", "answers": ["siete"], "explanation": "Être originaire de : essere di. Avec voi, la forme est siete." }
+  ]
+}

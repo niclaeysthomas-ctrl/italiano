@@ -1,0 +1,18 @@
+{
+  "id": "a2-quotidien",
+  "title": "La vie quotidienne",
+  "level": "A2",
+  "description": "Routines, courses, sorties et premiers temps du passé.",
+  "notes": [
+    { "id": "a2-settimana", "it": "la settimana", "fr": "la semaine", "example": "La settimana prossima vado a Milano.", "exampleFr": "La semaine prochaine, je vais à Milan." },
+    { "id": "a2-svegliarsi", "it": "svegliarsi", "fr": "se réveiller", "example": "Mi sveglio alle sette.", "exampleFr": "Je me réveille à sept heures." },
+    { "id": "a2-biglietto", "it": "il biglietto", "fr": "le billet ; le ticket", "example": "Ho comprato il biglietto online.", "exampleFr": "J'ai acheté le billet en ligne." },
+    { "id": "a2-prenotare", "it": "prenotare", "fr": "réserver", "example": "Ho prenotato un tavolo per due.", "exampleFr": "J'ai réservé une table pour deux." },
+    { "id": "a2-ieri", "it": "ieri", "fr": "hier", "example": "Ieri sono andato al mercato.", "exampleFr": "Hier, je suis allé au marché." },
+    { "id": "a2-stanco", "it": "stanco, stanca", "fr": "fatigué, fatiguée", "example": "Stasera sono molto stanca.", "exampleFr": "Ce soir, je suis très fatiguée." },
+    { "id": "a2-conto", "it": "il conto", "fr": "l'addition", "example": "Il conto, per favore.", "exampleFr": "L'addition, s'il vous plaît." },
+    { "id": "a2-piovere", "it": "piovere", "fr": "pleuvoir", "example": "Domani pioverà.", "exampleFr": "Demain, il pleuvra." },
+    { "id": "a2-spesa", "it": "fare la spesa", "fr": "faire les courses", "example": "Faccio la spesa il sabato.", "exampleFr": "Je fais les courses le samedi." },
+    { "id": "a2-divertirsi", "it": "divertirsi", "fr": "s'amuser", "example": "Ci siamo divertiti molto alla festa.", "exampleFr": "On s'est bien amusés à la fête." }
+  ]
+}

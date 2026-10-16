@@ -1,0 +1,22 @@
+{
+  "id": "c1-arte-di-arrangiarsi",
+  "level": "C1",
+  "title": "L'arte di arrangiarsi",
+  "text": "Si dice spesso che gli italiani possiedano, più di altri popoli, l'arte di arrangiarsi: quella capacità, a metà tra ingegno e improvvisazione, di trovare una soluzione anche quando le circostanze sembrano remare contro.\n\nC'è chi la considera una virtù, frutto di secoli di instabilità politica che avrebbero insegnato a non fare troppo affidamento sulle istituzioni; e c'è chi, al contrario, vi scorge l'origine di una certa insofferenza verso le regole. Probabilmente entrambe le letture colgono una parte di verità.\n\nCiò che resta indubbio è che l'espressione, intraducibile alla lettera, racchiude un intero modo di stare al mondo, fatto di pragmatismo, autoironia e una buona dose di fiducia nella propria inventiva.",
+  "translation": "On dit souvent que les Italiens possèdent, plus que d'autres peuples, l'art de se débrouiller : cette capacité, entre ingéniosité et improvisation, à trouver une solution même quand les circonstances semblent jouer contre eux.\n\nCertains y voient une vertu, fruit de siècles d'instabilité politique qui auraient appris à ne pas trop compter sur les institutions ; d'autres, au contraire, y discernent l'origine d'une certaine impatience envers les règles. Les deux lectures saisissent probablement une part de vérité.\n\nCe qui reste certain, c'est que l'expression, intraduisible littéralement, renferme toute une manière d'être au monde, faite de pragmatisme, d'autodérision et d'une bonne dose de confiance en sa propre inventivité.",
+  "glossary": [
+    { "term": "arrangiarsi", "fr": "se débrouiller" },
+    { "term": "ingegno", "fr": "l'ingéniosité" },
+    { "term": "remare contro", "fr": "jouer contre (litt. ramer contre)" },
+    { "term": "fare troppo affidamento", "fr": "trop compter sur" },
+    { "term": "vi scorge", "fr": "y discerne, y voit" },
+    { "term": "insofferenza", "fr": "l'impatience, l'intolérance" },
+    { "term": "colgono", "fr": "saisissent" },
+    { "term": "racchiude", "fr": "renferme" }
+  ],
+  "questions": [
+    { "q": "Comment le texte définit-il « l'arte di arrangiarsi » ?", "options": ["Un mélange d'ingéniosité et d'improvisation face aux difficultés", "Un savoir-faire artisanal", "Une technique culinaire", "Un respect strict des règles"], "answer": 0 },
+    { "q": "Quelle origine certains lui attribuent-ils ?", "options": ["La géographie", "Des siècles d'instabilité politique", "L'influence étrangère", "Le climat"], "answer": 1 },
+    { "q": "Quelle est la position de l'auteur ?", "options": ["Il la condamne", "Il la juge purement positive", "Il pense que les deux lectures ont une part de vérité", "Il n'en parle pas"], "answer": 2 }
+  ]
+}

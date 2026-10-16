@@ -1,0 +1,39 @@
+{
+  "id": "b1-congiuntivo-presente",
+  "level": "B1",
+  "order": 1,
+  "title": "Le subjonctif présent : congiuntivo presente",
+  "summary": "Exprimer une opinion, un souhait ou une nécessité.",
+  "blocks": [
+    { "type": "p", "text": "L'italien emploie le subjonctif plus souvent que le français : après penso che, credo che, spero che, è importante che, bisogna che, benché…" },
+    {
+      "type": "table",
+      "caption": "Verbes réguliers",
+      "head": ["Personne", "parlare", "prendere", "dormire"],
+      "rows": [
+        ["che io", "parli", "prenda", "dorma"],
+        ["che tu", "parli", "prenda", "dorma"],
+        ["che lui, lei", "parli", "prenda", "dorma"],
+        ["che noi", "parliamo", "prendiamo", "dormiamo"],
+        ["che voi", "parliate", "prendiate", "dormiate"],
+        ["che loro", "parlino", "prendano", "dormano"]
+      ]
+    },
+    { "type": "rule", "text": "Aux trois personnes du singulier, la forme est identique : on garde souvent le pronom pour lever l'ambiguïté (che io parli, che tu parli)." },
+    { "type": "tip", "text": "Irréguliers à connaître : essere → sia, avere → abbia, fare → faccia, andare → vada, stare → stia." },
+    {
+      "type": "examples",
+      "items": [
+        { "it": "Penso che sia una buona idea.", "fr": "Je pense que c'est une bonne idée." },
+        { "it": "Spero che tu stia meglio.", "fr": "J'espère que tu vas mieux." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Spero che tu ___ bene.", "options": ["stai", "stia", "starai", "stessi"], "answer": 1, "explanation": "Sperare che demande le subjonctif ; stare est irrégulier : stia." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "È importante che voi ___ in orario.", "options": ["arriviate", "arrivate", "arriverete", "arrivaste"], "answer": 0, "explanation": "Après è importante che : subjonctif. Voi + -are → arriviate." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Credo che Giulia ___ a casa.", "options": ["è", "sarà", "fosse", "sia"], "answer": 3, "explanation": "Credere che exprime une opinion : subjonctif présent de essere, sia." },
+    { "id": "e4", "type": "cloze", "prompt": "Conjugue avere.", "text": "Penso che loro ___ ragione.", "answers": ["abbiano"], "explanation": "Avere au subjonctif présent, troisième personne du pluriel : abbiano." },
+    { "id": "e5", "type": "cloze", "prompt": "Conjugue fare.", "text": "Bisogna che io ___ la spesa.", "answers": ["faccia"], "explanation": "Bisogna che entraîne le subjonctif ; fare devient faccia." }
+  ]
+}

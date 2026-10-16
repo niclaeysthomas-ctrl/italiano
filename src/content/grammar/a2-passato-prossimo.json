@@ -1,0 +1,37 @@
+{
+  "id": "a2-passato-prossimo",
+  "level": "A2",
+  "order": 1,
+  "title": "Le passé composé : passato prossimo",
+  "summary": "Raconter un fait passé avec avere ou essere et un participe.",
+  "blocks": [
+    { "type": "p", "text": "Le passato prossimo se forme comme le passé composé français : auxiliaire au présent + participe passé. Il s'emploie pour une action terminée." },
+    {
+      "type": "table",
+      "caption": "Participes réguliers",
+      "head": ["Infinitif", "Terminaison", "Exemple"],
+      "rows": [
+        ["-are", "-ato", "mangiare → mangiato"],
+        ["-ere", "-uto", "credere → creduto"],
+        ["-ire", "-ito", "dormire → dormito"]
+      ]
+    },
+    { "type": "rule", "text": "Avec essere (déplacements, changements d'état, verbes pronominaux), le participe s'accorde avec le sujet : Maria è andata, i ragazzi sono partiti." },
+    { "type": "tip", "text": "Les participes irréguliers les plus courants : fatto, detto, preso, visto, messo, scritto, letto, venuto." },
+    {
+      "type": "examples",
+      "items": [
+        { "it": "Ho mangiato una pizza.", "fr": "J'ai mangé une pizza." },
+        { "it": "Siamo arrivati tardi.", "fr": "Nous sommes arrivés tard." },
+        { "it": "Che cosa hai fatto ieri?", "fr": "Qu'est-ce que tu as fait hier ?" }
+      ]
+    }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Complète.", "text": "Ieri Maria ___ al cinema.", "options": ["ha andato", "è andata", "è andato", "ha andata"], "answer": 1, "explanation": "Andare se conjugue avec essere et le participe s'accorde : è andata." },
+    { "id": "e2", "type": "choice", "prompt": "Complète.", "text": "Abbiamo ___ una pizza.", "options": ["mangiato", "mangiata", "mangiati", "mangiare"], "answer": 0, "explanation": "Avec avere, le participe reste invariable ici : mangiato." },
+    { "id": "e3", "type": "choice", "prompt": "Complète.", "text": "Che cosa ___ ieri sera?", "options": ["sei fatto", "hai fatta", "fai", "hai fatto"], "answer": 3, "explanation": "Fare se conjugue avec avere ; son participe est irrégulier : fatto." },
+    { "id": "e4", "type": "cloze", "prompt": "Écris le participe de partire.", "text": "Loro sono ___ presto.", "answers": ["partiti", "partite"], "explanation": "Avec essere, accord avec loro : partiti (ou partite pour un groupe de femmes)." },
+    { "id": "e5", "type": "cloze", "prompt": "Écris le participe de leggere.", "text": "Ho ___ un bel libro.", "answers": ["letto"], "explanation": "Leggere a un participe irrégulier : letto." }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "a1-articoli",
+  "level": "A1",
+  "order": 2,
+  "title": "Les articles définis",
+  "summary": "Il, lo, l', la, i, gli, le : choisir selon le genre et la première lettre.",
+  "blocks": [
+    { "type": "p", "text": "En italien, l'article défini dépend du genre, du nombre et surtout du son par lequel commence le mot qui suit." },
+    {
+      "type": "table",
+      "caption": "Articles définis",
+      "head": ["Devant…", "Masculin singulier", "Masculin pluriel"],
+      "rows": [
+        ["une consonne", "il libro", "i libri"],
+        ["s + consonne, z, gn, ps, x, y", "lo studente", "gli studenti"],
+        ["une voyelle", "l'amico", "gli amici"]
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Au féminin, c'est plus simple",
+      "head": ["Devant…", "Féminin singulier", "Féminin pluriel"],
+      "rows": [
+        ["une consonne", "la casa", "le case"],
+        ["une voyelle", "l'amica", "le amiche"]
+      ]
+    },
+    { "type": "tip", "text": "L'article suit le mot qui vient juste après lui : lo zio mais il mio zio." }
+  ],
+  "exercises": [
+    { "id": "e1", "type": "choice", "prompt": "Choisis l'article.", "text": "___ zaino", "options": ["il", "lo", "l'", "la"], "answer": 1, "explanation": "Devant z, le masculin singulier prend lo." },
+    { "id": "e2", "type": "choice", "prompt": "Choisis l'article.", "text": "___ studenti", "options": ["i", "le", "gli", "lo"], "answer": 2, "explanation": "Lo studente devient gli studenti au pluriel." },
+    { "id": "e3", "type": "choice", "prompt": "Choisis l'article.", "text": "___ amica", "options": ["l'", "la", "lo", "le"], "answer": 0, "explanation": "Devant une voyelle, la s'élide en l'." },
+    { "id": "e4", "type": "choice", "prompt": "Choisis l'article.", "text": "___ libri", "options": ["gli", "le", "il", "i"], "answer": 3, "explanation": "Il libro devient i libri au pluriel." },
+    { "id": "e5", "type": "cloze", "prompt": "Écris l'article.", "text": "___ ragazze", "answers": ["le"], "explanation": "Féminin pluriel : toujours le." },
+    { "id": "e6", "type": "cloze", "prompt": "Écris l'article.", "text": "___ albero", "answers": ["l'"], "explanation": "Masculin singulier devant une voyelle : l'albero." }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  { "id": "pl-a1-1", "level": "A1", "skill": "grammar", "prompt": "Complète la phrase.", "text": "Io ___ francese.", "options": ["sono", "sei", "è", "siamo"], "answer": 0 },
+  { "id": "pl-a1-2", "level": "A1", "skill": "vocab", "prompt": "Que signifie cette question ?", "text": "Come ti chiami?", "options": ["Où habites-tu ?", "Comment tu t'appelles ?", "Quel âge as-tu ?", "Comment vas-tu ?"], "answer": 1 },
+  { "id": "pl-a1-3", "level": "A1", "skill": "grammar", "prompt": "Choisis l'article.", "text": "___ ragazze sono simpatiche.", "options": ["Gli", "I", "Le", "La"], "answer": 2 },
+  { "id": "pl-a1-4", "level": "A1", "skill": "listening", "prompt": "Écoute. Que demande la personne ?", "audio": "Vorrei un caffè, per favore.", "options": ["Un thé", "L'addition", "Un croissant", "Un café"], "answer": 3 },
+  { "id": "pl-a1-5", "level": "A1", "skill": "grammar", "prompt": "Complète la phrase.", "text": "Noi ___ a Roma.", "options": ["abitiamo", "abitate", "abitano", "abito"], "answer": 0 },
+
+  { "id": "pl-a2-1", "level": "A2", "skill": "grammar", "prompt": "Complète au passé.", "text": "Ieri ___ al cinema con Marco.", "options": ["ho andato", "sono andato", "andavo", "vado"], "answer": 1 },
+  { "id": "pl-a2-2", "level": "A2", "skill": "grammar", "prompt": "Complète au futur.", "text": "Domani ___ i miei nonni.", "options": ["ho visitato", "visitavo", "visiterò", "visiti"], "answer": 2 },
+  { "id": "pl-a2-3", "level": "A2", "skill": "grammar", "prompt": "Choisis la préposition.", "text": "Il libro è ___ tavolo.", "options": ["sul", "nel", "dal", "al"], "answer": 0 },
+  { "id": "pl-a2-4", "level": "A2", "skill": "listening", "prompt": "Écoute. À quelle heure part le train ?", "audio": "Il treno per Firenze parte alle otto e un quarto dal binario tre.", "options": ["8 h 45", "3 h 15", "8 h 15", "8 h 03"], "answer": 2 },
+  { "id": "pl-a2-5", "level": "A2", "skill": "grammar", "prompt": "Complète la phrase.", "text": "Da bambino ___ sempre al mare d'estate.", "options": ["sono andato", "andrò", "vado", "andavo"], "answer": 3 },
+
+  { "id": "pl-b1-1", "level": "B1", "skill": "grammar", "prompt": "Complète la phrase.", "text": "Penso che Luca ___ ragione.", "options": ["abbia", "avrà", "avesse", "ha avuto"], "answer": 0 },
+  { "id": "pl-b1-2", "level": "B1", "skill": "grammar", "prompt": "Complète l'hypothèse.", "text": "Se avessi tempo, ___ un corso di cucina.", "options": ["faccio", "farei", "farò", "avrei fatto"], "answer": 1 },
+  { "id": "pl-b1-3", "level": "B1", "skill": "grammar", "prompt": "Remplace « il libro a Marco » par des pronoms.", "text": "Do il libro a Marco. → ___ do.", "options": ["Gli lo", "Lo gli", "Le lo", "Glielo"], "answer": 3 },
+  { "id": "pl-b1-4", "level": "B1", "skill": "listening", "prompt": "Écoute. Pourquoi la personne ne peut-elle pas venir ?", "audio": "Mi dispiace, ma stasera non posso venire perché devo finire un progetto per il lavoro.", "options": ["Elle est malade", "Elle doit finir un projet pour le travail", "Elle a un autre rendez-vous", "Elle n'aime pas sortir"], "answer": 1 },
+  { "id": "pl-b1-5", "level": "B1", "skill": "grammar", "prompt": "Choisis le pronom relatif.", "text": "È la ragazza ___ ti ho parlato.", "options": ["che", "la quale", "di cui", "cui"], "answer": 2 },
+
+  { "id": "pl-b2-1", "level": "B2", "skill": "grammar", "prompt": "Complète la phrase.", "text": "Benché ___ stanco, ha continuato a lavorare.", "options": ["era", "fosse", "sarebbe", "sia stato"], "answer": 1 },
+  { "id": "pl-b2-2", "level": "B2", "skill": "grammar", "prompt": "Complète l'hypothèse au passé.", "text": "Se l'avessi saputo prima, ___.", "options": ["te lo direi", "te l'ho detto", "te l'avrei detto", "te lo dirò"], "answer": 2 },
+  { "id": "pl-b2-3", "level": "B2", "skill": "grammar", "prompt": "Mets la phrase au passif.", "text": "Il progetto ___ approvato dal consiglio la settimana scorsa.", "options": ["è stato", "ha stato", "è", "ha avuto"], "answer": 0 },
+  { "id": "pl-b2-4", "level": "B2", "skill": "reading", "prompt": "Que dit cette phrase ?", "text": "Nonostante le previsioni pessimistiche, il fatturato dell'azienda è aumentato del 12% rispetto all'anno precedente.", "options": ["Le chiffre d'affaires a baissé de 12 %", "Les prévisions étaient optimistes", "L'entreprise a fermé", "Le chiffre d'affaires a augmenté malgré des prévisions pessimistes"], "answer": 3 },
+  { "id": "pl-b2-5", "level": "B2", "skill": "listening", "prompt": "Écoute. Que s'est-il passé ?", "audio": "Avrei voluto partecipare alla riunione, ma il volo è stato cancellato all'ultimo momento.", "options": ["La personne n'a pas pu assister à la réunion car son vol a été annulé", "La personne a assisté à la réunion", "La réunion a été annulée", "La personne a raté son vol par sa faute"], "answer": 0 },
+
+  { "id": "pl-c1-1", "level": "C1", "skill": "grammar", "prompt": "Complète la phrase.", "text": "Qualora ___ dei problemi, contattateci immediatamente.", "options": ["sorgono", "sorgerebbero", "sorgessero", "sorsero"], "answer": 2 },
+  { "id": "pl-c1-2", "level": "C1", "skill": "grammar", "prompt": "Complète la phrase.", "text": "Non appena ___ i risultati, li comunicheremo.", "options": ["avremo ricevuto", "abbiamo ricevuto", "ricevessimo", "riceveremmo"], "answer": 0 },
+  { "id": "pl-c1-3", "level": "C1", "skill": "vocab", "prompt": "Quel est l'équivalent français ?", "text": "Prendere due piccioni con una fava.", "options": ["Courir deux lièvres à la fois", "Faire d'une pierre deux coups", "Avoir un poil dans la main", "Mettre la charrue avant les bœufs"], "answer": 1 },
+  { "id": "pl-c1-4", "level": "C1", "skill": "grammar", "prompt": "Choisis la forme correcte du passé simple.", "text": "Dante ___ la Divina Commedia nel Trecento.", "options": ["scrivé", "scrivette", "scrivò", "scrisse"], "answer": 3 },
+  { "id": "pl-c1-5", "level": "C1", "skill": "listening", "prompt": "Écoute. Quelle est la décision du comité ?", "audio": "Pur riconoscendo i meriti della proposta, il comitato ha ritenuto opportuno rinviarne l'approvazione in attesa di ulteriori approfondimenti.", "options": ["Il rejette définitivement la proposition", "Il l'approuve immédiatement", "Il reporte l'approbation en attendant des analyses complémentaires", "Il ne lui reconnaît aucun mérite"], "answer": 2 }
+]

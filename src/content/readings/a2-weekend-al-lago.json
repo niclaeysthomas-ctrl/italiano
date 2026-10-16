@@ -1,0 +1,22 @@
+{
+  "id": "a2-weekend-al-lago",
+  "level": "A2",
+  "title": "Un fine settimana al lago",
+  "text": "Lo scorso fine settimana sono andata al lago di Como con la mia amica Sara. Siamo partite sabato mattina in treno da Milano. Il viaggio è durato circa un'ora.\n\nIl paesaggio era bellissimo: le montagne si riflettevano nell'acqua. Abbiamo fatto un giro in battello e abbiamo pranzato in una piccola trattoria.\n\nPurtroppo domenica ha piovuto tutto il giorno, così siamo rimaste in albergo a giocare a carte. Anche con la pioggia, è stato un fine settimana molto rilassante.",
+  "translation": "Le week-end dernier, je suis allée au lac de Côme avec mon amie Sara. Nous sommes parties samedi matin en train depuis Milan. Le voyage a duré environ une heure.\n\nLe paysage était magnifique : les montagnes se reflétaient dans l'eau. Nous avons fait un tour en bateau et nous avons déjeuné dans une petite trattoria.\n\nMalheureusement, il a plu toute la journée dimanche, alors nous sommes restées à l'hôtel à jouer aux cartes. Même avec la pluie, ce fut un week-end très reposant.",
+  "glossary": [
+    { "term": "lo scorso", "fr": "le dernier (passé)" },
+    { "term": "siamo partite", "fr": "nous sommes parties" },
+    { "term": "viaggio", "fr": "le voyage" },
+    { "term": "paesaggio", "fr": "le paysage" },
+    { "term": "battello", "fr": "le bateau (sur un lac)" },
+    { "term": "trattoria", "fr": "petit restaurant traditionnel" },
+    { "term": "purtroppo", "fr": "malheureusement" },
+    { "term": "albergo", "fr": "l'hôtel" }
+  ],
+  "questions": [
+    { "q": "Comment sont-elles allées au lac ?", "options": ["En voiture", "En train", "En bus", "À vélo"], "answer": 1 },
+    { "q": "Combien de temps a duré le voyage ?", "options": ["Environ une heure", "Deux heures", "Trente minutes", "Une journée"], "answer": 0 },
+    { "q": "Qu'ont-elles fait dimanche ?", "options": ["Un tour en bateau", "Une randonnée", "Elles ont joué aux cartes à l'hôtel", "Elles sont rentrées à Milan"], "answer": 2 }
+  ]
+}

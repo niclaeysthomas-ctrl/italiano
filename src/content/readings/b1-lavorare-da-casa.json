@@ -1,0 +1,22 @@
+{
+  "id": "b1-lavorare-da-casa",
+  "level": "B1",
+  "title": "Lavorare da casa",
+  "text": "Da qualche anno sempre più italiani lavorano da casa almeno un giorno alla settimana. Molti apprezzano la possibilità di risparmiare tempo e denaro sugli spostamenti, soprattutto nelle grandi città, dove il traffico può essere un vero incubo.\n\nTuttavia, non mancano gli svantaggi: alcuni lavoratori si sentono isolati e faticano a separare la vita privata da quella professionale.\n\nSecondo diversi esperti, la soluzione migliore è un modello ibrido, che alterni giorni in ufficio e giorni a casa. In questo modo si mantengono i rapporti con i colleghi senza rinunciare alla flessibilità.",
+  "translation": "Depuis quelques années, de plus en plus d'Italiens travaillent depuis chez eux au moins un jour par semaine. Beaucoup apprécient de pouvoir économiser du temps et de l'argent sur les trajets, surtout dans les grandes villes, où la circulation peut être un vrai cauchemar.\n\nCependant, les inconvénients ne manquent pas : certains travailleurs se sentent isolés et ont du mal à séparer vie privée et vie professionnelle.\n\nSelon plusieurs experts, la meilleure solution est un modèle hybride, qui alterne jours au bureau et jours à la maison. On garde ainsi le lien avec ses collègues sans renoncer à la flexibilité.",
+  "glossary": [
+    { "term": "da qualche anno", "fr": "depuis quelques années" },
+    { "term": "risparmiare", "fr": "économiser" },
+    { "term": "spostamenti", "fr": "les déplacements, les trajets" },
+    { "term": "incubo", "fr": "un cauchemar" },
+    { "term": "tuttavia", "fr": "cependant" },
+    { "term": "faticano a", "fr": "ont du mal à" },
+    { "term": "alterni", "fr": "alterne (subjonctif)" },
+    { "term": "rinunciare", "fr": "renoncer" }
+  ],
+  "questions": [
+    { "q": "Quel avantage du télétravail est cité ?", "options": ["Gagner du temps et de l'argent sur les trajets", "Un meilleur salaire", "Plus de réunions", "Des bureaux plus grands"], "answer": 0 },
+    { "q": "Quel inconvénient est mentionné ?", "options": ["Le coût de l'équipement", "Le sentiment d'isolement", "Le bruit des voisins", "Le manque de formation"], "answer": 1 },
+    { "q": "Que recommandent les experts ?", "options": ["Le télétravail à 100 %", "Le retour au bureau", "Un modèle hybride", "Des horaires réduits"], "answer": 2 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a1-essentiels",
+  "title": "Les essentiels",
+  "level": "A1",
+  "description": "Salutations, besoins de base et premiers verbes.",
+  "notes": [
+    { "id": "a1-ciao", "it": "ciao", "fr": "salut ; au revoir", "example": "Ciao, come stai?", "exampleFr": "Salut, comment ça va ?" },
+    { "id": "a1-buongiorno", "it": "buongiorno", "fr": "bonjour", "example": "Buongiorno, signora Rossi.", "exampleFr": "Bonjour, madame Rossi." },
+    { "id": "a1-grazie", "it": "grazie", "fr": "merci", "example": "Grazie mille!", "exampleFr": "Merci beaucoup !" },
+    { "id": "a1-per-favore", "it": "per favore", "fr": "s'il te plaît ; s'il vous plaît", "example": "Un caffè, per favore.", "exampleFr": "Un café, s'il vous plaît." },
+    { "id": "a1-scusa", "it": "scusa", "fr": "pardon (à une personne que l'on tutoie)", "example": "Scusa, dov'è la stazione?", "exampleFr": "Pardon, où est la gare ?" },
+    { "id": "a1-casa", "it": "la casa", "fr": "la maison", "example": "La mia casa è piccola.", "exampleFr": "Ma maison est petite." },
+    { "id": "a1-acqua", "it": "l'acqua", "fr": "l'eau", "example": "Vorrei un bicchiere d'acqua.", "exampleFr": "Je voudrais un verre d'eau." },
+    { "id": "a1-pane", "it": "il pane", "fr": "le pain", "example": "Compro il pane ogni mattina.", "exampleFr": "J'achète le pain chaque matin." },
+    { "id": "a1-mangiare", "it": "mangiare", "fr": "manger", "example": "Mangiamo alle otto.", "exampleFr": "Nous mangeons à huit heures." },
+    { "id": "a1-bere", "it": "bere", "fr": "boire", "example": "Bevo un tè.", "exampleFr": "Je bois un thé." },
+    { "id": "a1-parlare", "it": "parlare", "fr": "parler", "example": "Parli italiano?", "exampleFr": "Tu parles italien ?" },
+    { "id": "a1-andare", "it": "andare", "fr": "aller", "example": "Vado al lavoro in autobus.", "exampleFr": "Je vais au travail en bus." },
+    { "id": "a1-essere", "it": "essere", "fr": "être", "example": "Sono francese.", "exampleFr": "Je suis français." },
+    { "id": "a1-avere", "it": "avere", "fr": "avoir", "example": "Ho due fratelli.", "exampleFr": "J'ai deux frères." },
+    { "id": "a1-oggi", "it": "oggi", "fr": "aujourd'hui", "example": "Oggi fa bello.", "exampleFr": "Aujourd'hui, il fait beau." },
+    { "id": "a1-domani", "it": "domani", "fr": "demain", "example": "Ci vediamo domani.", "exampleFr": "On se voit demain." },
+    { "id": "a1-giorno", "it": "il giorno", "fr": "le jour", "example": "Che giorno è oggi?", "exampleFr": "Quel jour sommes-nous ?" },
+    { "id": "a1-amico", "it": "l'amico, l'amica", "fr": "l'ami, l'amie", "example": "Esco con un'amica.", "exampleFr": "Je sors avec une amie." },
+    { "id": "a1-lavoro", "it": "il lavoro", "fr": "le travail", "example": "Il mio lavoro è interessante.", "exampleFr": "Mon travail est intéressant." },
+    { "id": "a1-strada", "it": "la strada", "fr": "la rue ; la route", "example": "Attraversa la strada.", "exampleFr": "Traverse la rue." },
+    { "id": "a1-treno", "it": "il treno", "fr": "le train", "example": "Il treno è in ritardo.", "exampleFr": "Le train est en retard." },
+    { "id": "a1-dove", "it": "dove", "fr": "où", "example": "Dove abiti?", "exampleFr": "Où habites-tu ?" },
+    { "id": "a1-quanto-costa", "it": "quanto costa?", "fr": "combien ça coûte ?", "example": "Quanto costa questo libro?", "exampleFr": "Combien coûte ce livre ?" },
+    { "id": "a1-bello", "it": "bello, bella", "fr": "beau, belle", "example": "Che bella giornata!", "exampleFr": "Quelle belle journée !" }
+  ]
+}
