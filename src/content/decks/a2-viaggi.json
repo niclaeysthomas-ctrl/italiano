@@ -1,0 +1,28 @@
+{
+  "id": "a2-viaggi",
+  "title": "Voyages et loisirs",
+  "level": "A2",
+  "description": "Vacances, transports, météo et temps libre.",
+  "notes": [
+    { "id": "a2-vacanza", "it": "la vacanza", "fr": "les vacances", "example": "Quest'estate andiamo in vacanza in Puglia.", "exampleFr": "Cet été, nous partons en vacances dans les Pouilles." },
+    { "id": "a2-valigia", "it": "la valigia", "fr": "la valise", "example": "Non ho ancora fatto la valigia.", "exampleFr": "Je n'ai pas encore fait ma valise." },
+    { "id": "a2-aereo", "it": "l'aereo", "fr": "l'avion", "example": "L'aereo parte con un'ora di ritardo.", "exampleFr": "L'avion part avec une heure de retard." },
+    { "id": "a2-volo", "it": "il volo", "fr": "le vol", "example": "Il volo per Napoli è stato cancellato.", "exampleFr": "Le vol pour Naples a été annulé." },
+    { "id": "a2-binario", "it": "il binario", "fr": "le quai ; la voie", "example": "Il treno parte dal binario sei.", "exampleFr": "Le train part de la voie six." },
+    { "id": "a2-andata-ritorno", "it": "andata e ritorno", "fr": "aller-retour", "example": "Un biglietto di andata e ritorno per Pisa.", "exampleFr": "Un billet aller-retour pour Pise." },
+    { "id": "a2-noleggiare", "it": "noleggiare", "fr": "louer (un véhicule, du matériel)", "example": "Abbiamo noleggiato una macchina all'aeroporto.", "exampleFr": "Nous avons loué une voiture à l'aéroport." },
+    { "id": "a2-spiaggia", "it": "la spiaggia", "fr": "la plage", "example": "Passiamo la giornata in spiaggia.", "exampleFr": "Nous passons la journée à la plage." },
+    { "id": "a2-montagna", "it": "la montagna", "fr": "la montagne", "example": "D'inverno andiamo a sciare in montagna.", "exampleFr": "En hiver, nous allons skier à la montagne." },
+    { "id": "a2-tempo-meteo", "it": "che tempo fa?", "fr": "quel temps fait-il ?", "example": "Che tempo fa a Milano oggi?", "exampleFr": "Quel temps fait-il à Milan aujourd'hui ?" },
+    { "id": "a2-fa-caldo", "it": "fa caldo, fa freddo", "fr": "il fait chaud, il fait froid", "example": "Ad agosto fa molto caldo.", "exampleFr": "En août, il fait très chaud." },
+    { "id": "a2-nevicare", "it": "nevicare", "fr": "neiger", "example": "Ieri notte ha nevicato.", "exampleFr": "Il a neigé hier soir." },
+    { "id": "a2-sole", "it": "il sole", "fr": "le soleil", "example": "Oggi c'è il sole, usciamo!", "exampleFr": "Aujourd'hui il y a du soleil, sortons !" },
+    { "id": "a2-tempo-libero", "it": "il tempo libero", "fr": "le temps libre", "example": "Nel tempo libero faccio fotografia.", "exampleFr": "Pendant mon temps libre, je fais de la photo." },
+    { "id": "a2-partita", "it": "la partita", "fr": "le match", "example": "Stasera guardiamo la partita insieme.", "exampleFr": "Ce soir, on regarde le match ensemble." },
+    { "id": "a2-mostra", "it": "la mostra", "fr": "l'exposition", "example": "C'è una mostra su Caravaggio.", "exampleFr": "Il y a une exposition sur le Caravage." },
+    { "id": "a2-camminare", "it": "camminare", "fr": "marcher", "example": "Mi piace camminare lungo il fiume.", "exampleFr": "J'aime marcher le long du fleuve." },
+    { "id": "a2-visitare", "it": "visitare", "fr": "visiter", "example": "Domani visitiamo i Musei Vaticani.", "exampleFr": "Demain, nous visitons les musées du Vatican." },
+    { "id": "a2-fotografia", "it": "fare una foto", "fr": "prendre une photo", "example": "Ci può fare una foto, per favore?", "exampleFr": "Vous pouvez nous prendre en photo, s'il vous plaît ?" },
+    { "id": "a2-passaporto", "it": "il passaporto", "fr": "le passeport", "example": "Non dimenticare il passaporto!", "exampleFr": "N'oublie pas ton passeport !" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "b2-idiomes",
+  "title": "Expressions idiomatiques",
+  "level": "B2",
+  "description": "Les tournures imagées que les Italiens utilisent au quotidien.",
+  "notes": [
+    { "id": "b2i-acqua-in-bocca", "it": "Acqua in bocca!", "fr": "Motus et bouche cousue !", "example": "Ti dico un segreto, ma acqua in bocca!", "exampleFr": "Je te dis un secret, mais motus et bouche cousue !" },
+    { "id": "b2i-in-gamba", "it": "essere in gamba", "fr": "être doué, débrouillard", "example": "La tua collega è davvero in gamba.", "exampleFr": "Ta collègue est vraiment douée." },
+    { "id": "b2i-costare-un-occhio", "it": "costare un occhio della testa", "fr": "coûter les yeux de la tête", "example": "Questa borsa costa un occhio della testa.", "exampleFr": "Ce sac coûte les yeux de la tête." },
+    { "id": "b2i-mani-bucate", "it": "avere le mani bucate", "fr": "être dépensier (litt. avoir les mains trouées)", "example": "Ha le mani bucate, non risparmia mai.", "exampleFr": "Il est très dépensier, il n'économise jamais." },
+    { "id": "b2i-prendere-in-giro", "it": "prendere in giro", "fr": "se moquer de ; faire marcher", "example": "Mi stai prendendo in giro?", "exampleFr": "Tu te moques de moi ?" },
+    { "id": "b2i-fare-una-figuraccia", "it": "fare una figuraccia", "fr": "se ridiculiser", "example": "Ho fatto una figuraccia davanti al capo.", "exampleFr": "Je me suis ridiculisé devant le chef." },
+    { "id": "b2i-fare-bella-figura", "it": "fare bella figura", "fr": "faire bonne impression", "example": "Con quel vestito farai bella figura.", "exampleFr": "Avec cette robe, tu feras bonne impression." },
+    { "id": "b2i-rompere-le-scatole", "it": "rompere le scatole", "fr": "casser les pieds (familier)", "example": "Smettila di rompere le scatole!", "exampleFr": "Arrête de me casser les pieds !" },
+    { "id": "b2i-non-avere-peli-sulla-lingua", "it": "non avere peli sulla lingua", "fr": "ne pas mâcher ses mots", "example": "Mia nonna non ha peli sulla lingua.", "exampleFr": "Ma grand-mère ne mâche pas ses mots." },
+    { "id": "b2i-tagliare-la-corda", "it": "tagliare la corda", "fr": "filer à l'anglaise", "example": "Alla fine della festa ha tagliato la corda.", "exampleFr": "À la fin de la fête, il a filé à l'anglaise." },
+    { "id": "b2i-essere-al-verde", "it": "essere al verde", "fr": "être fauché", "example": "Fine mese e sono già al verde.", "exampleFr": "C'est la fin du mois et je suis déjà fauché." },
+    { "id": "b2i-cadere-dalle-nuvole", "it": "cadere dalle nuvole", "fr": "tomber des nues", "example": "Quando l'ha saputo, è caduto dalle nuvole.", "exampleFr": "Quand il l'a appris, il est tombé des nues." },
+    { "id": "b2i-andare-a-gonfie-vele", "it": "andare a gonfie vele", "fr": "marcher à merveille", "example": "Gli affari vanno a gonfie vele.", "exampleFr": "Les affaires marchent à merveille." },
+    { "id": "b2i-avere-la-testa-fra-le-nuvole", "it": "avere la testa fra le nuvole", "fr": "avoir la tête dans les nuages", "example": "Oggi hai proprio la testa fra le nuvole.", "exampleFr": "Aujourd'hui, tu as vraiment la tête dans les nuages." },
+    { "id": "b2i-fare-le-ore-piccole", "it": "fare le ore piccole", "fr": "se coucher très tard", "example": "Ieri abbiamo fatto le ore piccole.", "exampleFr": "Hier, nous nous sommes couchés très tard." },
+    { "id": "b2i-piove-a-catinelle", "it": "piove a catinelle", "fr": "il pleut des cordes", "example": "Non uscire, piove a catinelle.", "exampleFr": "Ne sors pas, il pleut des cordes." },
+    { "id": "b2i-ogni-morte-di-papa", "it": "ogni morte di papa", "fr": "tous les trente-six du mois", "example": "Ci vediamo ogni morte di papa.", "exampleFr": "On se voit tous les trente-six du mois." },
+    { "id": "b2i-essere-nei-guai", "it": "essere nei guai", "fr": "être dans le pétrin", "example": "Se non finisco stasera, sono nei guai.", "exampleFr": "Si je ne finis pas ce soir, je suis dans le pétrin." },
+    { "id": "b2i-tenere-d-occhio", "it": "tenere d'occhio", "fr": "garder à l'œil", "example": "Puoi tenere d'occhio la mia valigia?", "exampleFr": "Tu peux garder un œil sur ma valise ?" },
+    { "id": "b2i-non-c-e-due-senza-tre", "it": "Non c'è due senza tre.", "fr": "Jamais deux sans trois.", "example": "Ho rotto un altro bicchiere: non c'è due senza tre!", "exampleFr": "J'ai cassé un autre verre : jamais deux sans trois !" },
+    { "id": "b2i-chi-dorme", "it": "Chi dorme non piglia pesci.", "fr": "Le monde appartient à ceux qui se lèvent tôt.", "example": "Svegliati! Chi dorme non piglia pesci.", "exampleFr": "Réveille-toi ! Le monde appartient à ceux qui se lèvent tôt." },
+    { "id": "b2i-meglio-tardi", "it": "Meglio tardi che mai.", "fr": "Mieux vaut tard que jamais.", "example": "Sei arrivato finalmente! Meglio tardi che mai.", "exampleFr": "Tu es enfin arrivé ! Mieux vaut tard que jamais." }
+  ]
+}

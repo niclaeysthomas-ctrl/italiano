@@ -1,0 +1,24 @@
+{
+  "id": "b2-phrases",
+  "title": "Phrases à traduire : argumenter",
+  "level": "B2",
+  "description": "Phrases complètes avec subjonctif, conditionnel et concordance des temps.",
+  "notes": [
+    { "id": "b2p-pensavo-che", "it": "Pensavo che fossi già partito.", "fr": "Je pensais que tu étais déjà parti.", "example": "Ah, sei qui! Pensavo che fossi già partito.", "exampleFr": "Ah, tu es là ! Je pensais que tu étais déjà parti." },
+    { "id": "b2p-se-avessi-saputo", "it": "Se avessi saputo, sarei venuto prima.", "fr": "Si j'avais su, je serais venu plus tôt.", "example": "Nessuno me l'ha detto: se avessi saputo, sarei venuto prima.", "exampleFr": "Personne ne me l'a dit : si j'avais su, je serais venu plus tôt." },
+    { "id": "b2p-vorrei-che", "it": "Vorrei che tu mi ascoltassi.", "fr": "Je voudrais que tu m'écoutes.", "example": "Per una volta, vorrei che tu mi ascoltassi.", "exampleFr": "Pour une fois, je voudrais que tu m'écoutes." },
+    { "id": "b2p-non-e-detto", "it": "Non è detto che funzioni.", "fr": "Rien ne garantit que ça marche.", "example": "Proviamo pure, ma non è detto che funzioni.", "exampleFr": "Essayons, mais rien ne garantit que ça marche." },
+    { "id": "b2p-a-quanto-pare", "it": "A quanto pare, la riunione è stata annullata.", "fr": "Apparemment, la réunion a été annulée.", "example": "A quanto pare, la riunione è stata annullata all'ultimo momento.", "exampleFr": "Apparemment, la réunion a été annulée au dernier moment." },
+    { "id": "b2p-mi-chiedo-se", "it": "Mi chiedo se valga la pena.", "fr": "Je me demande si ça vaut la peine.", "example": "Costa tantissimo: mi chiedo se valga la pena.", "exampleFr": "Ça coûte très cher : je me demande si ça vaut la peine." },
+    { "id": "b2p-per-quanto-ne-so", "it": "Per quanto ne so, non è ancora deciso.", "fr": "Pour autant que je sache, ce n'est pas encore décidé.", "example": "Per quanto ne so, la data non è ancora decisa.", "exampleFr": "Pour autant que je sache, la date n'est pas encore décidée." },
+    { "id": "b2p-avrei-dovuto", "it": "Avrei dovuto dirtelo prima.", "fr": "J'aurais dû te le dire avant.", "example": "Scusami, avrei dovuto dirtelo prima.", "exampleFr": "Excuse-moi, j'aurais dû te le dire avant." },
+    { "id": "b2p-non-mi-aspettavo", "it": "Non mi aspettavo che reagisse così.", "fr": "Je ne m'attendais pas à ce qu'il réagisse ainsi.", "example": "Gli ho detto la verità, ma non mi aspettavo che reagisse così.", "exampleFr": "Je lui ai dit la vérité, mais je ne m'attendais pas à ce qu'il réagisse ainsi." },
+    { "id": "b2p-e-ora-che", "it": "È ora che tu prenda una decisione.", "fr": "Il est temps que tu prennes une décision.", "example": "Ne parliamo da mesi: è ora che tu prenda una decisione.", "exampleFr": "On en parle depuis des mois : il est temps que tu prennes une décision." },
+    { "id": "b2p-qualunque-cosa", "it": "Qualunque cosa succeda, chiamami.", "fr": "Quoi qu'il arrive, appelle-moi.", "example": "Qualunque cosa succeda, chiamami subito.", "exampleFr": "Quoi qu'il arrive, appelle-moi tout de suite." },
+    { "id": "b2p-mi-e-stato-detto", "it": "Mi è stato detto di aspettare qui.", "fr": "On m'a dit d'attendre ici.", "example": "Buongiorno, mi è stato detto di aspettare qui.", "exampleFr": "Bonjour, on m'a dit d'attendre ici." },
+    { "id": "b2p-pur-essendo", "it": "Pur essendo stanco, ha finito il lavoro.", "fr": "Bien qu'il soit fatigué, il a fini le travail.", "example": "Pur essendo stanco, ha finito il lavoro prima di cena.", "exampleFr": "Bien qu'il soit fatigué, il a fini le travail avant le dîner." },
+    { "id": "b2p-si-dice-che", "it": "Si dice che il ristorante chiuderà.", "fr": "On dit que le restaurant va fermer.", "example": "Si dice che il ristorante chiuderà a fine anno.", "exampleFr": "On dit que le restaurant fermera en fin d'année." },
+    { "id": "b2p-dopo-aver", "it": "Dopo aver mangiato, siamo usciti.", "fr": "Après avoir mangé, nous sommes sortis.", "example": "Dopo aver mangiato, siamo usciti a fare due passi.", "exampleFr": "Après avoir mangé, nous sommes sortis faire un tour." },
+    { "id": "b2p-da-quando", "it": "Da quando si è trasferito, non lo sento più.", "fr": "Depuis qu'il a déménagé, je n'ai plus de nouvelles.", "example": "Da quando si è trasferito a Berlino, non lo sento più.", "exampleFr": "Depuis qu'il s'est installé à Berlin, je n'ai plus de nouvelles." }
+  ]
+}

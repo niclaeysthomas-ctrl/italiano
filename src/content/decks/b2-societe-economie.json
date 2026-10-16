@@ -1,0 +1,30 @@
+{
+  "id": "b2-societe-economie",
+  "title": "Économie, environnement, médias",
+  "level": "B2",
+  "description": "Le vocabulaire des débats et de la presse.",
+  "notes": [
+    { "id": "b2-bilancio", "it": "il bilancio", "fr": "le bilan ; le budget", "example": "Il bilancio dell'azienda è in attivo.", "exampleFr": "Le bilan de l'entreprise est positif." },
+    { "id": "b2-fatturato", "it": "il fatturato", "fr": "le chiffre d'affaires", "example": "Il fatturato è cresciuto del dieci per cento.", "exampleFr": "Le chiffre d'affaires a augmenté de dix pour cent." },
+    { "id": "b2-debito", "it": "il debito pubblico", "fr": "la dette publique", "example": "Il debito pubblico preoccupa gli economisti.", "exampleFr": "La dette publique inquiète les économistes." },
+    { "id": "b2-investimento", "it": "l'investimento", "fr": "l'investissement", "example": "Servono investimenti nelle energie rinnovabili.", "exampleFr": "Il faut des investissements dans les énergies renouvelables." },
+    { "id": "b2-sviluppo-sostenibile", "it": "lo sviluppo sostenibile", "fr": "le développement durable", "example": "La città punta sullo sviluppo sostenibile.", "exampleFr": "La ville mise sur le développement durable." },
+    { "id": "b2-riscaldamento-globale", "it": "il riscaldamento globale", "fr": "le réchauffement climatique", "example": "Il riscaldamento globale minaccia i ghiacciai alpini.", "exampleFr": "Le réchauffement climatique menace les glaciers alpins." },
+    { "id": "b2-emissioni", "it": "le emissioni", "fr": "les émissions", "example": "L'obiettivo è ridurre le emissioni entro il 2030.", "exampleFr": "L'objectif est de réduire les émissions d'ici 2030." },
+    { "id": "b2-siccita", "it": "la siccità", "fr": "la sécheresse", "example": "La siccità ha colpito duramente l'agricoltura.", "exampleFr": "La sécheresse a durement frappé l'agriculture." },
+    { "id": "b2-disuguaglianza", "it": "la disuguaglianza", "fr": "l'inégalité", "example": "Le disuguaglianze tra Nord e Sud persistono.", "exampleFr": "Les inégalités entre le Nord et le Sud persistent." },
+    { "id": "b2-provvedimento", "it": "il provvedimento", "fr": "la mesure (officielle)", "example": "Il governo ha varato nuovi provvedimenti.", "exampleFr": "Le gouvernement a adopté de nouvelles mesures." },
+    { "id": "b2-varare", "it": "varare", "fr": "lancer ; adopter (une loi, un projet)", "example": "Il Parlamento ha varato la riforma.", "exampleFr": "Le Parlement a adopté la réforme." },
+    { "id": "b2-riforma", "it": "la riforma", "fr": "la réforme", "example": "La riforma delle pensioni divide il paese.", "exampleFr": "La réforme des retraites divise le pays." },
+    { "id": "b2-dibattito", "it": "il dibattito", "fr": "le débat", "example": "Il dibattito televisivo è stato molto acceso.", "exampleFr": "Le débat télévisé a été très animé." },
+    { "id": "b2-fonte", "it": "la fonte", "fr": "la source", "example": "Bisogna sempre verificare le fonti.", "exampleFr": "Il faut toujours vérifier les sources." },
+    { "id": "b2-bufala", "it": "la bufala", "fr": "la fausse information ; le canular", "example": "Quella notizia è una bufala.", "exampleFr": "Cette information est un canular." },
+    { "id": "b2-intervista", "it": "l'intervista", "fr": "l'interview ; l'entretien (presse)", "example": "Nell'intervista ha smentito le voci.", "exampleFr": "Dans l'interview, il a démenti les rumeurs." },
+    { "id": "b2-smentire", "it": "smentire", "fr": "démentir", "example": "Il ministero ha smentito la notizia.", "exampleFr": "Le ministère a démenti l'information." },
+    { "id": "b2-affrontare-crisi", "it": "far fronte a", "fr": "faire face à", "example": "Le famiglie devono far fronte al caro vita.", "exampleFr": "Les familles doivent faire face à la vie chère." },
+    { "id": "b2-calo", "it": "il calo", "fr": "la baisse", "example": "Si registra un calo delle nascite.", "exampleFr": "On enregistre une baisse des naissances." },
+    { "id": "b2-aumento-b2", "it": "in aumento, in calo", "fr": "en hausse, en baisse", "example": "I prezzi dell'energia sono in aumento.", "exampleFr": "Les prix de l'énergie sont en hausse." },
+    { "id": "b2-concorrenza", "it": "la concorrenza", "fr": "la concurrence", "example": "La concorrenza tra le compagnie aeree è feroce.", "exampleFr": "La concurrence entre les compagnies aériennes est féroce." },
+    { "id": "b2-consumatore", "it": "il consumatore", "fr": "le consommateur", "example": "I consumatori sono sempre più attenti al prezzo.", "exampleFr": "Les consommateurs sont de plus en plus attentifs au prix." }
+  ]
+}

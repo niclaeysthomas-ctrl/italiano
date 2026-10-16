@@ -1,0 +1,24 @@
+{
+  "id": "a1-personnes",
+  "title": "Famille et personnes",
+  "level": "A1",
+  "description": "La famille, se présenter, décrire quelqu'un.",
+  "notes": [
+    { "id": "a1-madre", "it": "la madre", "fr": "la mère", "example": "Mia madre è insegnante.", "exampleFr": "Ma mère est enseignante." },
+    { "id": "a1-padre", "it": "il padre", "fr": "le père", "example": "Mio padre lavora in banca.", "exampleFr": "Mon père travaille à la banque." },
+    { "id": "a1-figlio", "it": "il figlio, la figlia", "fr": "le fils, la fille", "example": "Hanno due figli.", "exampleFr": "Ils ont deux enfants." },
+    { "id": "a1-fratello", "it": "il fratello", "fr": "le frère", "example": "Mio fratello abita a Torino.", "exampleFr": "Mon frère habite à Turin." },
+    { "id": "a1-sorella", "it": "la sorella", "fr": "la sœur", "example": "Mia sorella è più giovane di me.", "exampleFr": "Ma sœur est plus jeune que moi." },
+    { "id": "a1-nonno", "it": "il nonno, la nonna", "fr": "le grand-père, la grand-mère", "example": "La nonna cucina benissimo.", "exampleFr": "Grand-mère cuisine très bien." },
+    { "id": "a1-marito", "it": "il marito", "fr": "le mari", "example": "Questo è mio marito, Paolo.", "exampleFr": "Voici mon mari, Paolo." },
+    { "id": "a1-moglie", "it": "la moglie", "fr": "la femme ; l'épouse", "example": "Sua moglie è spagnola.", "exampleFr": "Sa femme est espagnole." },
+    { "id": "a1-ragazzo", "it": "il ragazzo, la ragazza", "fr": "le garçon, la fille ; le copain, la copine", "example": "La mia ragazza si chiama Elena.", "exampleFr": "Ma copine s'appelle Elena." },
+    { "id": "a1-bambino", "it": "il bambino, la bambina", "fr": "l'enfant ; le petit garçon, la petite fille", "example": "I bambini giocano nel parco.", "exampleFr": "Les enfants jouent dans le parc." },
+    { "id": "a1-mi-chiamo", "it": "mi chiamo…", "fr": "je m'appelle…", "example": "Mi chiamo Thomas, piacere!", "exampleFr": "Je m'appelle Thomas, enchanté !" },
+    { "id": "a1-piacere", "it": "piacere", "fr": "enchanté(e)", "example": "Piacere, io sono Giulia.", "exampleFr": "Enchantée, moi c'est Giulia." },
+    { "id": "a1-alto", "it": "alto, alta", "fr": "grand, grande", "example": "Marco è molto alto.", "exampleFr": "Marco est très grand." },
+    { "id": "a1-giovane", "it": "giovane", "fr": "jeune", "example": "È un professore giovane.", "exampleFr": "C'est un jeune professeur." },
+    { "id": "a1-simpatico", "it": "simpatico, simpatica", "fr": "sympathique", "example": "La tua amica è molto simpatica.", "exampleFr": "Ton amie est très sympathique." },
+    { "id": "a1-gentile", "it": "gentile", "fr": "gentil ; aimable", "example": "Grazie, sei molto gentile.", "exampleFr": "Merci, tu es très gentil." }
+  ]
+}

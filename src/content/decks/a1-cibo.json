@@ -1,0 +1,28 @@
+{
+  "id": "a1-cibo",
+  "title": "Manger et boire",
+  "level": "A1",
+  "description": "Aliments, boissons et phrases pour commander.",
+  "notes": [
+    { "id": "a1-colazione", "it": "la colazione", "fr": "le petit-déjeuner", "example": "Faccio colazione al bar.", "exampleFr": "Je prends mon petit-déjeuner au café." },
+    { "id": "a1-pranzo", "it": "il pranzo", "fr": "le déjeuner", "example": "Il pranzo è pronto!", "exampleFr": "Le déjeuner est prêt !" },
+    { "id": "a1-cena", "it": "la cena", "fr": "le dîner", "example": "Stasera la cena la preparo io.", "exampleFr": "Ce soir, c'est moi qui prépare le dîner." },
+    { "id": "a1-vino", "it": "il vino", "fr": "le vin", "example": "Un bicchiere di vino rosso, per favore.", "exampleFr": "Un verre de vin rouge, s'il vous plaît." },
+    { "id": "a1-birra", "it": "la birra", "fr": "la bière", "example": "Prendo una birra piccola.", "exampleFr": "Je prends une petite bière." },
+    { "id": "a1-latte", "it": "il latte", "fr": "le lait", "example": "Il caffè con un po' di latte.", "exampleFr": "Le café avec un peu de lait." },
+    { "id": "a1-carne", "it": "la carne", "fr": "la viande", "example": "Questa carne è molto tenera.", "exampleFr": "Cette viande est très tendre." },
+    { "id": "a1-pesce", "it": "il pesce", "fr": "le poisson", "example": "Qui il pesce è freschissimo.", "exampleFr": "Ici, le poisson est très frais." },
+    { "id": "a1-verdura", "it": "la verdura", "fr": "les légumes", "example": "Mangio molta verdura.", "exampleFr": "Je mange beaucoup de légumes." },
+    { "id": "a1-frutta", "it": "la frutta", "fr": "les fruits", "example": "Per dessert prendo la frutta.", "exampleFr": "En dessert, je prends des fruits." },
+    { "id": "a1-formaggio", "it": "il formaggio", "fr": "le fromage", "example": "Il parmigiano è un formaggio stagionato.", "exampleFr": "Le parmesan est un fromage affiné." },
+    { "id": "a1-uovo", "it": "l'uovo (le uova)", "fr": "l'œuf (les œufs)", "example": "Mi servono sei uova.", "exampleFr": "J'ai besoin de six œufs." },
+    { "id": "a1-zucchero", "it": "lo zucchero", "fr": "le sucre", "example": "Il caffè senza zucchero.", "exampleFr": "Le café sans sucre." },
+    { "id": "a1-sale", "it": "il sale", "fr": "le sel", "example": "Mi passi il sale, per favore?", "exampleFr": "Tu me passes le sel, s'il te plaît ?" },
+    { "id": "a1-buono", "it": "buono, buona", "fr": "bon, bonne", "example": "Questa pizza è buonissima!", "exampleFr": "Cette pizza est délicieuse !" },
+    { "id": "a1-fame", "it": "avere fame", "fr": "avoir faim", "example": "Ho fame, mangiamo?", "exampleFr": "J'ai faim, on mange ?" },
+    { "id": "a1-sete", "it": "avere sete", "fr": "avoir soif", "example": "Hai sete? Vuoi dell'acqua?", "exampleFr": "Tu as soif ? Tu veux de l'eau ?" },
+    { "id": "a1-vorrei", "it": "vorrei…", "fr": "je voudrais…", "example": "Vorrei un tavolo per quattro.", "exampleFr": "Je voudrais une table pour quatre." },
+    { "id": "a1-menu", "it": "il menù", "fr": "la carte ; le menu", "example": "Posso vedere il menù?", "exampleFr": "Je peux voir la carte ?" },
+    { "id": "a1-ristorante", "it": "il ristorante", "fr": "le restaurant", "example": "Conosci un buon ristorante qui vicino?", "exampleFr": "Tu connais un bon restaurant près d'ici ?" }
+  ]
+}

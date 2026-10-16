@@ -1,0 +1,30 @@
+{
+  "id": "b1-phrases",
+  "title": "Phrases pour discuter",
+  "level": "B1",
+  "description": "Donner son avis, nuancer, réagir : des phrases complètes.",
+  "notes": [
+    { "id": "b1p-secondo-me", "it": "Secondo me…", "fr": "À mon avis…", "example": "Secondo me hai ragione.", "exampleFr": "À mon avis, tu as raison." },
+    { "id": "b1p-sono-d-accordo", "it": "Sono d'accordo con te.", "fr": "Je suis d'accord avec toi.", "example": "Su questo punto sono d'accordo con te.", "exampleFr": "Sur ce point, je suis d'accord avec toi." },
+    { "id": "b1p-non-sono-sicuro", "it": "Non ne sono sicuro.", "fr": "Je n'en suis pas sûr.", "example": "Forse parte domani, ma non ne sono sicuro.", "exampleFr": "Il part peut-être demain, mais je n'en suis pas sûr." },
+    { "id": "b1p-dipende-da", "it": "Tutto dipende da…", "fr": "Tout dépend de…", "example": "Tutto dipende da quanto costa.", "exampleFr": "Tout dépend de combien ça coûte." },
+    { "id": "b1p-da-un-lato", "it": "Da un lato…, dall'altro…", "fr": "D'un côté…, de l'autre…", "example": "Da un lato è comodo, dall'altro è caro.", "exampleFr": "D'un côté c'est pratique, de l'autre c'est cher." },
+    { "id": "b1p-insomma", "it": "Insomma…", "fr": "Bref… ; en somme…", "example": "Insomma, è stata una giornata pesante.", "exampleFr": "Bref, ça a été une journée difficile." },
+    { "id": "b1p-comunque", "it": "Comunque…", "fr": "De toute façon… ; quoi qu'il en soit…", "example": "Comunque, ne parliamo domani.", "exampleFr": "De toute façon, on en reparle demain." },
+    { "id": "b1p-anzi", "it": "anzi", "fr": "au contraire ; et même", "example": "Non è caro, anzi, è un affare.", "exampleFr": "Ce n'est pas cher, au contraire, c'est une affaire." },
+    { "id": "b1p-mi-sa-che", "it": "Mi sa che…", "fr": "J'ai l'impression que…", "example": "Mi sa che oggi piove.", "exampleFr": "J'ai l'impression qu'il va pleuvoir aujourd'hui." },
+    { "id": "b1p-ti-va-di", "it": "Ti va di…?", "fr": "Ça te dit de… ?", "example": "Ti va di prendere un aperitivo?", "exampleFr": "Ça te dit de prendre un apéritif ?" },
+    { "id": "b1p-non-vedo-l-ora", "it": "Non vedo l'ora di…", "fr": "J'ai hâte de…", "example": "Non vedo l'ora di partire per le vacanze.", "exampleFr": "J'ai hâte de partir en vacances." },
+    { "id": "b1p-meno-male", "it": "Meno male!", "fr": "Heureusement ! ; ouf !", "example": "Meno male che sei arrivato!", "exampleFr": "Heureusement que tu es arrivé !" },
+    { "id": "b1p-che-ne-pensi", "it": "Che ne pensi?", "fr": "Qu'en penses-tu ?", "example": "Ho trovato questo appartamento, che ne pensi?", "exampleFr": "J'ai trouvé cet appartement, qu'en penses-tu ?" },
+    { "id": "b1p-vale-la-pena", "it": "Vale la pena…", "fr": "Ça vaut la peine de…", "example": "Vale la pena visitare Matera.", "exampleFr": "Ça vaut la peine de visiter Matera." },
+    { "id": "b1p-fa-niente", "it": "Non fa niente.", "fr": "Ce n'est pas grave.", "example": "Hai dimenticato il libro? Non fa niente.", "exampleFr": "Tu as oublié le livre ? Ce n'est pas grave." },
+    { "id": "b1p-se-fossi-in-te", "it": "Se fossi in te…", "fr": "Si j'étais toi…", "example": "Se fossi in te, accetterei l'offerta.", "exampleFr": "Si j'étais toi, j'accepterais l'offre." },
+    { "id": "b1p-mi-piacerebbe", "it": "Mi piacerebbe…", "fr": "J'aimerais…", "example": "Mi piacerebbe vivere vicino al mare.", "exampleFr": "J'aimerais vivre près de la mer." },
+    { "id": "b1p-a-dire-il-vero", "it": "A dire il vero…", "fr": "À vrai dire…", "example": "A dire il vero, preferisco restare a casa.", "exampleFr": "À vrai dire, je préfère rester à la maison." },
+    { "id": "b1p-per-fortuna", "it": "Per fortuna…", "fr": "Heureusement…", "example": "Per fortuna nessuno si è fatto male.", "exampleFr": "Heureusement, personne n'a été blessé." },
+    { "id": "b1p-ho-sentito-dire", "it": "Ho sentito dire che…", "fr": "J'ai entendu dire que…", "example": "Ho sentito dire che chiudono il cinema.", "exampleFr": "J'ai entendu dire qu'ils ferment le cinéma." },
+    { "id": "b1p-pazienza", "it": "Pazienza!", "fr": "Tant pis !", "example": "Il negozio è chiuso? Pazienza, torno domani.", "exampleFr": "Le magasin est fermé ? Tant pis, je reviens demain." },
+    { "id": "b1p-sul-serio", "it": "Sul serio?", "fr": "Sérieusement ? ; Vraiment ?", "example": "Hai vinto alla lotteria? Sul serio?", "exampleFr": "Tu as gagné à la loterie ? Sérieusement ?" }
+  ]
+}

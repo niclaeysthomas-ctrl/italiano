@@ -1,0 +1,24 @@
+{
+  "id": "b1-lavoro",
+  "title": "Le monde du travail",
+  "level": "B1",
+  "description": "Chercher un emploi, travailler en équipe, négocier.",
+  "notes": [
+    { "id": "b1-curriculum", "it": "il curriculum", "fr": "le CV", "example": "Ho mandato il curriculum a tre aziende.", "exampleFr": "J'ai envoyé mon CV à trois entreprises." },
+    { "id": "b1-candidarsi", "it": "candidarsi", "fr": "postuler ; se porter candidat", "example": "Mi sono candidato per un posto a Milano.", "exampleFr": "J'ai postulé pour un poste à Milan." },
+    { "id": "b1-assumere", "it": "assumere (assunto)", "fr": "embaucher (embauché)", "example": "L'azienda ha assunto venti persone.", "exampleFr": "L'entreprise a embauché vingt personnes." },
+    { "id": "b1-licenziare", "it": "licenziare", "fr": "licencier", "example": "Hanno licenziato metà del personale.", "exampleFr": "Ils ont licencié la moitié du personnel." },
+    { "id": "b1-dimettersi", "it": "dimettersi", "fr": "démissionner", "example": "Si è dimesso per aprire un ristorante.", "exampleFr": "Il a démissionné pour ouvrir un restaurant." },
+    { "id": "b1-contratto", "it": "il contratto", "fr": "le contrat", "example": "Ho un contratto a tempo indeterminato.", "exampleFr": "J'ai un contrat à durée indéterminée." },
+    { "id": "b1-azienda", "it": "l'azienda", "fr": "l'entreprise", "example": "Lavoro in un'azienda di moda.", "exampleFr": "Je travaille dans une entreprise de mode." },
+    { "id": "b1-scadenza", "it": "la scadenza", "fr": "l'échéance ; la date limite", "example": "La scadenza del progetto è venerdì.", "exampleFr": "La date limite du projet est vendredi." },
+    { "id": "b1-orario", "it": "l'orario di lavoro", "fr": "les horaires de travail", "example": "Ho un orario flessibile.", "exampleFr": "J'ai des horaires flexibles." },
+    { "id": "b1-straordinari", "it": "gli straordinari", "fr": "les heures supplémentaires", "example": "Questa settimana ho fatto molti straordinari.", "exampleFr": "Cette semaine, j'ai fait beaucoup d'heures sup." },
+    { "id": "b1-aumento", "it": "l'aumento", "fr": "l'augmentation", "example": "Ho chiesto un aumento al mio capo.", "exampleFr": "J'ai demandé une augmentation à mon chef." },
+    { "id": "b1-cliente", "it": "il cliente", "fr": "le client", "example": "Il cliente vuole una risposta entro oggi.", "exampleFr": "Le client veut une réponse d'ici ce soir." },
+    { "id": "b1-pensione", "it": "la pensione", "fr": "la retraite", "example": "Mio padre è andato in pensione l'anno scorso.", "exampleFr": "Mon père est parti à la retraite l'an dernier." },
+    { "id": "b1-esperienza", "it": "l'esperienza", "fr": "l'expérience", "example": "Cercano qualcuno con esperienza nel settore.", "exampleFr": "Ils cherchent quelqu'un avec de l'expérience dans le secteur." },
+    { "id": "b1-gestire", "it": "gestire", "fr": "gérer", "example": "Gestisce un gruppo di dieci persone.", "exampleFr": "Elle gère une équipe de dix personnes." },
+    { "id": "b1-in-proprio", "it": "lavorare in proprio", "fr": "travailler à son compte", "example": "Da due anni lavoro in proprio.", "exampleFr": "Depuis deux ans, je travaille à mon compte." }
+  ]
+}

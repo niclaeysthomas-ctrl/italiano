@@ -1,0 +1,24 @@
+{
+  "id": "a1-descrire",
+  "title": "Décrire et comparer",
+  "level": "A1",
+  "description": "Adjectifs de base, couleurs et mots pour nuancer.",
+  "notes": [
+    { "id": "a1-grande", "it": "grande, piccolo", "fr": "grand, petit", "example": "La casa è grande ma il giardino è piccolo.", "exampleFr": "La maison est grande mais le jardin est petit." },
+    { "id": "a1-nuovo", "it": "nuovo, vecchio", "fr": "neuf, vieux", "example": "Ho una bicicletta nuova.", "exampleFr": "J'ai un vélo neuf." },
+    { "id": "a1-caldo-freddo", "it": "caldo, freddo", "fr": "chaud, froid", "example": "Il caffè è troppo caldo.", "exampleFr": "Le café est trop chaud." },
+    { "id": "a1-facile", "it": "facile, difficile", "fr": "facile, difficile", "example": "L'italiano non è difficile.", "exampleFr": "L'italien n'est pas difficile." },
+    { "id": "a1-brutto", "it": "brutto", "fr": "laid ; mauvais (temps)", "example": "Oggi fa brutto tempo.", "exampleFr": "Aujourd'hui, il fait mauvais." },
+    { "id": "a1-molto", "it": "molto", "fr": "très ; beaucoup", "example": "Mi piace molto questa città.", "exampleFr": "J'aime beaucoup cette ville." },
+    { "id": "a1-poco", "it": "poco, un po'", "fr": "peu, un peu", "example": "Parlo un po' di italiano.", "exampleFr": "Je parle un peu italien." },
+    { "id": "a1-troppo", "it": "troppo", "fr": "trop", "example": "Questo ristorante è troppo caro.", "exampleFr": "Ce restaurant est trop cher." },
+    { "id": "a1-anche", "it": "anche", "fr": "aussi", "example": "Anch'io sono francese.", "exampleFr": "Moi aussi, je suis français." },
+    { "id": "a1-ma", "it": "ma, perché", "fr": "mais, parce que", "example": "Resto a casa perché sono stanco.", "exampleFr": "Je reste à la maison parce que je suis fatigué." },
+    { "id": "a1-piu-di", "it": "più… di", "fr": "plus… que", "example": "Roma è più grande di Firenze.", "exampleFr": "Rome est plus grande que Florence." },
+    { "id": "a1-bianco", "it": "bianco, nero", "fr": "blanc, noir", "example": "Ho un gatto bianco e nero.", "exampleFr": "J'ai un chat blanc et noir." },
+    { "id": "a1-felice-contento", "it": "contento", "fr": "content", "example": "Sono contento di vederti!", "exampleFr": "Je suis content de te voir !" },
+    { "id": "a1-pronto", "it": "pronto", "fr": "prêt ; allô (au téléphone)", "example": "Pronto? Chi parla?", "exampleFr": "Allô ? Qui est à l'appareil ?" },
+    { "id": "a1-tutto", "it": "tutto, tutti", "fr": "tout, tous", "example": "Tutti i miei amici sono qui.", "exampleFr": "Tous mes amis sont là." },
+    { "id": "a1-niente", "it": "niente", "fr": "rien", "example": "Non ho capito niente.", "exampleFr": "Je n'ai rien compris." }
+  ]
+}

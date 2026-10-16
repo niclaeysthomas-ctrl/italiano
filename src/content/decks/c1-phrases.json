@@ -1,0 +1,22 @@
+{
+  "id": "c1-phrases",
+  "title": "Phrases à traduire : registre soutenu",
+  "level": "C1",
+  "description": "Phrases de courriel formel, de presse et de débat.",
+  "notes": [
+    { "id": "c1p-con-la-presente", "it": "Con la presente Le comunico che…", "fr": "Par la présente, je vous informe que…", "example": "Con la presente Le comunico che la Sua domanda è stata accolta.", "exampleFr": "Par la présente, je vous informe que votre demande a été acceptée." },
+    { "id": "c1p-resto-a-disposizione", "it": "Resto a disposizione per eventuali chiarimenti.", "fr": "Je reste à votre disposition pour tout éclaircissement.", "example": "Resto a disposizione per eventuali chiarimenti e porgo cordiali saluti.", "exampleFr": "Je reste à votre disposition pour tout éclaircissement et vous adresse mes cordiales salutations." },
+    { "id": "c1p-ci-tengo-a-precisare", "it": "Ci tengo a precisare che…", "fr": "Je tiens à préciser que…", "example": "Ci tengo a precisare che non si tratta di una critica personale.", "exampleFr": "Je tiens à préciser qu'il ne s'agit pas d'une critique personnelle." },
+    { "id": "c1p-non-si-puo-fare-a-meno", "it": "Non si può fare a meno di notare che…", "fr": "On ne peut s'empêcher de remarquer que…", "example": "Non si può fare a meno di notare che i risultati sono contraddittori.", "exampleFr": "On ne peut s'empêcher de remarquer que les résultats sont contradictoires." },
+    { "id": "c1p-va-da-se", "it": "Va da sé che…", "fr": "Il va de soi que…", "example": "Va da sé che le spese saranno rimborsate.", "exampleFr": "Il va de soi que les frais seront remboursés." },
+    { "id": "c1p-a-maggior-ragione", "it": "a maggior ragione", "fr": "à plus forte raison", "example": "È vietato a tutti, a maggior ragione ai minori.", "exampleFr": "C'est interdit à tous, à plus forte raison aux mineurs." },
+    { "id": "c1p-checche-se-ne-dica", "it": "Checché se ne dica…", "fr": "Quoi qu'on en dise…", "example": "Checché se ne dica, è stato un buon sindaco.", "exampleFr": "Quoi qu'on en dise, ce fut un bon maire." },
+    { "id": "c1p-fermo-restando", "it": "Fermo restando che…", "fr": "Étant entendu que… ; sous réserve que…", "example": "Fermo restando che la decisione spetta a voi, vi consiglio di aspettare.", "exampleFr": "Étant entendu que la décision vous appartient, je vous conseille d'attendre." },
+    { "id": "c1p-sarebbe-opportuno", "it": "Sarebbe opportuno che…", "fr": "Il serait opportun que…", "example": "Sarebbe opportuno che la direzione si esprimesse al più presto.", "exampleFr": "Il serait opportun que la direction se prononce au plus vite." },
+    { "id": "c1p-non-che", "it": "Non che mi dispiaccia, ma…", "fr": "Non pas que ça me déplaise, mais…", "example": "Non che mi dispiaccia, ma avrei preferito saperlo prima.", "exampleFr": "Non pas que ça me déplaise, mais j'aurais préféré le savoir avant." },
+    { "id": "c1p-ammesso-che", "it": "Ammesso e non concesso che…", "fr": "À supposer que… (sans l'admettre)", "example": "Ammesso e non concesso che abbia ragione lui, il metodo resta discutibile.", "exampleFr": "À supposer même qu'il ait raison, la méthode reste discutable." },
+    { "id": "c1p-tanto-piu-che", "it": "tanto più che", "fr": "d'autant plus que", "example": "Non vengo, tanto più che non sono stato invitato.", "exampleFr": "Je ne viens pas, d'autant plus que je n'ai pas été invité." },
+    { "id": "c1p-a-scanso-di-equivoci", "it": "A scanso di equivoci…", "fr": "Pour éviter tout malentendu…", "example": "A scanso di equivoci, ripeto le condizioni dell'accordo.", "exampleFr": "Pour éviter tout malentendu, je répète les conditions de l'accord." },
+    { "id": "c1p-si-evince", "it": "Dai dati si evince che…", "fr": "Il ressort des données que…", "example": "Dai dati si evince che il fenomeno è in crescita.", "exampleFr": "Il ressort des données que le phénomène est en hausse." }
+  ]
+}

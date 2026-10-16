@@ -1,0 +1,30 @@
+{
+  "id": "a1-verbes",
+  "title": "Verbes du quotidien",
+  "level": "A1",
+  "description": "Les verbes les plus utiles, au présent.",
+  "notes": [
+    { "id": "a1-fare", "it": "fare", "fr": "faire", "example": "Che cosa fai stasera?", "exampleFr": "Qu'est-ce que tu fais ce soir ?" },
+    { "id": "a1-venire", "it": "venire", "fr": "venir", "example": "Vieni con noi al mare?", "exampleFr": "Tu viens avec nous à la mer ?" },
+    { "id": "a1-volere", "it": "volere", "fr": "vouloir", "example": "Voglio imparare l'italiano.", "exampleFr": "Je veux apprendre l'italien." },
+    { "id": "a1-potere", "it": "potere", "fr": "pouvoir", "example": "Posso entrare?", "exampleFr": "Je peux entrer ?" },
+    { "id": "a1-dovere", "it": "dovere", "fr": "devoir", "example": "Devo partire alle sei.", "exampleFr": "Je dois partir à six heures." },
+    { "id": "a1-sapere", "it": "sapere", "fr": "savoir", "example": "Non so dov'è la fermata.", "exampleFr": "Je ne sais pas où est l'arrêt." },
+    { "id": "a1-capire", "it": "capire", "fr": "comprendre", "example": "Scusi, non capisco.", "exampleFr": "Excusez-moi, je ne comprends pas." },
+    { "id": "a1-abitare", "it": "abitare", "fr": "habiter", "example": "Abitiamo in un piccolo appartamento.", "exampleFr": "Nous habitons dans un petit appartement." },
+    { "id": "a1-lavorare", "it": "lavorare", "fr": "travailler", "example": "Lavoro dalle nove alle sei.", "exampleFr": "Je travaille de neuf heures à six heures." },
+    { "id": "a1-studiare", "it": "studiare", "fr": "étudier", "example": "Studio l'italiano ogni giorno.", "exampleFr": "J'étudie l'italien tous les jours." },
+    { "id": "a1-dormire", "it": "dormire", "fr": "dormir", "example": "Stanotte ho dormito poco.", "exampleFr": "Cette nuit, j'ai peu dormi." },
+    { "id": "a1-leggere", "it": "leggere", "fr": "lire", "example": "Leggo il giornale in treno.", "exampleFr": "Je lis le journal dans le train." },
+    { "id": "a1-scrivere", "it": "scrivere", "fr": "écrire", "example": "Ti scrivo un messaggio più tardi.", "exampleFr": "Je t'écris un message plus tard." },
+    { "id": "a1-vedere", "it": "vedere", "fr": "voir", "example": "Vediamo un film stasera?", "exampleFr": "On regarde un film ce soir ?" },
+    { "id": "a1-sentire", "it": "sentire", "fr": "entendre ; sentir", "example": "Non ti sento bene, puoi ripetere?", "exampleFr": "Je ne t'entends pas bien, tu peux répéter ?" },
+    { "id": "a1-comprare", "it": "comprare", "fr": "acheter", "example": "Devo comprare un regalo per mia madre.", "exampleFr": "Je dois acheter un cadeau pour ma mère." },
+    { "id": "a1-aprire", "it": "aprire", "fr": "ouvrir", "example": "Puoi aprire la finestra?", "exampleFr": "Tu peux ouvrir la fenêtre ?" },
+    { "id": "a1-chiudere", "it": "chiudere", "fr": "fermer", "example": "Chiudi la porta, per favore.", "exampleFr": "Ferme la porte, s'il te plaît." },
+    { "id": "a1-uscire", "it": "uscire", "fr": "sortir", "example": "Stasera esco con i colleghi.", "exampleFr": "Ce soir, je sors avec mes collègues." },
+    { "id": "a1-tornare", "it": "tornare", "fr": "revenir ; rentrer", "example": "A che ora torni a casa?", "exampleFr": "À quelle heure tu rentres à la maison ?" },
+    { "id": "a1-piacere-verbo", "it": "mi piace", "fr": "j'aime ; ça me plaît", "example": "Mi piace molto la musica italiana.", "exampleFr": "J'aime beaucoup la musique italienne." },
+    { "id": "a1-aspettare", "it": "aspettare", "fr": "attendre", "example": "Ti aspetto davanti al cinema.", "exampleFr": "Je t'attends devant le cinéma." }
+  ]
+}

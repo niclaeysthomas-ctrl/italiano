@@ -1,0 +1,28 @@
+{
+  "id": "a1-nombres-temps",
+  "title": "Nombres, jours et heures",
+  "level": "A1",
+  "description": "Compter, dire l'heure, les jours et les moments de la journée.",
+  "notes": [
+    { "id": "a1-uno", "it": "uno, due, tre", "fr": "un, deux, trois", "example": "Ho tre sorelle.", "exampleFr": "J'ai trois sœurs." },
+    { "id": "a1-dieci", "it": "dieci", "fr": "dix", "example": "Il negozio apre alle dieci.", "exampleFr": "Le magasin ouvre à dix heures." },
+    { "id": "a1-venti", "it": "venti", "fr": "vingt", "example": "Ho venti euro.", "exampleFr": "J'ai vingt euros." },
+    { "id": "a1-cento", "it": "cento", "fr": "cent", "example": "Il biglietto costa cento euro.", "exampleFr": "Le billet coûte cent euros." },
+    { "id": "a1-che-ore-sono", "it": "che ore sono?", "fr": "quelle heure est-il ?", "example": "Scusi, che ore sono?", "exampleFr": "Excusez-moi, quelle heure est-il ?" },
+    { "id": "a1-mezzogiorno", "it": "mezzogiorno", "fr": "midi", "example": "Pranziamo a mezzogiorno.", "exampleFr": "Nous déjeunons à midi." },
+    { "id": "a1-mattina", "it": "la mattina", "fr": "le matin", "example": "La mattina bevo un caffè.", "exampleFr": "Le matin, je bois un café." },
+    { "id": "a1-pomeriggio", "it": "il pomeriggio", "fr": "l'après-midi", "example": "Il pomeriggio lavoro da casa.", "exampleFr": "L'après-midi, je travaille depuis chez moi." },
+    { "id": "a1-notte", "it": "la notte", "fr": "la nuit", "example": "Buona notte, a domani!", "exampleFr": "Bonne nuit, à demain !" },
+    { "id": "a1-lunedi", "it": "lunedì", "fr": "lundi", "example": "Lunedì ricomincio a lavorare.", "exampleFr": "Lundi, je reprends le travail." },
+    { "id": "a1-venerdi", "it": "venerdì", "fr": "vendredi", "example": "Venerdì sera andiamo al cinema.", "exampleFr": "Vendredi soir, nous allons au cinéma." },
+    { "id": "a1-domenica", "it": "la domenica", "fr": "le dimanche", "example": "La domenica pranzo dai miei genitori.", "exampleFr": "Le dimanche, je déjeune chez mes parents." },
+    { "id": "a1-mese", "it": "il mese", "fr": "le mois", "example": "Il mese prossimo vado in Sicilia.", "exampleFr": "Le mois prochain, je vais en Sicile." },
+    { "id": "a1-anno", "it": "l'anno", "fr": "l'année ; l'an", "example": "Quanti anni hai?", "exampleFr": "Quel âge as-tu ?" },
+    { "id": "a1-ora", "it": "l'ora", "fr": "l'heure", "example": "Il film dura due ore.", "exampleFr": "Le film dure deux heures." },
+    { "id": "a1-adesso", "it": "adesso", "fr": "maintenant", "example": "Adesso non posso, scusa.", "exampleFr": "Maintenant je ne peux pas, désolé." },
+    { "id": "a1-sempre", "it": "sempre", "fr": "toujours", "example": "Arrivi sempre in ritardo!", "exampleFr": "Tu arrives toujours en retard !" },
+    { "id": "a1-mai", "it": "non… mai", "fr": "ne… jamais", "example": "Non mangio mai carne.", "exampleFr": "Je ne mange jamais de viande." },
+    { "id": "a1-presto", "it": "presto", "fr": "tôt ; bientôt", "example": "Domani mi alzo presto.", "exampleFr": "Demain, je me lève tôt." },
+    { "id": "a1-tardi", "it": "tardi", "fr": "tard", "example": "È tardi, torno a casa.", "exampleFr": "Il est tard, je rentre à la maison." }
+  ]
+}

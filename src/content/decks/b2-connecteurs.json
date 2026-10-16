@@ -1,0 +1,28 @@
+{
+  "id": "b2-connecteurs",
+  "title": "Connecteurs et nuances",
+  "level": "B2",
+  "description": "Structurer un discours : cause, conséquence, concession, condition.",
+  "notes": [
+    { "id": "b2-pertanto", "it": "pertanto", "fr": "par conséquent", "example": "Il treno è in ritardo, pertanto arriveremo tardi.", "exampleFr": "Le train est en retard, par conséquent nous arriverons tard." },
+    { "id": "b2-dunque", "it": "dunque", "fr": "donc", "example": "Penso, dunque sono.", "exampleFr": "Je pense, donc je suis." },
+    { "id": "b2-infatti", "it": "infatti", "fr": "en effet", "example": "Era stanco, infatti è andato a letto presto.", "exampleFr": "Il était fatigué, en effet il est allé se coucher tôt." },
+    { "id": "b2-invece", "it": "invece", "fr": "en revanche ; au lieu de", "example": "Io preferisco il mare, lei invece la montagna.", "exampleFr": "Moi je préfère la mer, elle en revanche la montagne." },
+    { "id": "b2-benche", "it": "benché", "fr": "bien que", "example": "Benché fosse tardi, abbiamo continuato.", "exampleFr": "Bien qu'il fût tard, nous avons continué." },
+    { "id": "b2-sebbene", "it": "sebbene", "fr": "bien que", "example": "Sebbene sia ricco, vive con poco.", "exampleFr": "Bien qu'il soit riche, il vit avec peu." },
+    { "id": "b2-purche", "it": "purché", "fr": "pourvu que ; à condition que", "example": "Puoi uscire, purché torni entro mezzanotte.", "exampleFr": "Tu peux sortir, à condition de rentrer avant minuit." },
+    { "id": "b2-affinche", "it": "affinché", "fr": "afin que", "example": "Te lo ripeto affinché tu capisca.", "exampleFr": "Je te le répète afin que tu comprennes." },
+    { "id": "b2-a-meno-che", "it": "a meno che non", "fr": "à moins que", "example": "Usciamo, a meno che non piova.", "exampleFr": "Nous sortirons, à moins qu'il ne pleuve." },
+    { "id": "b2-dato-che", "it": "dato che", "fr": "étant donné que", "example": "Dato che sei qui, aiutami.", "exampleFr": "Puisque tu es là, aide-moi." },
+    { "id": "b2-siccome", "it": "siccome", "fr": "comme ; puisque (en début de phrase)", "example": "Siccome pioveva, siamo rimasti a casa.", "exampleFr": "Comme il pleuvait, nous sommes restés à la maison." },
+    { "id": "b2-tuttavia", "it": "tuttavia", "fr": "toutefois", "example": "Il progetto è valido; tuttavia costa troppo.", "exampleFr": "Le projet est valable ; toutefois il coûte trop cher." },
+    { "id": "b2-eppure", "it": "eppure", "fr": "et pourtant", "example": "Ha studiato tanto, eppure è stato bocciato.", "exampleFr": "Il a beaucoup étudié, et pourtant il a échoué." },
+    { "id": "b2-inoltre", "it": "inoltre", "fr": "de plus ; en outre", "example": "L'hotel è centrale; inoltre, ha un ottimo prezzo.", "exampleFr": "L'hôtel est central ; de plus, son prix est excellent." },
+    { "id": "b2-ossia", "it": "ossia, cioè", "fr": "c'est-à-dire", "example": "Ci vediamo dopodomani, cioè giovedì.", "exampleFr": "On se voit après-demain, c'est-à-dire jeudi." },
+    { "id": "b2-man-mano", "it": "man mano che", "fr": "au fur et à mesure que", "example": "Man mano che passa il tempo, capisco meglio.", "exampleFr": "Au fur et à mesure que le temps passe, je comprends mieux." },
+    { "id": "b2-nel-caso-in-cui", "it": "nel caso in cui", "fr": "au cas où", "example": "Nel caso in cui tu abbia problemi, chiamami.", "exampleFr": "Au cas où tu aurais des problèmes, appelle-moi." },
+    { "id": "b2-in-fin-dei-conti", "it": "in fin dei conti", "fr": "en fin de compte", "example": "In fin dei conti, è andata bene.", "exampleFr": "En fin de compte, ça s'est bien passé." },
+    { "id": "b2-a-proposito", "it": "a proposito", "fr": "à propos", "example": "A proposito, hai sentito Marco?", "exampleFr": "À propos, tu as eu des nouvelles de Marco ?" },
+    { "id": "b2-piuttosto-che", "it": "piuttosto che", "fr": "plutôt que", "example": "Piuttosto che lamentarti, fai qualcosa.", "exampleFr": "Plutôt que de te plaindre, fais quelque chose." }
+  ]
+}

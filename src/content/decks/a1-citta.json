@@ -1,0 +1,24 @@
+{
+  "id": "a1-citta",
+  "title": "En ville",
+  "level": "A1",
+  "description": "Lieux, directions et transports.",
+  "notes": [
+    { "id": "a1-citta", "it": "la città", "fr": "la ville", "example": "Roma è una città enorme.", "exampleFr": "Rome est une ville immense." },
+    { "id": "a1-piazza", "it": "la piazza", "fr": "la place", "example": "Ci vediamo in piazza alle otto.", "exampleFr": "On se retrouve sur la place à huit heures." },
+    { "id": "a1-stazione", "it": "la stazione", "fr": "la gare", "example": "La stazione è a dieci minuti a piedi.", "exampleFr": "La gare est à dix minutes à pied." },
+    { "id": "a1-negozio", "it": "il negozio", "fr": "le magasin", "example": "Il negozio chiude alle sette.", "exampleFr": "Le magasin ferme à sept heures." },
+    { "id": "a1-farmacia", "it": "la farmacia", "fr": "la pharmacie", "example": "C'è una farmacia qui vicino?", "exampleFr": "Il y a une pharmacie près d'ici ?" },
+    { "id": "a1-chiesa", "it": "la chiesa", "fr": "l'église", "example": "Questa chiesa è del Seicento.", "exampleFr": "Cette église date du XVIIe siècle." },
+    { "id": "a1-autobus", "it": "l'autobus", "fr": "le bus", "example": "Prendo l'autobus numero 64.", "exampleFr": "Je prends le bus numéro 64." },
+    { "id": "a1-macchina", "it": "la macchina", "fr": "la voiture", "example": "Non ho la macchina, vado in bici.", "exampleFr": "Je n'ai pas de voiture, j'y vais à vélo." },
+    { "id": "a1-a-destra", "it": "a destra", "fr": "à droite", "example": "Al semaforo giri a destra.", "exampleFr": "Au feu, tournez à droite." },
+    { "id": "a1-a-sinistra", "it": "a sinistra", "fr": "à gauche", "example": "Il bagno è in fondo a sinistra.", "exampleFr": "Les toilettes sont au fond à gauche." },
+    { "id": "a1-dritto", "it": "sempre dritto", "fr": "tout droit", "example": "Vada sempre dritto per cento metri.", "exampleFr": "Continuez tout droit sur cent mètres." },
+    { "id": "a1-vicino", "it": "vicino", "fr": "près ; proche", "example": "Abito vicino al centro.", "exampleFr": "J'habite près du centre." },
+    { "id": "a1-lontano", "it": "lontano", "fr": "loin", "example": "L'aeroporto è lontano?", "exampleFr": "L'aéroport est loin ?" },
+    { "id": "a1-c-e", "it": "c'è, ci sono", "fr": "il y a", "example": "In centro ci sono molti musei.", "exampleFr": "Dans le centre, il y a beaucoup de musées." },
+    { "id": "a1-albergo", "it": "l'albergo", "fr": "l'hôtel", "example": "L'albergo ha una bella vista.", "exampleFr": "L'hôtel a une belle vue." },
+    { "id": "a1-aperto", "it": "aperto, chiuso", "fr": "ouvert, fermé", "example": "Il museo è chiuso il lunedì.", "exampleFr": "Le musée est fermé le lundi." }
+  ]
+}

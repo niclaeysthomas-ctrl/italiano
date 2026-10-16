@@ -1,0 +1,28 @@
+{
+  "id": "c1-nuances",
+  "title": "Vocabulaire précis",
+  "level": "C1",
+  "description": "Adjectifs et verbes pour exprimer finement une idée.",
+  "notes": [
+    { "id": "c1-sfumatura", "it": "la sfumatura", "fr": "la nuance", "example": "C'è una sfumatura di ironia nelle sue parole.", "exampleFr": "Il y a une nuance d'ironie dans ses paroles." },
+    { "id": "c1-spunto", "it": "lo spunto", "fr": "le point de départ ; l'idée", "example": "Il libro offre molti spunti di riflessione.", "exampleFr": "Le livre offre de nombreuses pistes de réflexion." },
+    { "id": "c1-divario", "it": "il divario", "fr": "l'écart ; le fossé", "example": "Il divario tra ricchi e poveri si allarga.", "exampleFr": "L'écart entre riches et pauvres se creuse." },
+    { "id": "c1-sbocco", "it": "lo sbocco", "fr": "le débouché", "example": "Questa laurea offre pochi sbocchi lavorativi.", "exampleFr": "Ce diplôme offre peu de débouchés professionnels." },
+    { "id": "c1-intoppo", "it": "l'intoppo", "fr": "l'accroc ; le contretemps", "example": "Il progetto procede senza intoppi.", "exampleFr": "Le projet avance sans accroc." },
+    { "id": "c1-smaltire", "it": "smaltire", "fr": "écouler ; digérer ; éliminer", "example": "Mi serve una passeggiata per smaltire il pranzo.", "exampleFr": "J'ai besoin d'une promenade pour digérer le déjeuner." },
+    { "id": "c1-arrancare", "it": "arrancare", "fr": "peiner ; avancer péniblement", "example": "L'economia arranca da anni.", "exampleFr": "L'économie peine depuis des années." },
+    { "id": "c1-sfiorare", "it": "sfiorare", "fr": "frôler", "example": "Le temperature hanno sfiorato i quaranta gradi.", "exampleFr": "Les températures ont frôlé les quarante degrés." },
+    { "id": "c1-stravolgere", "it": "stravolgere", "fr": "bouleverser", "example": "La pandemia ha stravolto le nostre abitudini.", "exampleFr": "La pandémie a bouleversé nos habitudes." },
+    { "id": "c1-ribaltare", "it": "ribaltare", "fr": "renverser", "example": "Il gol all'ultimo minuto ha ribaltato il risultato.", "exampleFr": "Le but à la dernière minute a renversé le score." },
+    { "id": "c1-eludere", "it": "eludere", "fr": "éluder ; esquiver", "example": "Il portavoce ha eluso la domanda.", "exampleFr": "Le porte-parole a éludé la question." },
+    { "id": "c1-trapelare", "it": "trapelare", "fr": "filtrer (une information)", "example": "Dalla riunione non è trapelato nulla.", "exampleFr": "Rien n'a filtré de la réunion." },
+    { "id": "c1-sbandierare", "it": "sbandierare", "fr": "brandir ; afficher ostensiblement", "example": "Sbandiera i suoi successi a ogni occasione.", "exampleFr": "Il affiche ses succès à chaque occasion." },
+    { "id": "c1-spiazzare", "it": "spiazzare", "fr": "prendre au dépourvu", "example": "La sua domanda mi ha spiazzato.", "exampleFr": "Sa question m'a pris au dépourvu." },
+    { "id": "c1-pacato", "it": "pacato", "fr": "posé ; calme", "example": "Ha risposto con tono pacato.", "exampleFr": "Il a répondu d'un ton posé." },
+    { "id": "c1-schietto", "it": "schietto", "fr": "franc ; direct", "example": "Apprezzo il suo modo schietto di parlare.", "exampleFr": "J'apprécie sa façon franche de parler." },
+    { "id": "c1-sbrigativo", "it": "sbrigativo", "fr": "expéditif", "example": "La risposta dell'ufficio è stata sbrigativa.", "exampleFr": "La réponse du service a été expéditive." },
+    { "id": "c1-velleitario", "it": "velleitario", "fr": "irréaliste ; chimérique", "example": "È un progetto velleitario, senza fondi.", "exampleFr": "C'est un projet irréaliste, sans financement." },
+    { "id": "c1-esiguo", "it": "esiguo", "fr": "maigre ; minime", "example": "Il margine di profitto è esiguo.", "exampleFr": "La marge bénéficiaire est maigre." },
+    { "id": "c1-ingente", "it": "ingente", "fr": "considérable", "example": "I danni sono ingenti.", "exampleFr": "Les dégâts sont considérables." }
+  ]
+}

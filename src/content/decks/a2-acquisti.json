@@ -1,0 +1,26 @@
+{
+  "id": "a2-acquisti",
+  "title": "Courses et vêtements",
+  "level": "A2",
+  "description": "Faire les magasins, essayer, payer, rendre.",
+  "notes": [
+    { "id": "a2-saldi", "it": "i saldi", "fr": "les soldes", "example": "A gennaio cominciano i saldi.", "exampleFr": "En janvier, les soldes commencent." },
+    { "id": "a2-taglia", "it": "la taglia", "fr": "la taille (vêtement)", "example": "Avete questa giacca in una taglia più grande?", "exampleFr": "Vous avez cette veste dans une taille au-dessus ?" },
+    { "id": "a2-provare", "it": "provare", "fr": "essayer", "example": "Posso provare questi pantaloni?", "exampleFr": "Je peux essayer ce pantalon ?" },
+    { "id": "a2-camerino", "it": "il camerino", "fr": "la cabine d'essayage", "example": "I camerini sono in fondo a destra.", "exampleFr": "Les cabines d'essayage sont au fond à droite." },
+    { "id": "a2-scarpe", "it": "le scarpe", "fr": "les chaussures", "example": "Che numero di scarpe porti?", "exampleFr": "Tu fais quelle pointure ?" },
+    { "id": "a2-camicia", "it": "la camicia", "fr": "la chemise", "example": "Ho comprato una camicia bianca.", "exampleFr": "J'ai acheté une chemise blanche." },
+    { "id": "a2-giacca", "it": "la giacca", "fr": "la veste", "example": "Prendi la giacca, fa freddo.", "exampleFr": "Prends ta veste, il fait froid." },
+    { "id": "a2-vestito", "it": "il vestito", "fr": "la robe ; le costume", "example": "Che bel vestito! Dove l'hai preso?", "exampleFr": "Quelle belle robe ! Où l'as-tu achetée ?" },
+    { "id": "a2-caro", "it": "caro, economico", "fr": "cher, bon marché", "example": "Questo negozio è caro, quello è più economico.", "exampleFr": "Ce magasin est cher, celui-là est meilleur marché." },
+    { "id": "a2-sconto", "it": "lo sconto", "fr": "la réduction", "example": "C'è uno sconto del venti per cento.", "exampleFr": "Il y a une réduction de vingt pour cent." },
+    { "id": "a2-scontrino", "it": "lo scontrino", "fr": "le ticket de caisse", "example": "Conservi lo scontrino per il cambio.", "exampleFr": "Gardez le ticket pour un échange." },
+    { "id": "a2-cambiare", "it": "cambiare", "fr": "changer ; échanger", "example": "Vorrei cambiare questa maglia, è troppo piccola.", "exampleFr": "Je voudrais échanger ce pull, il est trop petit." },
+    { "id": "a2-contanti", "it": "in contanti", "fr": "en espèces", "example": "Pago in contanti.", "exampleFr": "Je paie en espèces." },
+    { "id": "a2-supermercato", "it": "il supermercato", "fr": "le supermarché", "example": "Il supermercato è aperto anche la domenica.", "exampleFr": "Le supermarché est ouvert aussi le dimanche." },
+    { "id": "a2-etto", "it": "un etto", "fr": "cent grammes", "example": "Due etti di prosciutto crudo, per favore.", "exampleFr": "Deux cents grammes de jambon cru, s'il vous plaît." },
+    { "id": "a2-altro", "it": "Altro?", "fr": "Autre chose ?", "example": "Altro? — No, basta così, grazie.", "exampleFr": "Autre chose ? — Non, ce sera tout, merci." },
+    { "id": "a2-sta-bene", "it": "stare bene (a qualcuno)", "fr": "aller bien (à quelqu'un)", "example": "Questo colore ti sta benissimo.", "exampleFr": "Cette couleur te va très bien." },
+    { "id": "a2-colori", "it": "rosso, verde, blu, giallo", "fr": "rouge, vert, bleu, jaune", "example": "Preferisci la borsa rossa o quella blu?", "exampleFr": "Tu préfères le sac rouge ou le bleu ?" }
+  ]
+}

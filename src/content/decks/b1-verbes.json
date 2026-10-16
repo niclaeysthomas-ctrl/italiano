@@ -1,0 +1,32 @@
+{
+  "id": "b1-verbes",
+  "title": "Verbes clés du B1",
+  "level": "B1",
+  "description": "Verbes fréquents pour raconter, argumenter et organiser.",
+  "notes": [
+    { "id": "b1-accorgersi", "it": "accorgersi di", "fr": "s'apercevoir de", "example": "Non mi sono accorto che pioveva.", "exampleFr": "Je ne me suis pas aperçu qu'il pleuvait." },
+    { "id": "b1-ottenere", "it": "ottenere", "fr": "obtenir", "example": "Ha ottenuto una borsa di studio.", "exampleFr": "Elle a obtenu une bourse d'études." },
+    { "id": "b1-raggiungere", "it": "raggiungere", "fr": "atteindre ; rejoindre", "example": "Vi raggiungo al ristorante tra mezz'ora.", "exampleFr": "Je vous rejoins au restaurant dans une demi-heure." },
+    { "id": "b1-evitare", "it": "evitare", "fr": "éviter", "example": "Cerco di evitare l'ora di punta.", "exampleFr": "J'essaie d'éviter l'heure de pointe." },
+    { "id": "b1-sembrare", "it": "sembrare", "fr": "sembler", "example": "Mi sembra una buona idea.", "exampleFr": "Ça me semble une bonne idée." },
+    { "id": "b1-convincere", "it": "convincere", "fr": "convaincre", "example": "Mi hai convinto, vengo anch'io.", "exampleFr": "Tu m'as convaincu, je viens aussi." },
+    { "id": "b1-decidere", "it": "decidere (deciso)", "fr": "décider (décidé)", "example": "Abbiamo deciso di trasferirci a Bologna.", "exampleFr": "Nous avons décidé de déménager à Bologne." },
+    { "id": "b1-scegliere", "it": "scegliere (scelto)", "fr": "choisir (choisi)", "example": "Hai già scelto il regalo?", "exampleFr": "Tu as déjà choisi le cadeau ?" },
+    { "id": "b1-spiegare", "it": "spiegare", "fr": "expliquer", "example": "Mi puoi spiegare come funziona?", "exampleFr": "Tu peux m'expliquer comment ça marche ?" },
+    { "id": "b1-dimostrare", "it": "dimostrare", "fr": "démontrer ; prouver", "example": "Lo studio dimostra che il metodo funziona.", "exampleFr": "L'étude démontre que la méthode fonctionne." },
+    { "id": "b1-risolvere", "it": "risolvere (risolto)", "fr": "résoudre (résolu)", "example": "Abbiamo risolto il problema in poco tempo.", "exampleFr": "Nous avons résolu le problème en peu de temps." },
+    { "id": "b1-rimanere", "it": "rimanere (rimasto)", "fr": "rester (resté)", "example": "Sono rimasto a casa tutto il weekend.", "exampleFr": "Je suis resté à la maison tout le week-end." },
+    { "id": "b1-diventare", "it": "diventare", "fr": "devenir", "example": "Vuole diventare medico.", "exampleFr": "Elle veut devenir médecin." },
+    { "id": "b1-smettere", "it": "smettere di", "fr": "arrêter de", "example": "Ho smesso di fumare due anni fa.", "exampleFr": "J'ai arrêté de fumer il y a deux ans." },
+    { "id": "b1-continuare", "it": "continuare a", "fr": "continuer à", "example": "Continua a piovere da ieri.", "exampleFr": "Il continue de pleuvoir depuis hier." },
+    { "id": "b1-provare", "it": "provare a", "fr": "essayer de", "example": "Prova a chiamarlo più tardi.", "exampleFr": "Essaie de l'appeler plus tard." },
+    { "id": "b1-occuparsi", "it": "occuparsi di", "fr": "s'occuper de", "example": "Mi occupo io dei biglietti.", "exampleFr": "Je m'occupe des billets." },
+    { "id": "b1-lamentarsi", "it": "lamentarsi di", "fr": "se plaindre de", "example": "Si lamenta sempre del tempo.", "exampleFr": "Il se plaint toujours du temps." },
+    { "id": "b1-trasferirsi", "it": "trasferirsi", "fr": "déménager ; s'installer", "example": "Si è trasferita a Londra per lavoro.", "exampleFr": "Elle s'est installée à Londres pour le travail." },
+    { "id": "b1-rendere", "it": "rendere", "fr": "rendre", "example": "Questa notizia mi rende felice.", "exampleFr": "Cette nouvelle me rend heureux." },
+    { "id": "b1-ci-vuole", "it": "ci vuole, ci vogliono", "fr": "il faut (durée, quantité)", "example": "Ci vogliono tre ore per arrivare.", "exampleFr": "Il faut trois heures pour arriver." },
+    { "id": "b1-farcela", "it": "farcela", "fr": "y arriver ; s'en sortir", "example": "Non ce la faccio più, sono stanchissimo.", "exampleFr": "Je n'en peux plus, je suis épuisé." },
+    { "id": "b1-andarsene", "it": "andarsene", "fr": "s'en aller", "example": "È tardi, me ne vado.", "exampleFr": "Il est tard, je m'en vais." },
+    { "id": "b1-cavarsela", "it": "cavarsela", "fr": "se débrouiller", "example": "Con l'inglese me la cavo bene.", "exampleFr": "En anglais, je me débrouille bien." }
+  ]
+}

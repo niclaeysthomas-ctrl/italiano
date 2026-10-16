@@ -1,0 +1,30 @@
+{
+  "id": "c1-langue-soutenue",
+  "title": "Langue écrite et soutenue",
+  "level": "C1",
+  "description": "Mots de la presse, de l'administration et de l'essai.",
+  "notes": [
+    { "id": "c1-altresi", "it": "altresì", "fr": "également ; de même", "example": "Si segnala altresì che gli uffici resteranno chiusi.", "exampleFr": "On signale également que les bureaux resteront fermés." },
+    { "id": "c1-nondimeno", "it": "nondimeno", "fr": "néanmoins", "example": "Il compito era arduo; nondimeno lo portò a termine.", "exampleFr": "La tâche était ardue ; néanmoins il la mena à bien." },
+    { "id": "c1-giacche", "it": "giacché", "fr": "puisque ; étant donné que", "example": "Giacché insisti, ti dirò la verità.", "exampleFr": "Puisque tu insistes, je te dirai la vérité." },
+    { "id": "c1-laddove", "it": "laddove", "fr": "là où ; alors que", "example": "Laddove possibile, si privilegerà il dialogo.", "exampleFr": "Là où c'est possible, on privilégiera le dialogue." },
+    { "id": "c1-onde", "it": "onde evitare", "fr": "afin d'éviter", "example": "Si prega di arrivare puntuali onde evitare ritardi.", "exampleFr": "Merci d'arriver à l'heure afin d'éviter les retards." },
+    { "id": "c1-in-merito", "it": "in merito a", "fr": "au sujet de ; concernant", "example": "Le scrivo in merito alla Sua richiesta.", "exampleFr": "Je vous écris au sujet de votre demande." },
+    { "id": "c1-a-fronte-di", "it": "a fronte di", "fr": "face à ; en contrepartie de", "example": "A fronte di un aumento dei costi, i prezzi saliranno.", "exampleFr": "Face à une hausse des coûts, les prix augmenteront." },
+    { "id": "c1-in-virtu", "it": "in virtù di", "fr": "en vertu de", "example": "In virtù dell'accordo, i dati restano riservati.", "exampleFr": "En vertu de l'accord, les données restent confidentielles." },
+    { "id": "c1-esulare", "it": "esulare da", "fr": "sortir du cadre de", "example": "La questione esula dalle mie competenze.", "exampleFr": "La question sort du cadre de mes compétences." },
+    { "id": "c1-ovviare", "it": "ovviare a", "fr": "remédier à", "example": "Per ovviare al problema, abbiamo aggiunto un filtro.", "exampleFr": "Pour remédier au problème, nous avons ajouté un filtre." },
+    { "id": "c1-espletare", "it": "espletare", "fr": "accomplir (une procédure)", "example": "Bisogna espletare le pratiche entro trenta giorni.", "exampleFr": "Il faut accomplir les démarches sous trente jours." },
+    { "id": "c1-addurre", "it": "addurre (addotto)", "fr": "invoquer ; alléguer", "example": "Ha addotto motivi di salute.", "exampleFr": "Il a invoqué des raisons de santé." },
+    { "id": "c1-palesare", "it": "palesare", "fr": "manifester ; rendre évident", "example": "Il ministro ha palesato il suo disappunto.", "exampleFr": "Le ministre a manifesté son mécontentement." },
+    { "id": "c1-ponderare", "it": "ponderare", "fr": "peser ; réfléchir mûrement", "example": "Prima di decidere, occorre ponderare i rischi.", "exampleFr": "Avant de décider, il faut peser les risques." },
+    { "id": "c1-scongiurare", "it": "scongiurare", "fr": "conjurer ; éviter (un danger)", "example": "L'intervento ha scongiurato il peggio.", "exampleFr": "L'intervention a évité le pire." },
+    { "id": "c1-inequivocabile", "it": "inequivocabile", "fr": "sans équivoque", "example": "I dati sono inequivocabili.", "exampleFr": "Les données sont sans équivoque." },
+    { "id": "c1-irrisorio", "it": "irrisorio", "fr": "dérisoire", "example": "Lo stipendio offerto è irrisorio.", "exampleFr": "Le salaire proposé est dérisoire." },
+    { "id": "c1-lungimirante", "it": "lungimirante", "fr": "clairvoyant ; visionnaire", "example": "Fu una scelta lungimirante.", "exampleFr": "Ce fut un choix clairvoyant." },
+    { "id": "c1-capillare", "it": "capillare", "fr": "dense ; étendu partout", "example": "L'azienda ha una rete di vendita capillare.", "exampleFr": "L'entreprise a un réseau de vente très dense." },
+    { "id": "c1-annoso", "it": "annoso", "fr": "de longue date (problème)", "example": "È un problema annoso che nessuno ha risolto.", "exampleFr": "C'est un problème de longue date que personne n'a résolu." },
+    { "id": "c1-vigente", "it": "vigente", "fr": "en vigueur", "example": "Secondo la normativa vigente, è vietato.", "exampleFr": "Selon la réglementation en vigueur, c'est interdit." },
+    { "id": "c1-ancorche", "it": "ancorché", "fr": "quoique ; bien que (littéraire)", "example": "Accettò la proposta, ancorché a malincuore.", "exampleFr": "Il accepta la proposition, quoique à contrecœur." }
+  ]
+}

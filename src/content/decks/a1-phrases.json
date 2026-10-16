@@ -1,0 +1,28 @@
+{
+  "id": "a1-phrases",
+  "title": "Phrases de survie",
+  "level": "A1",
+  "description": "Des phrases entières à savoir dire sans réfléchir.",
+  "notes": [
+    { "id": "a1p-come-stai", "it": "Come stai? — Bene, grazie, e tu?", "fr": "Comment vas-tu ? — Bien, merci, et toi ?", "example": "Ciao Luca! Come stai?", "exampleFr": "Salut Luca ! Comment vas-tu ?" },
+    { "id": "a1p-parla-francese", "it": "Parla francese?", "fr": "Vous parlez français ?", "example": "Scusi, parla francese o inglese?", "exampleFr": "Excusez-moi, vous parlez français ou anglais ?" },
+    { "id": "a1p-piano", "it": "Può parlare più piano?", "fr": "Vous pouvez parler plus lentement ?", "example": "Scusi, può parlare più piano, per favore?", "exampleFr": "Excusez-moi, vous pouvez parler plus lentement, s'il vous plaît ?" },
+    { "id": "a1p-come-si-dice", "it": "Come si dice… in italiano?", "fr": "Comment dit-on… en italien ?", "example": "Come si dice « fourchette » in italiano?", "exampleFr": "Comment dit-on « fourchette » en italien ?" },
+    { "id": "a1p-dov-e-il-bagno", "it": "Dov'è il bagno?", "fr": "Où sont les toilettes ?", "example": "Scusi, dov'è il bagno?", "exampleFr": "Excusez-moi, où sont les toilettes ?" },
+    { "id": "a1p-il-conto", "it": "Possiamo avere il conto?", "fr": "Pouvons-nous avoir l'addition ?", "example": "Era tutto buonissimo. Possiamo avere il conto?", "exampleFr": "Tout était délicieux. Pouvons-nous avoir l'addition ?" },
+    { "id": "a1p-carta", "it": "Posso pagare con la carta?", "fr": "Je peux payer par carte ?", "example": "Posso pagare con la carta o solo in contanti?", "exampleFr": "Je peux payer par carte ou seulement en espèces ?" },
+    { "id": "a1p-non-ho-capito", "it": "Non ho capito.", "fr": "Je n'ai pas compris.", "example": "Scusa, non ho capito. Puoi ripetere?", "exampleFr": "Désolé, je n'ai pas compris. Tu peux répéter ?" },
+    { "id": "a1p-di-dove-sei", "it": "Di dove sei?", "fr": "D'où viens-tu ?", "example": "Di dove sei? — Sono di Parigi.", "exampleFr": "D'où viens-tu ? — Je suis de Paris." },
+    { "id": "a1p-che-lavoro", "it": "Che lavoro fai?", "fr": "Qu'est-ce que tu fais comme travail ?", "example": "Che lavoro fai? — Sono ingegnere.", "exampleFr": "Qu'est-ce que tu fais comme travail ? — Je suis ingénieur." },
+    { "id": "a1p-va-bene", "it": "Va bene.", "fr": "D'accord ; ça va.", "example": "Ci vediamo alle sette? — Va bene!", "exampleFr": "On se voit à sept heures ? — D'accord !" },
+    { "id": "a1p-prego", "it": "Prego.", "fr": "Je vous en prie ; de rien.", "example": "Grazie mille! — Prego!", "exampleFr": "Merci beaucoup ! — De rien !" },
+    { "id": "a1p-mi-dispiace", "it": "Mi dispiace.", "fr": "Je suis désolé(e).", "example": "Mi dispiace, sono in ritardo.", "exampleFr": "Je suis désolé, je suis en retard." },
+    { "id": "a1p-a-presto", "it": "A presto!", "fr": "À bientôt !", "example": "Grazie di tutto, a presto!", "exampleFr": "Merci pour tout, à bientôt !" },
+    { "id": "a1p-buona-giornata", "it": "Buona giornata!", "fr": "Bonne journée !", "example": "Arrivederci e buona giornata!", "exampleFr": "Au revoir et bonne journée !" },
+    { "id": "a1p-quanto-tempo", "it": "Quanto tempo ci vuole?", "fr": "Combien de temps faut-il ?", "example": "Quanto tempo ci vuole per arrivare a Firenze?", "exampleFr": "Combien de temps faut-il pour arriver à Florence ?" },
+    { "id": "a1p-aiuto", "it": "Mi può aiutare?", "fr": "Vous pouvez m'aider ?", "example": "Mi sono perso. Mi può aiutare?", "exampleFr": "Je me suis perdu. Vous pouvez m'aider ?" },
+    { "id": "a1p-sono-qui", "it": "Sono qui in vacanza.", "fr": "Je suis ici en vacances.", "example": "Non abito a Roma, sono qui in vacanza.", "exampleFr": "Je n'habite pas à Rome, je suis ici en vacances." },
+    { "id": "a1p-un-attimo", "it": "Un attimo!", "fr": "Un instant !", "example": "Un attimo, arrivo subito!", "exampleFr": "Un instant, j'arrive tout de suite !" },
+    { "id": "a1p-che-cos-e", "it": "Che cos'è?", "fr": "Qu'est-ce que c'est ?", "example": "Che cos'è questo piatto?", "exampleFr": "Qu'est-ce que c'est, ce plat ?" }
+  ]
+}

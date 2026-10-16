@@ -1,0 +1,26 @@
+{
+  "id": "a2-phrases",
+  "title": "Phrases à traduire : situations",
+  "level": "A2",
+  "description": "Des phrases complètes de situations réelles, à dire en entier.",
+  "notes": [
+    { "id": "a2p-prenotato", "it": "Ho prenotato una camera a nome Martin.", "fr": "J'ai réservé une chambre au nom de Martin.", "example": "Buonasera, ho prenotato una camera a nome Martin per due notti.", "exampleFr": "Bonsoir, j'ai réservé une chambre au nom de Martin pour deux nuits." },
+    { "id": "a2p-colazione-inclusa", "it": "La colazione è inclusa?", "fr": "Le petit-déjeuner est compris ?", "example": "La colazione è inclusa nel prezzo?", "exampleFr": "Le petit-déjeuner est compris dans le prix ?" },
+    { "id": "a2p-a-che-ora-parte", "it": "A che ora parte il prossimo treno?", "fr": "À quelle heure part le prochain train ?", "example": "Scusi, a che ora parte il prossimo treno per Venezia?", "exampleFr": "Excusez-moi, à quelle heure part le prochain train pour Venise ?" },
+    { "id": "a2p-ho-perso", "it": "Ho perso il portafoglio.", "fr": "J'ai perdu mon portefeuille.", "example": "Aiuto, ho perso il portafoglio sull'autobus!", "exampleFr": "Au secours, j'ai perdu mon portefeuille dans le bus !" },
+    { "id": "a2p-sono-allergico", "it": "Sono allergico alle noci.", "fr": "Je suis allergique aux noix.", "example": "Scusi, sono allergico alle noci: c'è qualcosa senza?", "exampleFr": "Excusez-moi, je suis allergique aux noix : il y a quelque chose sans ?" },
+    { "id": "a2p-cosa-consiglia", "it": "Che cosa mi consiglia?", "fr": "Qu'est-ce que vous me conseillez ?", "example": "È la prima volta che vengo qui. Che cosa mi consiglia?", "exampleFr": "C'est la première fois que je viens ici. Qu'est-ce que vous me conseillez ?" },
+    { "id": "a2p-e-libero", "it": "È libero questo posto?", "fr": "Cette place est libre ?", "example": "Scusi, è libero questo posto?", "exampleFr": "Excusez-moi, cette place est libre ?" },
+    { "id": "a2p-quanto-dista", "it": "Quanto dista il centro?", "fr": "Le centre est à quelle distance ?", "example": "Quanto dista il centro da qui a piedi?", "exampleFr": "Le centre est à combien d'ici à pied ?" },
+    { "id": "a2p-mi-sono-perso", "it": "Mi sono perso.", "fr": "Je me suis perdu.", "example": "Mi sono perso, mi può indicare la stazione?", "exampleFr": "Je me suis perdu, vous pouvez m'indiquer la gare ?" },
+    { "id": "a2p-non-funziona", "it": "La doccia non funziona.", "fr": "La douche ne marche pas.", "example": "Scusi, nella mia camera la doccia non funziona.", "exampleFr": "Excusez-moi, dans ma chambre la douche ne marche pas." },
+    { "id": "a2p-weekend-fatto", "it": "Che cosa hai fatto nel fine settimana?", "fr": "Qu'est-ce que tu as fait ce week-end ?", "example": "Allora, che cosa hai fatto nel fine settimana?", "exampleFr": "Alors, qu'est-ce que tu as fait ce week-end ?" },
+    { "id": "a2p-da-quanto", "it": "Da quanto tempo studi l'italiano?", "fr": "Depuis combien de temps étudies-tu l'italien ?", "example": "Parli bene! Da quanto tempo studi l'italiano?", "exampleFr": "Tu parles bien ! Depuis combien de temps étudies-tu l'italien ?" },
+    { "id": "a2p-studio-da", "it": "Studio l'italiano da sei mesi.", "fr": "J'étudie l'italien depuis six mois.", "example": "Studio l'italiano da sei mesi, ma capisco già molto.", "exampleFr": "J'étudie l'italien depuis six mois, mais je comprends déjà beaucoup." },
+    { "id": "a2p-ci-vediamo-alle", "it": "Ci vediamo davanti al bar alle otto.", "fr": "On se retrouve devant le bar à huit heures.", "example": "Va bene, allora ci vediamo davanti al bar alle otto.", "exampleFr": "D'accord, alors on se retrouve devant le bar à huit heures." },
+    { "id": "a2p-ho-fatto-tardi", "it": "Scusa, ho fatto tardi.", "fr": "Désolé, je suis en retard.", "example": "Scusa, ho fatto tardi per colpa del traffico.", "exampleFr": "Désolé, je suis en retard à cause des embouteillages." },
+    { "id": "a2p-quando-ero-piccolo", "it": "Quando ero piccolo, vivevo in campagna.", "fr": "Quand j'étais petit, je vivais à la campagne.", "example": "Quando ero piccolo, vivevo in campagna con i nonni.", "exampleFr": "Quand j'étais petit, je vivais à la campagne avec mes grands-parents." },
+    { "id": "a2p-vorrei-un-appuntamento", "it": "Vorrei prendere un appuntamento.", "fr": "Je voudrais prendre rendez-vous.", "example": "Buongiorno, vorrei prendere un appuntamento con il dottor Bianchi.", "exampleFr": "Bonjour, je voudrais prendre rendez-vous avec le docteur Bianchi." },
+    { "id": "a2p-posso-lasciare", "it": "Posso lasciare un messaggio?", "fr": "Je peux laisser un message ?", "example": "Non c'è? Posso lasciare un messaggio?", "exampleFr": "Il n'est pas là ? Je peux laisser un message ?" }
+  ]
+}

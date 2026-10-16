@@ -1,0 +1,23 @@
+{
+  "id": "a2-casa",
+  "title": "La maison et les tâches",
+  "level": "A2",
+  "description": "Pièces, meubles, ménage et vie à la maison.",
+  "notes": [
+    { "id": "a2-cucina", "it": "la cucina", "fr": "la cuisine", "example": "La cucina è piccola ma luminosa.", "exampleFr": "La cuisine est petite mais lumineuse." },
+    { "id": "a2-camera", "it": "la camera da letto", "fr": "la chambre", "example": "L'appartamento ha due camere da letto.", "exampleFr": "L'appartement a deux chambres." },
+    { "id": "a2-bagno", "it": "il bagno", "fr": "la salle de bains ; les toilettes", "example": "Il bagno è in fondo al corridoio.", "exampleFr": "La salle de bains est au bout du couloir." },
+    { "id": "a2-soggiorno", "it": "il soggiorno", "fr": "le séjour ; le salon", "example": "Guardiamo la TV in soggiorno.", "exampleFr": "Nous regardons la télé dans le salon." },
+    { "id": "a2-affitto", "it": "l'affitto", "fr": "le loyer ; la location", "example": "L'affitto è troppo caro in centro.", "exampleFr": "Le loyer est trop cher dans le centre." },
+    { "id": "a2-trasloco", "it": "il trasloco", "fr": "le déménagement", "example": "Il trasloco è previsto per sabato.", "exampleFr": "Le déménagement est prévu pour samedi." },
+    { "id": "a2-pulire", "it": "pulire", "fr": "nettoyer", "example": "Il sabato pulisco tutta la casa.", "exampleFr": "Le samedi, je nettoie toute la maison." },
+    { "id": "a2-lavare-piatti", "it": "lavare i piatti", "fr": "faire la vaisselle", "example": "Stasera lavi tu i piatti?", "exampleFr": "Ce soir, c'est toi qui fais la vaisselle ?" },
+    { "id": "a2-bucato", "it": "fare il bucato", "fr": "faire la lessive", "example": "Devo fare il bucato, non ho più magliette.", "exampleFr": "Je dois faire la lessive, je n'ai plus de t-shirts." },
+    { "id": "a2-chiave", "it": "la chiave", "fr": "la clé", "example": "Ho perso le chiavi di casa.", "exampleFr": "J'ai perdu les clés de la maison." },
+    { "id": "a2-vicino-di-casa", "it": "il vicino di casa", "fr": "le voisin", "example": "Il mio vicino di casa suona il pianoforte.", "exampleFr": "Mon voisin joue du piano." },
+    { "id": "a2-piano", "it": "il piano", "fr": "l'étage", "example": "Abito al terzo piano senza ascensore.", "exampleFr": "J'habite au troisième étage sans ascenseur." },
+    { "id": "a2-riscaldamento", "it": "il riscaldamento", "fr": "le chauffage", "example": "Il riscaldamento non funziona.", "exampleFr": "Le chauffage ne marche pas." },
+    { "id": "a2-armadio", "it": "l'armadio", "fr": "l'armoire", "example": "Metti i vestiti nell'armadio.", "exampleFr": "Mets les vêtements dans l'armoire." },
+    { "id": "a2-sedia", "it": "la sedia, il tavolo", "fr": "la chaise, la table", "example": "Ci servono altre due sedie.", "exampleFr": "Il nous faut deux autres chaises." }
+  ]
+}

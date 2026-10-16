@@ -1,0 +1,28 @@
+{
+  "id": "b1-emozioni",
+  "title": "Émotions et relations",
+  "level": "B1",
+  "description": "Exprimer ses sentiments, parler des autres.",
+  "notes": [
+    { "id": "b1-felice", "it": "felice", "fr": "heureux", "example": "Sono felice che tu sia venuto.", "exampleFr": "Je suis heureux que tu sois venu." },
+    { "id": "b1-arrabbiato", "it": "arrabbiato", "fr": "en colère", "example": "Perché sei così arrabbiato?", "exampleFr": "Pourquoi es-tu si en colère ?" },
+    { "id": "b1-deluso", "it": "deluso", "fr": "déçu", "example": "Sono rimasto deluso dal finale del film.", "exampleFr": "J'ai été déçu par la fin du film." },
+    { "id": "b1-preoccupato", "it": "preoccupato", "fr": "inquiet", "example": "Mia madre è preoccupata per me.", "exampleFr": "Ma mère s'inquiète pour moi." },
+    { "id": "b1-geloso", "it": "geloso", "fr": "jaloux", "example": "Non essere geloso, è solo un amico.", "exampleFr": "Ne sois pas jaloux, c'est juste un ami." },
+    { "id": "b1-vergogna", "it": "la vergogna", "fr": "la honte", "example": "Che vergogna, ho sbagliato nome!", "exampleFr": "Quelle honte, je me suis trompé de prénom !" },
+    { "id": "b1-paura", "it": "avere paura di", "fr": "avoir peur de", "example": "Ho paura di volare.", "exampleFr": "J'ai peur de prendre l'avion." },
+    { "id": "b1-innamorarsi", "it": "innamorarsi di", "fr": "tomber amoureux de", "example": "Si sono innamorati durante un viaggio.", "exampleFr": "Ils sont tombés amoureux pendant un voyage." },
+    { "id": "b1-lasciarsi", "it": "lasciarsi", "fr": "se quitter ; rompre", "example": "Si sono lasciati dopo dieci anni.", "exampleFr": "Ils se sont séparés après dix ans." },
+    { "id": "b1-litigare", "it": "litigare", "fr": "se disputer", "example": "Litigano sempre per i soldi.", "exampleFr": "Ils se disputent toujours pour l'argent." },
+    { "id": "b1-fidarsi", "it": "fidarsi di", "fr": "faire confiance à", "example": "Di lui mi fido completamente.", "exampleFr": "J'ai entièrement confiance en lui." },
+    { "id": "b1-andare-d-accordo", "it": "andare d'accordo con", "fr": "bien s'entendre avec", "example": "Vado molto d'accordo con mia suocera.", "exampleFr": "Je m'entends très bien avec ma belle-mère." },
+    { "id": "b1-mancare", "it": "mancare", "fr": "manquer", "example": "Mi manchi tanto.", "exampleFr": "Tu me manques beaucoup." },
+    { "id": "b1-sopportare", "it": "sopportare", "fr": "supporter", "example": "Non sopporto le persone maleducate.", "exampleFr": "Je ne supporte pas les gens mal élevés." },
+    { "id": "b1-sentirsi-a-proprio-agio", "it": "sentirsi a proprio agio", "fr": "se sentir à l'aise", "example": "Con loro mi sento a mio agio.", "exampleFr": "Avec eux, je me sens à l'aise." },
+    { "id": "b1-sorprendere", "it": "sorprendere", "fr": "surprendre", "example": "La sua reazione mi ha sorpreso.", "exampleFr": "Sa réaction m'a surpris." },
+    { "id": "b1-pentirsi", "it": "pentirsi di", "fr": "regretter", "example": "Non mi pento di niente.", "exampleFr": "Je ne regrette rien." },
+    { "id": "b1-carattere", "it": "il carattere", "fr": "le caractère", "example": "Ha un carattere difficile ma generoso.", "exampleFr": "Il a un caractère difficile mais généreux." },
+    { "id": "b1-timido", "it": "timido", "fr": "timide", "example": "Da piccolo ero molto timido.", "exampleFr": "Petit, j'étais très timide." },
+    { "id": "b1-testardo", "it": "testardo", "fr": "têtu", "example": "Sei testardo come un mulo!", "exampleFr": "Tu es têtu comme une mule !" }
+  ]
+}

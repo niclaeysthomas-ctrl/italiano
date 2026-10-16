@@ -1,0 +1,28 @@
+{
+  "id": "b2-verbes",
+  "title": "Verbes pour nuancer",
+  "level": "B2",
+  "description": "Verbes précis pour remplacer fare, dire ou mettere.",
+  "notes": [
+    { "id": "b2-sostenere", "it": "sostenere", "fr": "soutenir ; affirmer", "example": "Sostiene di non aver visto niente.", "exampleFr": "Il affirme n'avoir rien vu." },
+    { "id": "b2-ammettere", "it": "ammettere (ammesso)", "fr": "admettre (admis)", "example": "Ha ammesso di aver sbagliato.", "exampleFr": "Il a admis s'être trompé." },
+    { "id": "b2-negare", "it": "negare", "fr": "nier", "example": "L'imputato nega ogni accusa.", "exampleFr": "L'accusé nie toutes les accusations." },
+    { "id": "b2-suggerire", "it": "suggerire", "fr": "suggérer", "example": "Ti suggerisco di prenotare in anticipo.", "exampleFr": "Je te suggère de réserver à l'avance." },
+    { "id": "b2-sottolineare", "it": "sottolineare", "fr": "souligner", "example": "Il relatore ha sottolineato l'importanza del tema.", "exampleFr": "L'intervenant a souligné l'importance du sujet." },
+    { "id": "b2-ritenere", "it": "ritenere", "fr": "estimer ; considérer", "example": "Ritengo che sia la scelta giusta.", "exampleFr": "J'estime que c'est le bon choix." },
+    { "id": "b2-dubitare", "it": "dubitare", "fr": "douter", "example": "Dubito che arrivi in tempo.", "exampleFr": "Je doute qu'il arrive à temps." },
+    { "id": "b2-coinvolgere", "it": "coinvolgere (coinvolto)", "fr": "impliquer (impliqué)", "example": "Vogliamo coinvolgere i cittadini nel progetto.", "exampleFr": "Nous voulons impliquer les citoyens dans le projet." },
+    { "id": "b2-svolgersi", "it": "svolgersi", "fr": "se dérouler", "example": "La conferenza si svolgerà a Torino.", "exampleFr": "La conférence se déroulera à Turin." },
+    { "id": "b2-verificarsi", "it": "verificarsi", "fr": "se produire", "example": "Si è verificato un guasto tecnico.", "exampleFr": "Une panne technique s'est produite." },
+    { "id": "b2-trattarsi", "it": "trattarsi di", "fr": "s'agir de", "example": "Si tratta di un malinteso.", "exampleFr": "Il s'agit d'un malentendu." },
+    { "id": "b2-approfittare", "it": "approfittare di", "fr": "profiter de", "example": "Approfittiamo del bel tempo per uscire.", "exampleFr": "Profitons du beau temps pour sortir." },
+    { "id": "b2-rinviare", "it": "rinviare", "fr": "reporter", "example": "La partita è stata rinviata per pioggia.", "exampleFr": "Le match a été reporté à cause de la pluie." },
+    { "id": "b2-ridurre", "it": "ridurre (ridotto)", "fr": "réduire (réduit)", "example": "Hanno ridotto i costi del trenta per cento.", "exampleFr": "Ils ont réduit les coûts de trente pour cent." },
+    { "id": "b2-impegnarsi", "it": "impegnarsi", "fr": "s'engager ; s'investir", "example": "Mi impegno a finire entro lunedì.", "exampleFr": "Je m'engage à finir d'ici lundi." },
+    { "id": "b2-rendersi-utile", "it": "rendersi utile", "fr": "se rendre utile", "example": "Invece di guardare, renditi utile!", "exampleFr": "Au lieu de regarder, rends-toi utile !" },
+    { "id": "b2-fare-a-meno", "it": "fare a meno di", "fr": "se passer de", "example": "Non posso fare a meno del caffè.", "exampleFr": "Je ne peux pas me passer de café." },
+    { "id": "b2-tenerci", "it": "tenerci a", "fr": "tenir à", "example": "Ci tengo molto a questa amicizia.", "exampleFr": "Je tiens beaucoup à cette amitié." },
+    { "id": "b2-metterci", "it": "metterci", "fr": "mettre (du temps)", "example": "Ci ho messo un'ora a trovare parcheggio.", "exampleFr": "J'ai mis une heure à trouver une place." },
+    { "id": "b2-prendersela", "it": "prendersela", "fr": "se vexer ; s'en prendre à", "example": "Non prendertela, scherzavo.", "exampleFr": "Ne te vexe pas, je plaisantais." }
+  ]
+}

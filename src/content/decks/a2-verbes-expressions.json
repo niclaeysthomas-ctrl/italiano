@@ -1,0 +1,30 @@
+{
+  "id": "a2-verbes-expressions",
+  "title": "Verbes et expressions courantes",
+  "level": "A2",
+  "description": "Verbes pronominaux, participes irréguliers et phrases de tous les jours.",
+  "notes": [
+    { "id": "a2-alzarsi", "it": "alzarsi", "fr": "se lever", "example": "La domenica mi alzo tardi.", "exampleFr": "Le dimanche, je me lève tard." },
+    { "id": "a2-vestirsi", "it": "vestirsi", "fr": "s'habiller", "example": "Mi vesto in cinque minuti.", "exampleFr": "Je m'habille en cinq minutes." },
+    { "id": "a2-sentirsi", "it": "sentirsi", "fr": "se sentir", "example": "Oggi non mi sento bene.", "exampleFr": "Aujourd'hui, je ne me sens pas bien." },
+    { "id": "a2-preoccuparsi", "it": "preoccuparsi", "fr": "s'inquiéter", "example": "Non preoccuparti, va tutto bene.", "exampleFr": "Ne t'inquiète pas, tout va bien." },
+    { "id": "a2-ricordarsi", "it": "ricordarsi di", "fr": "se souvenir de ; penser à", "example": "Ricordati di chiamare la nonna!", "exampleFr": "Pense à appeler grand-mère !" },
+    { "id": "a2-dimenticare", "it": "dimenticare", "fr": "oublier", "example": "Ho dimenticato l'ombrello in treno.", "exampleFr": "J'ai oublié mon parapluie dans le train." },
+    { "id": "a2-cercare", "it": "cercare", "fr": "chercher", "example": "Sto cercando un appartamento in affitto.", "exampleFr": "Je cherche un appartement à louer." },
+    { "id": "a2-trovare", "it": "trovare", "fr": "trouver", "example": "Finalmente ho trovato le chiavi!", "exampleFr": "J'ai enfin trouvé les clés !" },
+    { "id": "a2-prendere", "it": "prendere (preso)", "fr": "prendre (pris)", "example": "Abbiamo preso un taxi per tornare.", "exampleFr": "Nous avons pris un taxi pour rentrer." },
+    { "id": "a2-mettere", "it": "mettere (messo)", "fr": "mettre (mis)", "example": "Dove hai messo il mio libro?", "exampleFr": "Où as-tu mis mon livre ?" },
+    { "id": "a2-dire", "it": "dire (detto)", "fr": "dire (dit)", "example": "Che cosa ti ha detto il medico?", "exampleFr": "Qu'est-ce que le médecin t'a dit ?" },
+    { "id": "a2-vedere-visto", "it": "vedere (visto)", "fr": "voir (vu)", "example": "Hai visto l'ultimo film di Sorrentino?", "exampleFr": "Tu as vu le dernier film de Sorrentino ?" },
+    { "id": "a2-succedere", "it": "succedere (successo)", "fr": "se passer ; arriver", "example": "Che cosa è successo?", "exampleFr": "Qu'est-ce qui s'est passé ?" },
+    { "id": "a2-stare-per", "it": "stare per", "fr": "être sur le point de", "example": "Sto per uscire, ti richiamo dopo.", "exampleFr": "Je suis sur le point de sortir, je te rappelle après." },
+    { "id": "a2-stare-gerundio", "it": "sto + gérondif", "fr": "être en train de", "example": "Sto cucinando, puoi aspettare?", "exampleFr": "Je suis en train de cuisiner, tu peux attendre ?" },
+    { "id": "a2-avere-bisogno", "it": "avere bisogno di", "fr": "avoir besoin de", "example": "Ho bisogno di un consiglio.", "exampleFr": "J'ai besoin d'un conseil." },
+    { "id": "a2-avere-voglia", "it": "avere voglia di", "fr": "avoir envie de", "example": "Ho voglia di un gelato.", "exampleFr": "J'ai envie d'une glace." },
+    { "id": "a2-che-peccato", "it": "Che peccato!", "fr": "Quel dommage !", "example": "Non puoi venire? Che peccato!", "exampleFr": "Tu ne peux pas venir ? Quel dommage !" },
+    { "id": "a2-in-bocca-al-lupo", "it": "In bocca al lupo! — Crepi!", "fr": "Bonne chance ! (litt. dans la gueule du loup)", "example": "Domani hai l'esame? In bocca al lupo!", "exampleFr": "Tu as ton examen demain ? Bonne chance !" },
+    { "id": "a2-dipende", "it": "Dipende.", "fr": "Ça dépend.", "example": "Vieni sabato? — Dipende dal tempo.", "exampleFr": "Tu viens samedi ? — Ça dépend du temps." },
+    { "id": "a2-figurati", "it": "Figurati!", "fr": "Pas de quoi ! ; Tu parles !", "example": "Grazie per l'aiuto! — Figurati!", "exampleFr": "Merci pour ton aide ! — Pas de quoi !" },
+    { "id": "a2-magari-dopo", "it": "Ci sentiamo dopo.", "fr": "On s'appelle plus tard.", "example": "Adesso sono in riunione, ci sentiamo dopo.", "exampleFr": "Là je suis en réunion, on s'appelle plus tard." }
+  ]
+}

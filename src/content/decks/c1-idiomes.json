@@ -1,0 +1,28 @@
+{
+  "id": "c1-idiomes",
+  "title": "Idiomes et proverbes avancés",
+  "level": "C1",
+  "description": "Pour comprendre les conversations rapides et la presse.",
+  "notes": [
+    { "id": "c1i-non-tutte-le-ciambelle", "it": "Non tutte le ciambelle riescono col buco.", "fr": "On ne réussit pas à tous les coups.", "example": "Il primo tentativo è fallito, ma non tutte le ciambelle riescono col buco.", "exampleFr": "Le premier essai a échoué, mais on ne réussit pas à tous les coups." },
+    { "id": "c1i-tra-il-dire", "it": "Tra il dire e il fare c'è di mezzo il mare.", "fr": "Il y a loin de la coupe aux lèvres.", "example": "Ha promesso di cambiare, ma tra il dire e il fare c'è di mezzo il mare.", "exampleFr": "Il a promis de changer, mais il y a loin de la coupe aux lèvres." },
+    { "id": "c1i-mettere-i-bastoni", "it": "mettere i bastoni fra le ruote", "fr": "mettre des bâtons dans les roues", "example": "Il direttore ci mette sempre i bastoni fra le ruote.", "exampleFr": "Le directeur nous met toujours des bâtons dans les roues." },
+    { "id": "c1i-menare-il-can", "it": "menare il can per l'aia", "fr": "tourner autour du pot", "example": "Smettila di menare il can per l'aia e arriva al punto.", "exampleFr": "Arrête de tourner autour du pot et viens-en au fait." },
+    { "id": "c1i-fare-orecchie-da-mercante", "it": "fare orecchie da mercante", "fr": "faire la sourde oreille", "example": "Gliel'ho chiesto tre volte, ma fa orecchie da mercante.", "exampleFr": "Je le lui ai demandé trois fois, mais il fait la sourde oreille." },
+    { "id": "c1i-salvare-capra", "it": "salvare capra e cavoli", "fr": "ménager la chèvre et le chou", "example": "Con questo compromesso salviamo capra e cavoli.", "exampleFr": "Avec ce compromis, nous ménageons la chèvre et le chou." },
+    { "id": "c1i-gatta-da-pelare", "it": "avere una bella gatta da pelare", "fr": "avoir du fil à retordre", "example": "Con questo cliente abbiamo una bella gatta da pelare.", "exampleFr": "Avec ce client, nous avons du fil à retordre." },
+    { "id": "c1i-farla-franca", "it": "farla franca", "fr": "s'en tirer impunément", "example": "Pensava di farla franca, ma l'hanno scoperto.", "exampleFr": "Il pensait s'en tirer impunément, mais on l'a découvert." },
+    { "id": "c1i-stare-con-le-mani", "it": "stare con le mani in mano", "fr": "rester les bras croisés", "example": "Non possiamo stare con le mani in mano.", "exampleFr": "Nous ne pouvons pas rester les bras croisés." },
+    { "id": "c1i-a-caval-donato", "it": "A caval donato non si guarda in bocca.", "fr": "À cheval donné, on ne regarde pas les dents.", "example": "Il regalo non è il mio stile, ma a caval donato non si guarda in bocca.", "exampleFr": "Le cadeau n'est pas mon style, mais à cheval donné on ne regarde pas les dents." },
+    { "id": "c1i-l-erba-del-vicino", "it": "L'erba del vicino è sempre più verde.", "fr": "L'herbe est toujours plus verte ailleurs.", "example": "Invidia sempre gli altri: l'erba del vicino è sempre più verde.", "exampleFr": "Il envie toujours les autres : l'herbe est toujours plus verte ailleurs." },
+    { "id": "c1i-darsi-la-zappa", "it": "darsi la zappa sui piedi", "fr": "se tirer une balle dans le pied", "example": "Con quella dichiarazione si è dato la zappa sui piedi.", "exampleFr": "Avec cette déclaration, il s'est tiré une balle dans le pied." },
+    { "id": "c1i-avere-il-coltello", "it": "avere il coltello dalla parte del manico", "fr": "être en position de force", "example": "Nella trattativa, sono loro ad avere il coltello dalla parte del manico.", "exampleFr": "Dans la négociation, ce sont eux qui sont en position de force." },
+    { "id": "c1i-acqua-passata", "it": "È acqua passata.", "fr": "C'est de l'histoire ancienne.", "example": "Non preoccuparti per quella lite, è acqua passata.", "exampleFr": "Ne t'inquiète pas pour cette dispute, c'est de l'histoire ancienne." },
+    { "id": "c1i-campa-cavallo", "it": "Campa cavallo che l'erba cresce!", "fr": "Tu peux toujours attendre !", "example": "Aspetti che ti rimborsino? Campa cavallo!", "exampleFr": "Tu attends qu'ils te remboursent ? Tu peux toujours attendre !" },
+    { "id": "c1i-tirare-acqua", "it": "tirare acqua al proprio mulino", "fr": "prêcher pour sa paroisse", "example": "Ognuno tira acqua al proprio mulino.", "exampleFr": "Chacun prêche pour sa paroisse." },
+    { "id": "c1i-mosca-al-naso", "it": "saltare la mosca al naso", "fr": "perdre patience ; s'énerver", "example": "Dopo un'ora di attesa mi è saltata la mosca al naso.", "exampleFr": "Après une heure d'attente, j'ai perdu patience." },
+    { "id": "c1i-filo-da-torcere", "it": "dare del filo da torcere", "fr": "donner du fil à retordre", "example": "L'avversario ci ha dato del filo da torcere.", "exampleFr": "L'adversaire nous a donné du fil à retordre." },
+    { "id": "c1i-tocca-ferro", "it": "toccare ferro", "fr": "toucher du bois", "example": "Finora è andato tutto bene, tocchiamo ferro.", "exampleFr": "Jusqu'ici tout s'est bien passé, touchons du bois." },
+    { "id": "c1i-fare-di-ogni-erba", "it": "fare di ogni erba un fascio", "fr": "mettre tout le monde dans le même sac", "example": "Non bisogna fare di ogni erba un fascio.", "exampleFr": "Il ne faut pas mettre tout le monde dans le même sac." }
+  ]
+}

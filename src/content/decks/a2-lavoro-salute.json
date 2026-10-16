@@ -1,0 +1,24 @@
+{
+  "id": "a2-lavoro-salute",
+  "title": "Travail, études et santé",
+  "level": "A2",
+  "description": "Le bureau, l'école, le corps et chez le médecin.",
+  "notes": [
+    { "id": "a2-ufficio", "it": "l'ufficio", "fr": "le bureau", "example": "Oggi resto in ufficio fino a tardi.", "exampleFr": "Aujourd'hui, je reste au bureau jusqu'à tard." },
+    { "id": "a2-collega", "it": "il/la collega", "fr": "le/la collègue", "example": "La mia collega mi ha aiutato molto.", "exampleFr": "Ma collègue m'a beaucoup aidé." },
+    { "id": "a2-riunione", "it": "la riunione", "fr": "la réunion", "example": "La riunione è spostata a domani.", "exampleFr": "La réunion est reportée à demain." },
+    { "id": "a2-capo", "it": "il capo", "fr": "le chef ; le patron", "example": "Il mio capo è in ferie.", "exampleFr": "Mon chef est en congé." },
+    { "id": "a2-ferie", "it": "le ferie", "fr": "les congés", "example": "Ad agosto prendo tre settimane di ferie.", "exampleFr": "En août, je prends trois semaines de congé." },
+    { "id": "a2-stipendio", "it": "lo stipendio", "fr": "le salaire", "example": "Lo stipendio arriva a fine mese.", "exampleFr": "Le salaire arrive en fin de mois." },
+    { "id": "a2-scuola", "it": "la scuola", "fr": "l'école", "example": "I bambini vanno a scuola a piedi.", "exampleFr": "Les enfants vont à l'école à pied." },
+    { "id": "a2-esame", "it": "l'esame", "fr": "l'examen", "example": "Ho superato l'esame di guida!", "exampleFr": "J'ai réussi l'examen de conduite !" },
+    { "id": "a2-imparare", "it": "imparare", "fr": "apprendre", "example": "Sto imparando a suonare la chitarra.", "exampleFr": "J'apprends à jouer de la guitare." },
+    { "id": "a2-testa", "it": "la testa", "fr": "la tête", "example": "Ho mal di testa da stamattina.", "exampleFr": "J'ai mal à la tête depuis ce matin." },
+    { "id": "a2-mal-di", "it": "avere mal di…", "fr": "avoir mal à…", "example": "Ho mal di gola e un po' di febbre.", "exampleFr": "J'ai mal à la gorge et un peu de fièvre." },
+    { "id": "a2-febbre", "it": "la febbre", "fr": "la fièvre", "example": "Il bambino ha la febbre alta.", "exampleFr": "L'enfant a beaucoup de fièvre." },
+    { "id": "a2-medico", "it": "il medico", "fr": "le médecin", "example": "Devo prendere un appuntamento dal medico.", "exampleFr": "Je dois prendre rendez-vous chez le médecin." },
+    { "id": "a2-ricetta", "it": "la ricetta", "fr": "l'ordonnance ; la recette", "example": "Per questo farmaco serve la ricetta.", "exampleFr": "Pour ce médicament, il faut une ordonnance." },
+    { "id": "a2-stare-male", "it": "stare male, stare meglio", "fr": "aller mal, aller mieux", "example": "Ieri stavo male, oggi sto meglio.", "exampleFr": "Hier j'allais mal, aujourd'hui je vais mieux." },
+    { "id": "a2-mano", "it": "la mano (le mani)", "fr": "la main (les mains)", "example": "Lavati le mani prima di mangiare.", "exampleFr": "Lave-toi les mains avant de manger." }
+  ]
+}

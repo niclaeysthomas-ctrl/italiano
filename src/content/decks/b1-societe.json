@@ -1,0 +1,28 @@
+{
+  "id": "b1-societe",
+  "title": "Société et actualité",
+  "level": "B1",
+  "description": "Comprendre les infos et parler de sujets de société.",
+  "notes": [
+    { "id": "b1-notizia", "it": "la notizia", "fr": "la nouvelle ; l'information", "example": "Hai sentito la notizia dello sciopero?", "exampleFr": "Tu as entendu la nouvelle de la grève ?" },
+    { "id": "b1-sciopero", "it": "lo sciopero", "fr": "la grève", "example": "Domani c'è lo sciopero dei trasporti.", "exampleFr": "Demain, il y a grève des transports." },
+    { "id": "b1-governo", "it": "il governo", "fr": "le gouvernement", "example": "Il governo ha approvato una nuova legge.", "exampleFr": "Le gouvernement a adopté une nouvelle loi." },
+    { "id": "b1-legge", "it": "la legge", "fr": "la loi", "example": "La legge entrerà in vigore a gennaio.", "exampleFr": "La loi entrera en vigueur en janvier." },
+    { "id": "b1-elezioni", "it": "le elezioni", "fr": "les élections", "example": "Le elezioni si terranno in primavera.", "exampleFr": "Les élections auront lieu au printemps." },
+    { "id": "b1-cittadino", "it": "il cittadino", "fr": "le citoyen", "example": "I cittadini chiedono più sicurezza.", "exampleFr": "Les citoyens demandent plus de sécurité." },
+    { "id": "b1-disoccupazione", "it": "la disoccupazione", "fr": "le chômage", "example": "La disoccupazione giovanile resta alta.", "exampleFr": "Le chômage des jeunes reste élevé." },
+    { "id": "b1-prezzi", "it": "i prezzi", "fr": "les prix", "example": "I prezzi sono aumentati molto quest'anno.", "exampleFr": "Les prix ont beaucoup augmenté cette année." },
+    { "id": "b1-inquinamento", "it": "l'inquinamento", "fr": "la pollution", "example": "L'inquinamento in città è un problema serio.", "exampleFr": "La pollution en ville est un problème sérieux." },
+    { "id": "b1-ambiente", "it": "l'ambiente", "fr": "l'environnement", "example": "Dobbiamo rispettare l'ambiente.", "exampleFr": "Nous devons respecter l'environnement." },
+    { "id": "b1-rifiuti", "it": "i rifiuti", "fr": "les déchets", "example": "In questo comune si fa la raccolta differenziata dei rifiuti.", "exampleFr": "Dans cette commune, on fait le tri des déchets." },
+    { "id": "b1-giornale", "it": "il giornale, la rivista", "fr": "le journal, le magazine", "example": "Leggo il giornale online ogni mattina.", "exampleFr": "Je lis le journal en ligne chaque matin." },
+    { "id": "b1-sondaggio", "it": "il sondaggio", "fr": "le sondage", "example": "Secondo un sondaggio, la maggioranza è favorevole.", "exampleFr": "Selon un sondage, la majorité est favorable." },
+    { "id": "b1-manifestazione", "it": "la manifestazione", "fr": "la manifestation", "example": "Migliaia di persone hanno partecipato alla manifestazione.", "exampleFr": "Des milliers de personnes ont participé à la manifestation." },
+    { "id": "b1-tasse", "it": "le tasse", "fr": "les impôts", "example": "Molti si lamentano delle tasse.", "exampleFr": "Beaucoup se plaignent des impôts." },
+    { "id": "b1-sanita", "it": "la sanità", "fr": "la santé publique", "example": "La sanità pubblica è gratuita per tutti.", "exampleFr": "Le système de santé public est gratuit pour tous." },
+    { "id": "b1-straniero", "it": "lo straniero", "fr": "l'étranger (personne)", "example": "Molti stranieri scelgono di vivere in Toscana.", "exampleFr": "Beaucoup d'étrangers choisissent de vivre en Toscane." },
+    { "id": "b1-all-estero", "it": "all'estero", "fr": "à l'étranger", "example": "Mio cugino lavora all'estero da cinque anni.", "exampleFr": "Mon cousin travaille à l'étranger depuis cinq ans." },
+    { "id": "b1-crescita", "it": "la crescita", "fr": "la croissance", "example": "La crescita economica è rallentata.", "exampleFr": "La croissance économique a ralenti." },
+    { "id": "b1-problema", "it": "il problema", "fr": "le problème", "example": "Il traffico è il problema principale della città.", "exampleFr": "La circulation est le principal problème de la ville." }
+  ]
+}
