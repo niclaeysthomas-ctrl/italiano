@@ -69,15 +69,25 @@ import lesson_c1_ipotetico_misto from './grammar/c1-ipotetico-misto.json';
 import lesson_c1_passato_remoto from './grammar/c1-passato-remoto.json';
 
 import reading_a1_al_mercato from './readings/a1-al-mercato.json';
+import reading_a1_in_albergo from './readings/a1-in-albergo.json';
+import reading_a1_la_mia_famiglia from './readings/a1-la-mia-famiglia.json';
 import reading_a1_la_mia_giornata from './readings/a1-la-mia-giornata.json';
 import reading_a2_cena_tra_amici from './readings/a2-cena-tra-amici.json';
+import reading_a2_nuovo_lavoro from './readings/a2-nuovo-lavoro.json';
+import reading_a2_ricetta_carbonara from './readings/a2-ricetta-carbonara.json';
 import reading_a2_weekend_al_lago from './readings/a2-weekend-al-lago.json';
 import reading_b1_lavorare_da_casa from './readings/b1-lavorare-da-casa.json';
 import reading_b1_rito_del_caffe from './readings/b1-rito-del-caffe.json';
+import reading_b1_slow_food from './readings/b1-slow-food.json';
+import reading_b1_vespa from './readings/b1-vespa.json';
+import reading_b2_borghi_abbandonati from './readings/b2-borghi-abbandonati.json';
 import reading_b2_fuga_dei_cervelli from './readings/b2-fuga-dei-cervelli.json';
+import reading_b2_gesti from './readings/b2-gesti.json';
 import reading_b2_paradosso_del_turismo from './readings/b2-paradosso-del-turismo.json';
 import reading_c1_arte_di_arrangiarsi from './readings/c1-arte-di-arrangiarsi.json';
+import reading_c1_calvino from './readings/c1-calvino.json';
 import reading_c1_lingua_e_dialetti from './readings/c1-lingua-e-dialetti.json';
+import reading_c1_made_in_italy from './readings/c1-made-in-italy.json';
 
 import everyday_01_bar from './everyday/01-bar.json';
 import everyday_02_saluti from './everyday/02-saluti.json';
@@ -91,6 +101,10 @@ import everyday_09_invito from './everyday/09-invito.json';
 import everyday_10_negozi from './everyday/10-negozi.json';
 import everyday_11_salute from './everyday/11-salute.json';
 import everyday_12_umore from './everyday/12-umore.json';
+import everyday_13_appuntamenti from './everyday/13-appuntamenti.json';
+import everyday_14_ufficio from './everyday/14-ufficio.json';
+import everyday_15_reclami from './everyday/15-reclami.json';
+import everyday_16_chiacchiere from './everyday/16-chiacchiere.json';
 
 // Les JSON importés sont typés de façon large (string au lieu de 'A1' | 'A2'…) :
 // la conformité réelle est garantie par les tests de validation du contenu.
@@ -167,15 +181,25 @@ export const lessons: GrammarLesson[] = [
 
 export const readings: Reading[] = [
   reading_a1_al_mercato,
+  reading_a1_in_albergo,
+  reading_a1_la_mia_famiglia,
   reading_a1_la_mia_giornata,
   reading_a2_cena_tra_amici,
+  reading_a2_nuovo_lavoro,
+  reading_a2_ricetta_carbonara,
   reading_a2_weekend_al_lago,
   reading_b1_lavorare_da_casa,
   reading_b1_rito_del_caffe,
+  reading_b1_slow_food,
+  reading_b1_vespa,
+  reading_b2_borghi_abbandonati,
   reading_b2_fuga_dei_cervelli,
+  reading_b2_gesti,
   reading_b2_paradosso_del_turismo,
   reading_c1_arte_di_arrangiarsi,
+  reading_c1_calvino,
   reading_c1_lingua_e_dialetti,
+  reading_c1_made_in_italy,
 ].map((r) => as<Reading>(r));
 
 export const everydayTopics: EverydayTopic[] = [
@@ -191,6 +215,10 @@ export const everydayTopics: EverydayTopic[] = [
   everyday_10_negozi,
   everyday_11_salute,
   everyday_12_umore,
+  everyday_13_appuntamenti,
+  everyday_14_ufficio,
+  everyday_15_reclami,
+  everyday_16_chiacchiere,
 ].map((t) => as<EverydayTopic>(t));
 
 export function findEverydayTopic(id: string): EverydayTopic | undefined {

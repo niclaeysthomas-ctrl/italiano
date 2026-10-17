@@ -28,9 +28,11 @@ export interface Settings {
   rate: number;
   /** Nombre maximal de nouvelles cartes par jour. */
   newPerDay: number;
+  /** Objectif quotidien en points d'activité. */
+  dailyGoal: number;
 }
 
-export const DEFAULT_SETTINGS: Settings = { voiceURI: null, rate: 0.95, newPerDay: 10 };
+export const DEFAULT_SETTINGS: Settings = { voiceURI: null, rate: 0.95, newPerDay: 10, dailyGoal: 30 };
 
 export interface ReviewEntry {
   id?: number;

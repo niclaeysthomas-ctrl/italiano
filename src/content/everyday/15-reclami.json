@@ -1,0 +1,26 @@
+{
+  "id": "q-reclami",
+  "title": "Se plaindre poliment",
+  "level": "B1",
+  "intro": "Une erreur sur l'addition, une chambre bruyante, un colis perdu : comment le dire fermement sans être désagréable.",
+  "dialogue": [
+    { "who": "Ospite", "it": "Scusi, avrei un problema con la camera.", "fr": "Excusez-moi, j'aurais un problème avec la chambre." },
+    { "who": "Receptionist", "it": "Mi dica pure.", "fr": "Je vous écoute." },
+    { "who": "Ospite", "it": "L'aria condizionata non funziona e fa un caldo terribile.", "fr": "La climatisation ne marche pas et il fait une chaleur terrible." },
+    { "who": "Receptionist", "it": "Mi dispiace molto. Mando subito qualcuno a controllare.", "fr": "Je suis vraiment désolé. J'envoie tout de suite quelqu'un vérifier." },
+    { "who": "Ospite", "it": "E se non si può riparare, sarebbe possibile cambiare camera?", "fr": "Et si on ne peut pas la réparer, serait-il possible de changer de chambre ?" },
+    { "who": "Receptionist", "it": "Certo, nessun problema.", "fr": "Bien sûr, aucun problème." }
+  ],
+  "items": [
+    { "it": "Avrei un problema con…", "fr": "J'aurais un problème avec…", "note": "Le conditionnel adoucit la demande.", "example": "Buongiorno, avrei un problema con il mio ordine.", "exampleFr": "Bonjour, j'aurais un problème avec ma commande." },
+    { "it": "Non funziona.", "fr": "Ça ne marche pas.", "example": "Il wi-fi in camera non funziona.", "exampleFr": "Le wifi dans la chambre ne marche pas." },
+    { "it": "Credo che ci sia un errore.", "fr": "Je crois qu'il y a une erreur.", "example": "Credo che ci sia un errore nel conto: non abbiamo preso il vino.", "exampleFr": "Je crois qu'il y a une erreur dans l'addition : nous n'avons pas pris de vin." },
+    { "it": "Sarebbe possibile…?", "fr": "Serait-il possible de… ?", "example": "Sarebbe possibile avere una camera più tranquilla?", "exampleFr": "Serait-il possible d'avoir une chambre plus calme ?" },
+    { "it": "il rimborso", "fr": "le remboursement", "example": "Vorrei chiedere il rimborso del biglietto.", "exampleFr": "Je voudrais demander le remboursement du billet." },
+    { "it": "fare un reclamo", "fr": "faire une réclamation", "example": "Ho fatto un reclamo alla compagnia aerea.", "exampleFr": "J'ai fait une réclamation auprès de la compagnie aérienne." },
+    { "it": "Mi aspettavo di più.", "fr": "Je m'attendais à mieux.", "example": "Per quel prezzo, sinceramente mi aspettavo di più.", "exampleFr": "Pour ce prix, honnêtement, je m'attendais à mieux." },
+    { "it": "Non è colpa mia.", "fr": "Ce n'est pas ma faute.", "example": "Il pacco è arrivato rotto, non è colpa mia.", "exampleFr": "Le colis est arrivé cassé, ce n'est pas ma faute." },
+    { "it": "Posso parlare con il responsabile?", "fr": "Je peux parler au responsable ?", "example": "Mi scusi, posso parlare con il responsabile?", "exampleFr": "Excusez-moi, je peux parler au responsable ?" },
+    { "it": "Mi rendo conto, ma…", "fr": "Je comprends, mais…", "example": "Mi rendo conto che non dipende da lei, ma aspetto da un'ora.", "exampleFr": "Je comprends que ça ne dépend pas de vous, mais j'attends depuis une heure." }
+  ]
+}

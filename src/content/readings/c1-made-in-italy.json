@@ -1,0 +1,22 @@
+{
+  "id": "c1-made-in-italy",
+  "level": "C1",
+  "title": "Il «made in Italy» tra mito e realtà",
+  "text": "Moda, design, agroalimentare: il marchio «made in Italy» evoca nel mondo un'idea di qualità e di stile difficilmente eguagliabile. Dietro questa immagine si cela un tessuto produttivo peculiare, fatto in larga parte di piccole e medie imprese, spesso a conduzione familiare e concentrate in distretti specializzati, dal tessile di Prato alle piastrelle di Sassuolo.\n\nTale modello, se da un lato ha garantito flessibilità e un saper fare tramandato di generazione in generazione, dall'altro fatica a reggere la concorrenza globale. Le dimensioni ridotte rendono arduo investire in ricerca e conquistare nuovi mercati, mentre il ricambio generazionale non sempre va a buon fine.\n\nA ciò si aggiunge il fenomeno dell'«italian sounding»: prodotti fabbricati altrove che richiamano l'Italia nel nome o nell'etichetta, sottraendo ai produttori autentici quote di mercato considerevoli. Difendere il marchio, dunque, non significa soltanto tutelare un'eccellenza, ma anche ripensare un sistema che rischia di vivere di rendita.",
+  "translation": "Mode, design, agroalimentaire : le label « made in Italy » évoque dans le monde une idée de qualité et de style difficile à égaler. Derrière cette image se cache un tissu productif singulier, composé en grande partie de petites et moyennes entreprises, souvent familiales et concentrées dans des districts spécialisés, du textile de Prato aux carrelages de Sassuolo.\n\nCe modèle, s'il a d'un côté garanti flexibilité et savoir-faire transmis de génération en génération, peine de l'autre à soutenir la concurrence mondiale. Leur petite taille rend difficile l'investissement dans la recherche et la conquête de nouveaux marchés, tandis que la transmission entre générations n'aboutit pas toujours.\n\nÀ cela s'ajoute le phénomène de l'« italian sounding » : des produits fabriqués ailleurs qui évoquent l'Italie par leur nom ou leur étiquette, privant les producteurs authentiques de parts de marché considérables. Défendre le label ne signifie donc pas seulement protéger une excellence, mais aussi repenser un système qui risque de vivre sur ses acquis.",
+  "glossary": [
+    { "term": "eguagliabile", "fr": "égalable" },
+    { "term": "si cela", "fr": "se cache" },
+    { "term": "a conduzione familiare", "fr": "familiales (entreprises)" },
+    { "term": "tramandato", "fr": "transmis" },
+    { "term": "reggere", "fr": "supporter, tenir face à" },
+    { "term": "ricambio generazionale", "fr": "renouvellement des générations" },
+    { "term": "tutelare", "fr": "protéger" },
+    { "term": "vivere di rendita", "fr": "vivre sur ses acquis" }
+  ],
+  "questions": [
+    { "q": "Qu'est-ce qui caractérise le tissu productif italien ?", "options": ["De grandes multinationales", "Des PME souvent familiales regroupées en districts", "Des entreprises publiques", "Des usines délocalisées"], "answer": 1 },
+    { "q": "Qu'est-ce que l'« italian sounding » ?", "options": ["Une campagne publicitaire officielle", "Une musique italienne", "Des produits fabriqués ailleurs qui imitent l'image italienne", "Une technique de vente en ligne"], "answer": 2 },
+    { "q": "Quelle est la conclusion de l'auteur ?", "options": ["Il faut aussi repenser le système, pas seulement le protéger", "Le made in Italy n'a pas d'avenir", "Les districts doivent disparaître", "La concurrence mondiale est un mythe"], "answer": 0 }
+  ]
+}

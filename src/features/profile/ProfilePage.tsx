@@ -8,6 +8,9 @@ import { repo } from '../../data/repo.ts';
 import type { ExportFile, Settings } from '../../data/repo.ts';
 import { useProfile, useSettings } from '../../app/context.ts';
 import { useLive } from '../../lib/live.ts';
+import { GOAL_OPTIONS } from '../../core/progress/progress.ts';
+import { loadProgress } from '../progress/progressData.ts';
+import { ActivityCalendar, LevelCriteria } from '../progress/ProgressWidgets.tsx';
 import { LevelLine } from '../../ui/LevelLine.tsx';
 import { Page } from '../../ui/Page.tsx';
 
@@ -32,6 +35,8 @@ export function ProfilePage() {
       activeDays: activeDays.length,
     };
   }, [today]);
+
+  const progress = useLive(() => loadProgress(profile.level, today), [profile.level, today]);
 
   const changeLevel = (level: Level) => repo.saveProfile({ ...profile, level });
   const updateSettings = (patch: Partial<Settings>) => repo.saveSettings({ ...settings, ...patch });
@@ -63,6 +68,12 @@ export function ProfilePage() {
 
       <section className="section" aria-labelledby="stats">
         <h2 id="stats">Progression</h2>
+        {progress && (
+          <>
+            <ActivityCalendar activity={progress.activity} today={today} goal={settings.dailyGoal} />
+            <LevelCriteria level={profile.level} readiness={progress.readiness} />
+          </>
+        )}
         {stats && (
           <dl className="stats stats--grid">
             <div>
@@ -94,6 +105,16 @@ export function ProfilePage() {
 
       <section className="section" aria-labelledby="reglages">
         <h2 id="reglages">Réglages</h2>
+        <fieldset className="segmented">
+          <legend>Objectif quotidien</legend>
+          {GOAL_OPTIONS.map((goal) => (
+            <label key={goal} className={settings.dailyGoal === goal ? 'is-active' : undefined}>
+              <input type="radio" name="goal" checked={settings.dailyGoal === goal} onChange={() => updateSettings({ dailyGoal: goal })} />
+              {goal}
+            </label>
+          ))}
+        </fieldset>
+        <p className="muted small">En points : 1 par carte révisée, 5 par exercice terminé (leçon, lecture, dictée, traduction, conjugaison, oral).</p>
         <VoiceSettings settings={settings} onChange={updateSettings} />
         <label className="field field--inline">
           <span>Nouvelles cartes par jour</span>

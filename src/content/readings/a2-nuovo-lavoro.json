@@ -1,0 +1,22 @@
+{
+  "id": "a2-nuovo-lavoro",
+  "level": "A2",
+  "title": "Il primo giorno di lavoro",
+  "text": "Lunedì ho cominciato a lavorare in una piccola agenzia di viaggi a Verona. Ero un po' nervoso, perciò mi sono svegliato prestissimo e sono arrivato in ufficio con mezz'ora di anticipo.\n\nLa mia responsabile, Carla, mi ha presentato ai colleghi e mi ha spiegato come funziona il programma per le prenotazioni. All'inizio sembrava complicato, ma dopo qualche ora ho capito quasi tutto.\n\nA pranzo siamo andati tutti insieme in una trattoria vicino all'Arena. I colleghi sono simpatici e mi hanno dato molti consigli. Quando sono tornato a casa ero stanco, ma contento: credo di aver scelto il lavoro giusto.",
+  "translation": "Lundi, j'ai commencé à travailler dans une petite agence de voyages à Vérone. J'étais un peu nerveux, alors je me suis réveillé très tôt et je suis arrivé au bureau avec une demi-heure d'avance.\n\nMa responsable, Carla, m'a présenté à mes collègues et m'a expliqué comment fonctionne le logiciel de réservation. Au début, ça semblait compliqué, mais après quelques heures j'avais presque tout compris.\n\nÀ midi, nous sommes allés tous ensemble dans une trattoria près des Arènes. Les collègues sont sympathiques et m'ont donné beaucoup de conseils. Quand je suis rentré à la maison, j'étais fatigué mais content : je crois avoir choisi le bon travail.",
+  "glossary": [
+    { "term": "agenzia di viaggi", "fr": "agence de voyages" },
+    { "term": "perciò", "fr": "c'est pourquoi, donc" },
+    { "term": "di anticipo", "fr": "d'avance" },
+    { "term": "responsabile", "fr": "responsable, cheffe" },
+    { "term": "prenotazioni", "fr": "réservations" },
+    { "term": "all'inizio", "fr": "au début" },
+    { "term": "consigli", "fr": "conseils" },
+    { "term": "giusto", "fr": "bon, juste" }
+  ],
+  "questions": [
+    { "q": "Pourquoi est-il arrivé en avance ?", "options": ["Il avait raté son train", "Il était nerveux", "Sa responsable le lui avait demandé", "Il habite à côté"], "answer": 1 },
+    { "q": "Qu'est-ce que Carla lui a expliqué ?", "options": ["Le logiciel de réservation", "L'histoire de Vérone", "Où déjeuner", "Ses horaires"], "answer": 0 },
+    { "q": "Comment se sent-il le soir ?", "options": ["Déçu", "Malade", "Fatigué mais content", "Inquiet"], "answer": 2 }
+  ]
+}

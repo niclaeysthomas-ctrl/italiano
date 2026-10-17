@@ -5,7 +5,9 @@ import { pickDaily } from '../../core/daily/pick.ts';
 import { lessons, readings } from '../../content/index.ts';
 import { repo } from '../../data/repo.ts';
 import type { Attempt } from '../../data/repo.ts';
-import { useProfile } from '../../app/context.ts';
+import { useProfile, useSettings } from '../../app/context.ts';
+import { loadProgress } from '../progress/progressData.ts';
+import { GoalBar, LevelUpBanner } from '../progress/ProgressWidgets.tsx';
 import { useLive } from '../../lib/live.ts';
 import { Icon } from '../../ui/Icon.tsx';
 import type { IconName } from '../../ui/Icon.tsx';
@@ -16,16 +18,19 @@ import { expressionOfTheDay } from '../everyday/daily.ts';
 import { AudioButton } from '../../ui/AudioButton.tsx';
 
 export function HomePage() {
-  const { level } = useProfile();
+  const profile = useProfile();
+  const { level } = profile;
+  const settings = useSettings();
   const today = studyDay();
   const data = useLive(async () => {
-    const [snapshot, attemptsToday, allAttempts, activeDays] = await Promise.all([
+    const [snapshot, attemptsToday, allAttempts, activeDays, progress] = await Promise.all([
       loadStudySnapshot(level),
       repo.getAttemptsOn(today),
       repo.getAttempts(),
       repo.getActiveDays(),
+      loadProgress(level, today),
     ]);
-    return { snapshot, attemptsToday, allAttempts, streak: computeStreak(activeDays, today) };
+    return { snapshot, attemptsToday, allAttempts, progress, streak: computeStreak(activeDays, today) };
   }, [level, today]);
 
   if (!data) return <div className="loading" aria-busy="true" />;
@@ -53,7 +58,11 @@ export function HomePage() {
         <p className="muted">{streakText}</p>
       </header>
 
+      <GoalBar points={data.progress.todayPoints} goal={settings.dailyGoal} />
+
       <LevelLine current={level} />
+
+      <LevelUpBanner profile={profile} readiness={data.progress.readiness} />
 
       <section className="section" aria-labelledby="today">
         <h2 id="today">Aujourd’hui</h2>

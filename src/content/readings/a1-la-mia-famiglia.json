@@ -1,0 +1,22 @@
+{
+  "id": "a1-la-mia-famiglia",
+  "level": "A1",
+  "title": "La mia famiglia",
+  "text": "Mi chiamo Giulia e ho ventotto anni. Abito a Torino con mio marito Andrea e nostra figlia Sofia. Sofia ha quattro anni e va all'asilo.\n\nI miei genitori abitano in un paese vicino a Torino. Mio padre è in pensione e mia madre lavora in una farmacia. Ho anche un fratello, Matteo. Lui vive a Londra e lavora in un ristorante.\n\nLa domenica pranziamo tutti insieme a casa dei miei genitori. Mia madre cucina sempre troppo! Dopo pranzo facciamo una passeggiata e Sofia gioca con il nonno.",
+  "translation": "Je m'appelle Giulia et j'ai vingt-huit ans. J'habite à Turin avec mon mari Andrea et notre fille Sofia. Sofia a quatre ans et va à la maternelle.\n\nMes parents habitent dans un village près de Turin. Mon père est à la retraite et ma mère travaille dans une pharmacie. J'ai aussi un frère, Matteo. Il vit à Londres et travaille dans un restaurant.\n\nLe dimanche, nous déjeunons tous ensemble chez mes parents. Ma mère cuisine toujours trop ! Après le déjeuner, nous faisons une promenade et Sofia joue avec son grand-père.",
+  "glossary": [
+    { "term": "marito", "fr": "mari" },
+    { "term": "figlia", "fr": "fille (enfant)" },
+    { "term": "asilo", "fr": "école maternelle" },
+    { "term": "paese", "fr": "village" },
+    { "term": "in pensione", "fr": "à la retraite" },
+    { "term": "insieme", "fr": "ensemble" },
+    { "term": "troppo", "fr": "trop" },
+    { "term": "passeggiata", "fr": "promenade" }
+  ],
+  "questions": [
+    { "q": "Avec qui habite Giulia ?", "options": ["Avec ses parents", "Avec son mari et sa fille", "Avec son frère", "Seule"], "answer": 1 },
+    { "q": "Où vit Matteo ?", "options": ["À Turin", "À Rome", "À Londres", "Dans un village"], "answer": 2 },
+    { "q": "Que font-ils le dimanche ?", "options": ["Ils déjeunent chez les parents de Giulia", "Ils vont au restaurant", "Ils travaillent", "Ils partent en voyage"], "answer": 0 }
+  ]
+}

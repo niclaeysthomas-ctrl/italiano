@@ -1,0 +1,22 @@
+{
+  "id": "b2-gesti",
+  "level": "B2",
+  "title": "Parlare con le mani",
+  "text": "Chiunque abbia passato qualche giorno in Italia ha notato che gli italiani parlano anche con le mani. Secondo alcuni studiosi, esisterebbero oltre duecentocinquanta gesti di uso comune, ciascuno con un significato preciso.\n\nIl più celebre è probabilmente la mano a borsa: le dita unite verso l'alto, mosse su e giù, per chiedere «Ma che vuoi?» o esprimere incredulità. Strofinare il pollice contro l'indice evoca i soldi, mentre tirare giù la palpebra con il dito avverte l'interlocutore di stare attento.\n\nSulle origini di questa abitudine le ipotesi sono numerose. Alcuni la collegano alla presenza di popoli che non parlavano la stessa lingua e dovevano capirsi; altri al bisogno di farsi notare in piazze affollate e rumorose. Qualunque sia la spiegazione, imparare i gesti principali aiuta a capire molto di più di quanto dicano le sole parole.",
+  "translation": "Quiconque a passé quelques jours en Italie a remarqué que les Italiens parlent aussi avec les mains. Selon certains chercheurs, il existerait plus de deux cent cinquante gestes d'usage courant, chacun avec un sens précis.\n\nLe plus célèbre est sans doute la « main en bourse » : les doigts réunis vers le haut, agités de haut en bas, pour demander « Mais qu'est-ce que tu veux ? » ou exprimer l'incrédulité. Frotter le pouce contre l'index évoque l'argent, tandis que tirer la paupière vers le bas avec le doigt avertit l'interlocuteur de faire attention.\n\nSur l'origine de cette habitude, les hypothèses sont nombreuses. Certains la relient à la présence de peuples qui ne parlaient pas la même langue et devaient se comprendre ; d'autres au besoin de se faire remarquer sur des places bondées et bruyantes. Quelle que soit l'explication, apprendre les principaux gestes aide à comprendre bien plus que ce que disent les mots seuls.",
+  "glossary": [
+    { "term": "chiunque", "fr": "quiconque" },
+    { "term": "studiosi", "fr": "chercheurs, spécialistes" },
+    { "term": "esisterebbero", "fr": "il existerait" },
+    { "term": "dita unite", "fr": "doigts réunis" },
+    { "term": "strofinare", "fr": "frotter" },
+    { "term": "palpebra", "fr": "paupière" },
+    { "term": "affollate", "fr": "bondées" },
+    { "term": "qualunque sia", "fr": "quelle que soit" }
+  ],
+  "questions": [
+    { "q": "Combien de gestes courants existeraient selon certains chercheurs ?", "options": ["Une vingtaine", "Une centaine", "Plus de deux cent cinquante", "Plus de mille"], "answer": 2 },
+    { "q": "Que signifie frotter le pouce contre l'index ?", "options": ["L'argent", "Faire attention", "La faim", "L'incrédulité"], "answer": 0 },
+    { "q": "Quelle hypothèse est évoquée sur l'origine des gestes ?", "options": ["Une mode récente venue du cinéma", "Le besoin de se comprendre entre peuples de langues différentes", "Une règle de politesse", "L'influence de la télévision"], "answer": 1 }
+  ]
+}

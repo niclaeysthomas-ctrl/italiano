@@ -1,0 +1,22 @@
+{
+  "id": "b1-slow-food",
+  "level": "B1",
+  "title": "Slow Food: mangiare con calma",
+  "text": "Nel 1986 a Roma aprì un grande fast food vicino a piazza di Spagna. Molti romani protestarono, e tra loro c'era un giornalista piemontese, Carlo Petrini. Qualche anno dopo, Petrini fondò Slow Food, un movimento che oggi è presente in più di cento paesi.\n\nL'idea è semplice: il cibo deve essere buono, pulito e giusto. Buono perché deve avere sapore; pulito perché non deve danneggiare l'ambiente; giusto perché chi lo produce deve essere pagato in modo corretto.\n\nSlow Food difende i prodotti locali che rischiano di scomparire e organizza ogni due anni a Torino il Salone del Gusto, dove si incontrano contadini e cuochi di tutto il mondo. Secondo i suoi sostenitori, mangiare lentamente non è un lusso, ma un modo di rispettare il territorio e le persone.",
+  "translation": "En 1986, un grand fast-food ouvrit à Rome près de la place d'Espagne. Beaucoup de Romains protestèrent, et parmi eux il y avait un journaliste piémontais, Carlo Petrini. Quelques années plus tard, Petrini fonda Slow Food, un mouvement aujourd'hui présent dans plus de cent pays.\n\nL'idée est simple : la nourriture doit être bonne, propre et juste. Bonne parce qu'elle doit avoir du goût ; propre parce qu'elle ne doit pas nuire à l'environnement ; juste parce que ceux qui la produisent doivent être payés correctement.\n\nSlow Food défend les produits locaux menacés de disparition et organise tous les deux ans à Turin le Salone del Gusto, où se rencontrent paysans et cuisiniers du monde entier. Selon ses partisans, manger lentement n'est pas un luxe, mais une façon de respecter le territoire et les personnes.",
+  "glossary": [
+    { "term": "protestarono", "fr": "protestèrent (passé simple)" },
+    { "term": "fondò", "fr": "fonda (passé simple)" },
+    { "term": "sapore", "fr": "goût, saveur" },
+    { "term": "danneggiare", "fr": "nuire à, endommager" },
+    { "term": "scomparire", "fr": "disparaître" },
+    { "term": "contadini", "fr": "paysans, agriculteurs" },
+    { "term": "sostenitori", "fr": "partisans" },
+    { "term": "lusso", "fr": "luxe" }
+  ],
+  "questions": [
+    { "q": "Quel événement est à l'origine du mouvement ?", "options": ["L'ouverture d'un fast-food à Rome", "Une crise agricole", "Un salon à Turin", "Une loi européenne"], "answer": 0 },
+    { "q": "Que signifie « giusto » dans la devise ?", "options": ["Bon au goût", "Respectueux de l'environnement", "Payé correctement aux producteurs", "Bon marché"], "answer": 2 },
+    { "q": "Où a lieu le Salone del Gusto ?", "options": ["À Rome", "À Turin", "À Milan", "Dans cent pays"], "answer": 1 }
+  ]
+}

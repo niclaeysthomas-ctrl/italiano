@@ -10,9 +10,10 @@ Application web installable pour apprendre l'italien du niveau **A1** au niveau 
 - **Écoute** : synthèse vocale italienne partout, dictée avec correction mot à mot.
 - **Traduction écrite** : phrases du français vers l'italien, correction mot à mot, indice, validation de sa propre traduction.
 - **Oral** : répétition après le modèle avec reconnaissance vocale et score, enregistrement de sa voix pour se réécouter.
-- **L'italien du quotidien** : 12 situations (bar, téléphone, SMS, réactions, petits mots de l'oral…), chacune avec un dialogue à écouter et une dizaine d'expressions expliquées ; une expression du jour sur l'accueil.
+- **L'italien du quotidien** : 16 situations (bar, téléphone, SMS, réactions, petits mots de l'oral…), chacune avec un dialogue à écouter et une dizaine d'expressions expliquées ; une expression du jour sur l'accueil.
 - **Lexique** : recherche dans tout le vocabulaire, fiche par mot avec son exemple et les autres phrases de l'application qui l'emploient.
-- **Progression** : série de jours, statistiques, export et import de toutes les données.
+- **Objectif quotidien** : barre de points sur l'accueil (1 par carte, 5 par exercice), objectif réglable.
+- **Progression** : calendrier d'activité sur 12 semaines ; passage au niveau suivant suggéré quand mots, leçons et exercices du niveau sont acquis ; série de jours, statistiques, export et import de toutes les données.
 
 Tout fonctionne hors ligne une fois chargé, sans compte : les données restent dans le navigateur de l'appareil.
 
@@ -25,7 +26,7 @@ Cette version pose **l'architecture complète** ; le contenu est un échantillon
 | Moteurs (répétition espacée, test adaptatif, comparaison de phrases, contenu du jour) | Fonctionnels et testés |
 | Écrans (accueil, test, cartes, grammaire, lecture, dictée, oral, profil) | Fonctionnels |
 | Stockage local, export/import | Fonctionnel |
-| Contenu | 670 cartes (mots, expressions et phrases entières, toutes avec un exemple traduit) dans 37 paquets ; 21 leçons de grammaire (A1 → C1), 10 lectures (deux par niveau), 25 questions de test |
+| Contenu | 670 cartes (mots, expressions et phrases entières, toutes avec un exemple traduit) dans 37 paquets ; 21 leçons de grammaire (A1 → C1), 20 lectures (quatre par niveau), 25 questions de test |
 
 Limites connues, à garder en tête :
 
@@ -81,5 +82,5 @@ Pour aller plus loin : [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) et [docs/CON
 1. Enrichir le contenu : paquets de cartes par thème et par niveau (objectif : plusieurs milliers de mots jusqu'au C1), leçons de grammaire couvrant tout le programme, une lecture par jour sur plusieurs mois.
 2. Enregistrements audio réels pour le vocabulaire et les lectures.
 3. Passage de la répétition espacée à FSRS (l'interface du planificateur est prévue pour).
-4. Progression automatique de niveau selon les résultats.
+4. Affiner la suggestion de niveau (aujourd'hui : 70 % des mots et des leçons, 75 % aux exercices).
 5. Synchronisation optionnelle entre appareils.

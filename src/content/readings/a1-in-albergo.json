@@ -1,0 +1,22 @@
+{
+  "id": "a1-in-albergo",
+  "level": "A1",
+  "title": "Un messaggio dall'albergo",
+  "text": "Ciao mamma! Sono arrivata a Napoli stamattina. Il viaggio in treno è stato lungo ma comodo.\n\nL'albergo è piccolo ma molto carino. La mia camera è al secondo piano e ha un balcone con vista sul mare. La colazione è buonissima: ci sono cornetti, frutta e un ottimo caffè.\n\nOggi pomeriggio visito il centro storico e stasera mangio una pizza vera, napoletana! Domani prendo il traghetto per Capri. Ti chiamo domani sera. Un bacio!",
+  "translation": "Salut maman ! Je suis arrivée à Naples ce matin. Le voyage en train a été long mais confortable.\n\nL'hôtel est petit mais très joli. Ma chambre est au deuxième étage et a un balcon avec vue sur la mer. Le petit-déjeuner est délicieux : il y a des croissants, des fruits et un excellent café.\n\nCet après-midi je visite le centre historique et ce soir je mange une vraie pizza napolitaine ! Demain je prends le ferry pour Capri. Je t'appelle demain soir. Bisous !",
+  "glossary": [
+    { "term": "stamattina", "fr": "ce matin" },
+    { "term": "comodo", "fr": "confortable" },
+    { "term": "carino", "fr": "joli, mignon" },
+    { "term": "secondo piano", "fr": "deuxième étage" },
+    { "term": "vista sul mare", "fr": "vue sur la mer" },
+    { "term": "centro storico", "fr": "centre historique" },
+    { "term": "traghetto", "fr": "ferry" },
+    { "term": "Un bacio", "fr": "bisous (litt. un baiser)" }
+  ],
+  "questions": [
+    { "q": "Comment est-elle arrivée à Naples ?", "options": ["En avion", "En voiture", "En train", "En ferry"], "answer": 2 },
+    { "q": "Qu'a la chambre de particulier ?", "options": ["Un balcon avec vue sur la mer", "Une cuisine", "Deux lits", "Une baignoire"], "answer": 0 },
+    { "q": "Que fera-t-elle demain ?", "options": ["Elle rentrera chez elle", "Elle ira à Capri", "Elle visitera un musée", "Elle restera à l'hôtel"], "answer": 1 }
+  ]
+}

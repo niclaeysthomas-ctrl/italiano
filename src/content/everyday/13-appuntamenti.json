@@ -1,0 +1,26 @@
+{
+  "id": "q-appuntamenti",
+  "title": "Se donner rendez-vous",
+  "level": "A2",
+  "intro": "Proposer, accepter, décaler : les Italiens fixent souvent les plans à la dernière minute, et un « ci sentiamo » n'engage pas à grand-chose.",
+  "dialogue": [
+    { "who": "Paolo", "it": "Che fai sabato sera? Ti va di venire a cena da noi?", "fr": "Tu fais quoi samedi soir ? Ça te dit de venir dîner chez nous ?" },
+    { "who": "Irene", "it": "Volentieri! A che ora?", "fr": "Avec plaisir ! À quelle heure ?" },
+    { "who": "Paolo", "it": "Verso le otto, va bene?", "fr": "Vers huit heures, ça va ?" },
+    { "who": "Irene", "it": "Perfetto. Porto qualcosa?", "fr": "Parfait. J'apporte quelque chose ?" },
+    { "who": "Paolo", "it": "Non c'è bisogno, basta che vieni tu!", "fr": "Pas besoin, il suffit que tu viennes !" },
+    { "who": "Irene", "it": "Allora a sabato. Se cambia qualcosa, ti scrivo.", "fr": "Alors à samedi. Si quelque chose change, je t'écris." }
+  ],
+  "items": [
+    { "it": "Ti va di…?", "fr": "Ça te dit de… ?", "example": "Ti va di fare una passeggiata più tardi?", "exampleFr": "Ça te dit de faire une promenade plus tard ?" },
+    { "it": "Volentieri!", "fr": "Avec plaisir !", "example": "Un caffè? — Volentieri, grazie!", "exampleFr": "Un café ? — Avec plaisir, merci !" },
+    { "it": "Facciamo alle otto?", "fr": "On dit huit heures ?", "example": "Facciamo alle otto davanti al cinema?", "exampleFr": "On dit huit heures devant le cinéma ?" },
+    { "it": "Ci sto!", "fr": "Je suis partant !", "example": "Una gita al lago domenica? Ci sto!", "exampleFr": "Une sortie au lac dimanche ? Je suis partant !" },
+    { "it": "Non ce la faccio.", "fr": "Je ne vais pas y arriver ; je ne pourrai pas.", "example": "Scusa, stasera non ce la faccio, ho troppo lavoro.", "exampleFr": "Désolé, ce soir je ne pourrai pas, j'ai trop de travail." },
+    { "it": "spostare", "fr": "déplacer, décaler", "example": "Possiamo spostare la cena a venerdì?", "exampleFr": "On peut décaler le dîner à vendredi ?" },
+    { "it": "Facciamo un'altra volta.", "fr": "Ce sera pour une autre fois.", "example": "Peccato, facciamo un'altra volta!", "exampleFr": "Dommage, ce sera pour une autre fois !" },
+    { "it": "Sono in ritardo di dieci minuti.", "fr": "J'ai dix minutes de retard.", "example": "Scusa, c'è traffico: sono in ritardo di dieci minuti.", "exampleFr": "Désolé, il y a des bouchons : j'ai dix minutes de retard." },
+    { "it": "Dove ci troviamo?", "fr": "Où est-ce qu'on se retrouve ?", "example": "Dove ci troviamo, in piazza o alla stazione?", "exampleFr": "Où est-ce qu'on se retrouve, sur la place ou à la gare ?" },
+    { "it": "Basta che…", "fr": "Il suffit que… ; du moment que…", "example": "Va bene qualsiasi ora, basta che non sia troppo presto.", "exampleFr": "N'importe quelle heure me va, du moment que ce n'est pas trop tôt." }
+  ]
+}

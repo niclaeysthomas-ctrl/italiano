@@ -1,0 +1,25 @@
+{
+  "id": "q-chiacchiere",
+  "title": "Faire la conversation",
+  "level": "A2",
+  "intro": "La météo, le week-end, le foot : les sujets pour lancer une conversation avec un voisin, un collègue ou un commerçant.",
+  "dialogue": [
+    { "who": "Vicina", "it": "Buongiorno! Che caldo oggi, eh?", "fr": "Bonjour ! Quelle chaleur aujourd'hui, hein ?" },
+    { "who": "Thomas", "it": "Sì, si soffoca! E pensare che ieri pioveva.", "fr": "Oui, on étouffe ! Et dire qu'hier il pleuvait." },
+    { "who": "Vicina", "it": "Ormai non ci sono più le mezze stagioni. Lei è qui in vacanza?", "fr": "Il n'y a plus de saisons. Vous êtes ici en vacances ?" },
+    { "who": "Thomas", "it": "No, mi sono trasferito il mese scorso. Abito al terzo piano.", "fr": "Non, je me suis installé le mois dernier. J'habite au troisième étage." },
+    { "who": "Vicina", "it": "Ah, benvenuto! Per qualsiasi cosa, io sono qui.", "fr": "Ah, bienvenue ! Pour quoi que ce soit, je suis là." }
+  ],
+  "items": [
+    { "it": "Che caldo! Che freddo!", "fr": "Quelle chaleur ! Quel froid !", "example": "Che freddo stamattina, ho dimenticato la sciarpa.", "exampleFr": "Quel froid ce matin, j'ai oublié mon écharpe." },
+    { "it": "Si soffoca.", "fr": "On étouffe.", "example": "In metropolitana si soffoca d'estate.", "exampleFr": "Dans le métro, on étouffe en été." },
+    { "it": "Non ci sono più le mezze stagioni.", "fr": "Il n'y a plus de saisons.", "note": "La phrase banale par excellence, souvent dite avec un sourire.", "example": "Già trenta gradi ad aprile? Non ci sono più le mezze stagioni!", "exampleFr": "Déjà trente degrés en avril ? Il n'y a plus de saisons !" },
+    { "it": "Com'è andato il fine settimana?", "fr": "Comment s'est passé ton week-end ?", "example": "Ciao! Com'è andato il fine settimana al mare?", "exampleFr": "Salut ! Comment s'est passé ton week-end à la mer ?" },
+    { "it": "Di che squadra sei?", "fr": "Tu es supporter de quelle équipe ?", "note": "Question sérieuse en Italie : la réponse en dit long.", "example": "Di che squadra sei? Io tifo Roma.", "exampleFr": "Tu es pour quelle équipe ? Moi je supporte la Roma." },
+    { "it": "tifare per", "fr": "être supporter de", "example": "Mio padre tifa per la Juventus da sempre.", "exampleFr": "Mon père supporte la Juventus depuis toujours." },
+    { "it": "E pensare che…", "fr": "Et dire que…", "example": "E pensare che due anni fa non parlavo una parola d'italiano!", "exampleFr": "Et dire qu'il y a deux ans je ne parlais pas un mot d'italien !" },
+    { "it": "Benvenuto!", "fr": "Bienvenue !", "note": "S'accorde : benvenuta, benvenuti.", "example": "Benvenuti a Bologna!", "exampleFr": "Bienvenue à Bologne !" },
+    { "it": "Per qualsiasi cosa…", "fr": "Pour quoi que ce soit…", "example": "Per qualsiasi cosa, chiamami pure.", "exampleFr": "Pour quoi que ce soit, n'hésite pas à m'appeler." },
+    { "it": "Che bella giornata!", "fr": "Quelle belle journée !", "example": "Che bella giornata, andiamo a mangiare fuori?", "exampleFr": "Quelle belle journée, on va manger dehors ?" }
+  ]
+}

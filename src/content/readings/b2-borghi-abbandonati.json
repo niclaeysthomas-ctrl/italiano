@@ -1,0 +1,22 @@
+{
+  "id": "b2-borghi-abbandonati",
+  "level": "B2",
+  "title": "Case a un euro",
+  "text": "Negli ultimi anni diversi comuni italiani, soprattutto in Sicilia, in Sardegna e nell'Appennino, hanno messo in vendita case abbandonate al prezzo simbolico di un euro. L'obiettivo è ripopolare borghi che si sono svuotati a causa dell'emigrazione e dell'invecchiamento della popolazione.\n\nL'offerta, però, nasconde alcune condizioni: chi acquista si impegna a ristrutturare l'edificio entro un certo periodo, spesso tre anni, e deve versare una cauzione che perderà se non rispetta i tempi. I lavori, inoltre, possono costare decine di migliaia di euro.\n\nL'iniziativa ha attirato l'attenzione dei media internazionali e migliaia di richieste da tutto il mondo. Alcuni paesi hanno effettivamente ritrovato un po' di vita, con nuovi abitanti, botteghe e strutture turistiche. Altri osservatori ricordano, tuttavia, che senza servizi essenziali come scuole, trasporti e ambulatori, nessuna casa, nemmeno gratuita, basterà a trattenere le famiglie.",
+  "translation": "Ces dernières années, plusieurs communes italiennes, surtout en Sicile, en Sardaigne et dans l'Apennin, ont mis en vente des maisons abandonnées au prix symbolique d'un euro. L'objectif est de repeupler des villages qui se sont vidés à cause de l'émigration et du vieillissement de la population.\n\nL'offre cache cependant quelques conditions : l'acheteur s'engage à rénover le bâtiment dans un certain délai, souvent trois ans, et doit verser une caution qu'il perdra s'il ne respecte pas les délais. Les travaux, en outre, peuvent coûter des dizaines de milliers d'euros.\n\nL'initiative a attiré l'attention des médias internationaux et des milliers de demandes du monde entier. Certains villages ont effectivement retrouvé un peu de vie, avec de nouveaux habitants, des boutiques et des structures touristiques. D'autres observateurs rappellent toutefois que sans services essentiels comme les écoles, les transports et les cabinets médicaux, aucune maison, même gratuite, ne suffira à retenir les familles.",
+  "glossary": [
+    { "term": "comuni", "fr": "communes" },
+    { "term": "borghi", "fr": "villages, bourgs" },
+    { "term": "si sono svuotati", "fr": "se sont vidés" },
+    { "term": "invecchiamento", "fr": "vieillissement" },
+    { "term": "ristrutturare", "fr": "rénover" },
+    { "term": "cauzione", "fr": "caution" },
+    { "term": "botteghe", "fr": "boutiques, échoppes" },
+    { "term": "trattenere", "fr": "retenir" }
+  ],
+  "questions": [
+    { "q": "Quel est le but des maisons à un euro ?", "options": ["Repeupler des villages", "Financer les communes", "Attirer des entreprises", "Remplacer les hôtels"], "answer": 0 },
+    { "q": "Quelle condition est imposée à l'acheteur ?", "options": ["Habiter sur place toute l'année", "Rénover dans un délai donné", "Être italien", "Ouvrir un commerce"], "answer": 1 },
+    { "q": "Que soulignent les observateurs critiques ?", "options": ["Les maisons sont trop chères", "Les médias exagèrent", "Sans services essentiels, les familles ne resteront pas", "Les villages sont trop touristiques"], "answer": 2 }
+  ]
+}

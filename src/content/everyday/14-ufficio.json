@@ -1,0 +1,25 @@
+{
+  "id": "q-ufficio",
+  "title": "Au bureau",
+  "level": "B1",
+  "intro": "Réunions, courriels, pause café : le vocabulaire du travail au quotidien. Au bureau, on passe vite au tutoiement entre collègues.",
+  "dialogue": [
+    { "who": "Laura", "it": "Hai visto la mail del capo?", "fr": "Tu as vu le mail du chef ?" },
+    { "who": "Simone", "it": "Sì, ha anticipato la riunione alle nove.", "fr": "Oui, il a avancé la réunion à neuf heures." },
+    { "who": "Laura", "it": "Accidenti, devo ancora finire la presentazione!", "fr": "Zut, je dois encore finir la présentation !" },
+    { "who": "Simone", "it": "Se vuoi ti do una mano. Ci vediamo alla macchinetta tra dieci minuti?", "fr": "Si tu veux, je te donne un coup de main. On se voit à la machine à café dans dix minutes ?" },
+    { "who": "Laura", "it": "Sei un tesoro, grazie!", "fr": "Tu es un amour, merci !" }
+  ],
+  "items": [
+    { "it": "la mail", "fr": "le mail, le courriel", "note": "Féminin en italien.", "example": "Ti mando la mail con il file in allegato.", "exampleFr": "Je t'envoie le mail avec le fichier en pièce jointe." },
+    { "it": "in allegato", "fr": "en pièce jointe", "example": "Trova in allegato il preventivo.", "exampleFr": "Vous trouverez le devis en pièce jointe." },
+    { "it": "anticipare, posticipare", "fr": "avancer, reporter", "example": "Possiamo posticipare la chiamata di mezz'ora?", "exampleFr": "Nous pouvons reporter l'appel d'une demi-heure ?" },
+    { "it": "la macchinetta", "fr": "la machine à café", "note": "Le lieu de la pause et des bavardages.", "example": "Ci prendiamo un caffè alla macchinetta?", "exampleFr": "On prend un café à la machine ?" },
+    { "it": "dare una mano", "fr": "donner un coup de main", "example": "Mi dai una mano con questo report?", "exampleFr": "Tu me donnes un coup de main pour ce rapport ?" },
+    { "it": "fare il punto", "fr": "faire le point", "example": "Facciamo il punto venerdì mattina.", "exampleFr": "Faisons le point vendredi matin." },
+    { "it": "essere sommerso di lavoro", "fr": "être débordé", "example": "Questa settimana sono sommerso di lavoro.", "exampleFr": "Cette semaine, je suis débordé." },
+    { "it": "Ti aggiorno.", "fr": "Je te tiens au courant.", "example": "Parlo con il cliente e ti aggiorno.", "exampleFr": "Je parle au client et je te tiens au courant." },
+    { "it": "Cordiali saluti", "fr": "Cordialement", "note": "Formule de fin de mail formel.", "example": "Resto in attesa di un riscontro. Cordiali saluti.", "exampleFr": "Dans l'attente de votre retour. Cordialement." },
+    { "it": "lo smart working", "fr": "le télétravail", "note": "Anglicisme typiquement italien.", "example": "Il venerdì faccio smart working.", "exampleFr": "Le vendredi, je suis en télétravail." }
+  ]
+}

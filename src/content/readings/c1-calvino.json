@@ -1,0 +1,22 @@
+{
+  "id": "c1-calvino",
+  "level": "C1",
+  "title": "La leggerezza secondo Calvino",
+  "text": "Nel 1985 Italo Calvino stava preparando una serie di conferenze per l'università di Harvard quando morì improvvisamente. Le lezioni, pubblicate postume con il titolo «Lezioni americane», avrebbero dovuto illustrare le qualità che la letteratura avrebbe portato con sé nel nuovo millennio.\n\nLa prima di queste qualità è la leggerezza. Per Calvino non si tratta di superficialità, bensì della capacità di sottrarre peso alle cose: alle strutture del racconto, al linguaggio, alla stessa visione del mondo. Come Perseo, che per non essere pietrificato guarda la Medusa soltanto attraverso il riflesso dello scudo, lo scrittore affronta la pesantezza della realtà in modo indiretto.\n\nA distanza di decenni, quelle pagine continuano a essere lette ben oltre la cerchia degli specialisti. Forse perché, in un'epoca sommersa da informazioni, la proposta di Calvino suona meno come un precetto estetico che come un invito a guardare il mondo con lucidità, senza lasciarsene schiacciare.",
+  "translation": "En 1985, Italo Calvino préparait une série de conférences pour l'université Harvard lorsqu'il mourut subitement. Ses leçons, publiées à titre posthume sous le titre « Leçons américaines », devaient illustrer les qualités que la littérature emporterait avec elle dans le nouveau millénaire.\n\nLa première de ces qualités est la légèreté. Pour Calvino, il ne s'agit pas de superficialité, mais de la capacité à ôter du poids aux choses : aux structures du récit, au langage, à la vision même du monde. Comme Persée qui, pour ne pas être pétrifié, ne regarde la Méduse qu'à travers le reflet de son bouclier, l'écrivain affronte la pesanteur du réel de manière indirecte.\n\nDes décennies plus tard, ces pages continuent d'être lues bien au-delà du cercle des spécialistes. Peut-être parce que, à une époque submergée d'informations, la proposition de Calvino sonne moins comme un précepte esthétique que comme une invitation à regarder le monde avec lucidité, sans s'en laisser écraser.",
+  "glossary": [
+    { "term": "postume", "fr": "posthumes" },
+    { "term": "leggerezza", "fr": "légèreté" },
+    { "term": "bensì", "fr": "mais (après une négation)" },
+    { "term": "sottrarre", "fr": "soustraire, ôter" },
+    { "term": "scudo", "fr": "bouclier" },
+    { "term": "cerchia", "fr": "cercle (de personnes)" },
+    { "term": "sommersa", "fr": "submergée" },
+    { "term": "schiacciare", "fr": "écraser" }
+  ],
+  "questions": [
+    { "q": "Pourquoi les « Lezioni americane » sont-elles posthumes ?", "options": ["Calvino est mort avant de les donner", "Elles ont été interdites", "Calvino refusait de les publier", "Elles ont été perdues puis retrouvées"], "answer": 0 },
+    { "q": "Que signifie la légèreté pour Calvino ?", "options": ["La superficialité", "L'humour à tout prix", "La capacité d'ôter du poids aux choses", "Un style très bref"], "answer": 2 },
+    { "q": "Que suggère l'auteur dans la conclusion ?", "options": ["Que le texte n'intéresse que les spécialistes", "Que la proposition reste une invitation à la lucidité aujourd'hui", "Que Calvino s'était trompé", "Que l'information est inutile"], "answer": 1 }
+  ]
+}

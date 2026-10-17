@@ -1,0 +1,22 @@
+{
+  "id": "a2-ricetta-carbonara",
+  "level": "A2",
+  "title": "La carbonara della nonna",
+  "text": "La carbonara è uno dei piatti più famosi della cucina romana. Mia nonna la preparava ogni domenica e diceva sempre: «Pochi ingredienti, ma buoni!»\n\nPer quattro persone servono quattrocento grammi di spaghetti, duecento grammi di guanciale, quattro tuorli d'uovo, pecorino romano e pepe nero. Niente panna e niente aglio: secondo la nonna, chi li mette non fa la vera carbonara!\n\nSi taglia il guanciale a pezzetti e si fa rosolare in padella. Intanto si sbattono i tuorli con il pecorino e il pepe. Quando la pasta è cotta, si mescola con il guanciale e, fuori dal fuoco, si aggiunge la crema di uova. Il segreto è non cuocere le uova: devono restare cremose.",
+  "translation": "La carbonara est l'un des plats les plus célèbres de la cuisine romaine. Ma grand-mère la préparait chaque dimanche et disait toujours : « Peu d'ingrédients, mais de bons ingrédients ! »\n\nPour quatre personnes, il faut quatre cents grammes de spaghetti, deux cents grammes de guanciale (joue de porc), quatre jaunes d'œuf, du pecorino romano et du poivre noir. Ni crème ni ail : selon grand-mère, ceux qui en mettent ne font pas la vraie carbonara !\n\nOn coupe le guanciale en petits morceaux et on le fait dorer à la poêle. Pendant ce temps, on bat les jaunes avec le pecorino et le poivre. Quand les pâtes sont cuites, on les mélange avec le guanciale et, hors du feu, on ajoute la crème d'œufs. Le secret, c'est de ne pas cuire les œufs : ils doivent rester crémeux.",
+  "glossary": [
+    { "term": "servono", "fr": "il faut (litt. servent)" },
+    { "term": "tuorli", "fr": "jaunes d'œuf" },
+    { "term": "panna", "fr": "crème" },
+    { "term": "aglio", "fr": "ail" },
+    { "term": "rosolare", "fr": "faire dorer" },
+    { "term": "padella", "fr": "poêle" },
+    { "term": "intanto", "fr": "pendant ce temps" },
+    { "term": "fuori dal fuoco", "fr": "hors du feu" }
+  ],
+  "questions": [
+    { "q": "De quelle ville vient la carbonara ?", "options": ["Naples", "Rome", "Milan", "Bologne"], "answer": 1 },
+    { "q": "Quel ingrédient ne faut-il PAS mettre selon la grand-mère ?", "options": ["Le pecorino", "Le poivre", "La crème", "Le guanciale"], "answer": 2 },
+    { "q": "Quel est le secret ?", "options": ["Ne pas cuire les œufs", "Cuire les pâtes longtemps", "Ajouter beaucoup de sel", "Utiliser du beurre"], "answer": 0 }
+  ]
+}

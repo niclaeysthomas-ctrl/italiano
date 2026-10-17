@@ -1,0 +1,22 @@
+{
+  "id": "b1-vespa",
+  "level": "B1",
+  "title": "La Vespa, un simbolo italiano",
+  "text": "Dopo la Seconda guerra mondiale, l'Italia era un paese da ricostruire e pochi potevano permettersi un'automobile. Fu allora che l'azienda Piaggio, che prima costruiva aerei, ebbe l'idea di produrre uno scooter economico, pratico e facile da guidare.\n\nIl primo modello uscì nel 1946. Quando Enrico Piaggio lo vide, pare abbia esclamato: «Sembra una vespa!», per la forma della carrozzeria. Il nome rimase.\n\nIn pochi anni la Vespa diventò un fenomeno: permetteva agli operai di andare al lavoro e ai giovani di scoprire la libertà. Il film «Vacanze romane», con Audrey Hepburn e Gregory Peck in giro per Roma, la rese famosa in tutto il mondo. Ancora oggi, nonostante il traffico, le Vespe colorate fanno parte del paesaggio delle città italiane.",
+  "translation": "Après la Seconde Guerre mondiale, l'Italie était un pays à reconstruire et peu de gens pouvaient s'offrir une voiture. C'est alors que l'entreprise Piaggio, qui construisait auparavant des avions, eut l'idée de produire un scooter économique, pratique et facile à conduire.\n\nLe premier modèle sortit en 1946. Quand Enrico Piaggio le vit, il se serait exclamé : « On dirait une guêpe ! », à cause de la forme de la carrosserie. Le nom resta.\n\nEn quelques années, la Vespa devint un phénomène : elle permettait aux ouvriers d'aller travailler et aux jeunes de découvrir la liberté. Le film « Vacances romaines », avec Audrey Hepburn et Gregory Peck se baladant dans Rome, la rendit célèbre dans le monde entier. Aujourd'hui encore, malgré la circulation, les Vespa colorées font partie du paysage des villes italiennes.",
+  "glossary": [
+    { "term": "ricostruire", "fr": "reconstruire" },
+    { "term": "permettersi", "fr": "se permettre, s'offrir" },
+    { "term": "uscì", "fr": "sortit (passé simple)" },
+    { "term": "pare abbia esclamato", "fr": "il se serait exclamé" },
+    { "term": "vespa", "fr": "guêpe" },
+    { "term": "carrozzeria", "fr": "carrosserie" },
+    { "term": "operai", "fr": "ouvriers" },
+    { "term": "la rese", "fr": "la rendit" }
+  ],
+  "questions": [
+    { "q": "Que fabriquait Piaggio avant la Vespa ?", "options": ["Des voitures", "Des avions", "Des vélos", "Des trains"], "answer": 1 },
+    { "q": "D'où vient le nom « Vespa » ?", "options": ["Du nom d'un ingénieur", "D'une ville", "De la forme qui rappelait une guêpe", "D'un film"], "answer": 2 },
+    { "q": "Qu'a fait le film « Vacanze romane » ?", "options": ["Il a rendu la Vespa célèbre dans le monde", "Il a critiqué la Vespa", "Il a été tourné à Milan", "Il a fait baisser les ventes"], "answer": 0 }
+  ]
+}
