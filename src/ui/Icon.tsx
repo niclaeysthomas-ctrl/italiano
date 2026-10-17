@@ -15,6 +15,8 @@ const PATHS = {
   plus: 'M12 5v14M5 12h14',
   read: 'M5 5h14M5 9.5h14M5 14h9M5 18.5h6',
   translate: 'M4 5h8M8 3v2m-3 0c.5 3 2.5 5.5 6 7M11 5c-.5 3-2.5 5.5-6 7m7 8 4-9 4 9m-6.5-3h5',
+  search: 'M10.5 4a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zM20 20l-4.8-4.8',
+  chat: 'M4 5.5h16v10H9l-5 4v-14zM8 9.5h8M8 12.5h5',
   pencil: 'M4 20h4L19 9l-4-4L4 16zM13.5 6.5l4 4',
 } as const;
 

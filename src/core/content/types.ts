@@ -79,3 +79,31 @@ export interface Reading {
   glossary: { term: string; fr: string }[];
   questions: ReadingQuestion[];
 }
+
+/** Une expression de « L'italien du quotidien ». */
+export interface EverydayItem {
+  it: string;
+  fr: string;
+  /** Usage, registre, piège. */
+  note?: string;
+  example?: string;
+  exampleFr?: string;
+}
+
+export interface DialogueLine {
+  who: string;
+  it: string;
+  fr: string;
+}
+
+/** Une situation du quotidien : un dialogue modèle et ses expressions. */
+export interface EverydayTopic {
+  id: string;
+  title: string;
+  level: Level;
+  intro: string;
+  /** `false` pour exclure ces phrases de la dictée et de la traduction (abréviations SMS, par exemple). */
+  practice?: boolean;
+  dialogue: DialogueLine[];
+  items: EverydayItem[];
+}

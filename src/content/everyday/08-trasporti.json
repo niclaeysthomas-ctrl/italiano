@@ -1,0 +1,25 @@
+{
+  "id": "q-trasporti",
+  "title": "Transports",
+  "level": "A2",
+  "intro": "Les tickets de bus s'achètent souvent au bureau de tabac. Les billets de train régionaux papier se compostent avant de monter.",
+  "dialogue": [
+    { "who": "Viaggiatore", "it": "Scusi, questo treno ferma a Bologna?", "fr": "Excusez-moi, ce train s'arrête à Bologne ?" },
+    { "who": "Capotreno", "it": "No, deve cambiare a Modena.", "fr": "Non, vous devez changer à Modène." },
+    { "who": "Viaggiatore", "it": "E da che binario parte la coincidenza?", "fr": "Et de quelle voie part la correspondance ?" },
+    { "who": "Capotreno", "it": "Dal binario due, ma controlli il tabellone, cambia spesso.", "fr": "De la voie deux, mais vérifiez le panneau, ça change souvent." },
+    { "who": "Viaggiatore", "it": "Grazie mille, gentilissimo!", "fr": "Merci beaucoup, c'est très aimable !" }
+  ],
+  "items": [
+    { "it": "timbrare il biglietto", "fr": "composter son billet", "example": "Non dimenticare di timbrare il biglietto prima di salire.", "exampleFr": "N'oublie pas de composter ton billet avant de monter." },
+    { "it": "il tabaccaio", "fr": "le bureau de tabac", "note": "On y achète tickets de bus, timbres et cartes téléphoniques.", "example": "I biglietti dell'autobus si comprano dal tabaccaio.", "exampleFr": "Les tickets de bus s'achètent au bureau de tabac." },
+    { "it": "la fermata", "fr": "l'arrêt", "example": "Scendo alla prossima fermata.", "exampleFr": "Je descends au prochain arrêt." },
+    { "it": "salire, scendere", "fr": "monter, descendre", "example": "Siamo saliti a Roma e scesi a Napoli.", "exampleFr": "Nous sommes montés à Rome et descendus à Naples." },
+    { "it": "la coincidenza", "fr": "la correspondance", "example": "Ho perso la coincidenza per Venezia.", "exampleFr": "J'ai raté la correspondance pour Venise." },
+    { "it": "Questo treno ferma a…?", "fr": "Ce train s'arrête à… ?", "example": "Scusi, questo treno ferma a Firenze?", "exampleFr": "Excusez-moi, ce train s'arrête à Florence ?" },
+    { "it": "essere in ritardo, in orario", "fr": "être en retard, à l'heure", "example": "Il regionale delle otto è in ritardo di venti minuti.", "exampleFr": "Le régional de huit heures a vingt minutes de retard." },
+    { "it": "lo sciopero dei mezzi", "fr": "la grève des transports", "example": "Venerdì c'è lo sciopero dei mezzi, prendo la bici.", "exampleFr": "Vendredi il y a grève des transports, je prends le vélo." },
+    { "it": "fare benzina", "fr": "faire le plein", "example": "Fermiamoci a fare benzina prima dell'autostrada.", "exampleFr": "Arrêtons-nous faire le plein avant l'autoroute." },
+    { "it": "la ZTL", "fr": "la zone à trafic limité", "note": "Centre-ville interdit aux voitures non autorisées, avec caméras et amendes.", "example": "Attenzione, in centro c'è la ZTL.", "exampleFr": "Attention, dans le centre il y a une zone à trafic limité." }
+  ]
+}

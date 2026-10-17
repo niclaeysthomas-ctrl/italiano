@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import { MINUTE } from '../../core/dates.ts';
 import type { QueueItem } from '../../core/srs/queue.ts';
 import { sessionOrder } from '../../core/srs/queue.ts';
@@ -9,6 +9,9 @@ import { useProfile } from '../../app/context.ts';
 import { AudioButton } from '../../ui/AudioButton.tsx';
 import { Page } from '../../ui/Page.tsx';
 import { loadStudySnapshot } from './studyData.ts';
+import { findExamples } from '../../core/text/examples.ts';
+import { sentencePool } from '../practice/sentences.ts';
+import { ExampleLine } from '../../ui/WordSheet.tsx';
 
 /** Les cartes qui reviennent dans moins de 20 minutes restent dans la séance en cours. */
 const LEARN_AHEAD = 20 * MINUTE;
@@ -120,6 +123,7 @@ export function ReviewPage() {
                 <AudioButton text={note.example} label="Écouter l’exemple" />
               </div>
             )}
+            <OtherExamples it={note.it} known={note.example} />
           </div>
         )}
       </article>
@@ -155,5 +159,19 @@ function Counts({ fresh, learning, review }: { fresh: number; learning: number; 
         {review}
       </span>
     </p>
+  );
+}
+
+/** Deux autres phrases de l'application qui emploient le mot, quand il y en a. */
+function OtherExamples({ it, known }: { it: string; known?: string }) {
+  const others = useMemo(() => findExamples(it, sentencePool, 2, known ? [known] : []), [it, known]);
+  if (others.length === 0) return null;
+  return (
+    <div className="example-block example-block--card">
+      <h3>Autres exemples</h3>
+      {others.map((s) => (
+        <ExampleLine key={s.id} it={s.it} fr={s.fr} />
+      ))}
+    </div>
   );
 }

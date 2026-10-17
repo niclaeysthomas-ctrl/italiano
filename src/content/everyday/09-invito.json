@@ -1,0 +1,27 @@
+{
+  "id": "q-invito",
+  "title": "Chez des amis",
+  "level": "A2",
+  "intro": "Invité à dîner ? On apporte un dessert ou une bouteille. Et refuser une deuxième assiette demande un peu de diplomatie.",
+  "dialogue": [
+    { "who": "Chiara", "it": "Ciao! Entrate, entrate!", "fr": "Salut ! Entrez, entrez !" },
+    { "who": "Ospite", "it": "Abbiamo portato un dolce.", "fr": "Nous avons apporté un dessert." },
+    { "who": "Chiara", "it": "Ma non dovevate! Grazie!", "fr": "Il ne fallait pas ! Merci !" },
+    { "who": "Chiara", "it": "Servitevi pure, c'è tanta roba.", "fr": "Servez-vous, il y a plein de choses." },
+    { "who": "Ospite", "it": "È tutto buonissimo, complimenti alla cuoca!", "fr": "Tout est délicieux, compliments à la cuisinière !" },
+    { "who": "Chiara", "it": "Ne vuoi ancora un po'?", "fr": "Tu en veux encore un peu ?" },
+    { "who": "Ospite", "it": "No grazie, sono pieno!", "fr": "Non merci, je n'en peux plus !" }
+  ],
+  "items": [
+    { "it": "Entra pure!", "fr": "Entre donc !", "note": "Pure adoucit l'invitation : « vas-y, je t'en prie ».", "example": "Entra pure, la porta è aperta!", "exampleFr": "Entre donc, la porte est ouverte !" },
+    { "it": "Fai come se fossi a casa tua.", "fr": "Fais comme chez toi.", "example": "Siediti dove vuoi, fai come se fossi a casa tua.", "exampleFr": "Assieds-toi où tu veux, fais comme chez toi." },
+    { "it": "Non dovevi!", "fr": "Il ne fallait pas !", "example": "Dei fiori per me? Non dovevi!", "exampleFr": "Des fleurs pour moi ? Il ne fallait pas !" },
+    { "it": "Servitevi pure.", "fr": "Servez-vous.", "example": "La cena è in tavola, servitevi pure.", "exampleFr": "Le dîner est servi, servez-vous." },
+    { "it": "Complimenti al cuoco!", "fr": "Compliments au chef !", "example": "Questa lasagna è perfetta, complimenti al cuoco!", "exampleFr": "Ces lasagnes sont parfaites, compliments au chef !" },
+    { "it": "Sono pieno.", "fr": "Je n'en peux plus (j'ai trop mangé).", "note": "Au féminin : sono piena.", "example": "Grazie, ma sono pieno, non ce la faccio più.", "exampleFr": "Merci, mais j'ai trop mangé, je n'en peux plus." },
+    { "it": "Facciamo un brindisi!", "fr": "Portons un toast !", "example": "Facciamo un brindisi agli sposi!", "exampleFr": "Portons un toast aux mariés !" },
+    { "it": "Salute! Cin cin!", "fr": "Santé ! Tchin-tchin !", "example": "Alla nostra amicizia: cin cin!", "exampleFr": "À notre amitié : tchin-tchin !" },
+    { "it": "Si è fatto tardi.", "fr": "Il se fait tard.", "example": "Si è fatto tardi, dobbiamo andare.", "exampleFr": "Il se fait tard, nous devons y aller." },
+    { "it": "Grazie per la bella serata.", "fr": "Merci pour cette belle soirée.", "example": "Grazie per la bella serata, la prossima volta venite da noi!", "exampleFr": "Merci pour cette belle soirée, la prochaine fois venez chez nous !" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "q-bar",
+  "title": "Au bar",
+  "level": "A1",
+  "intro": "Le bar italien sert le café du matin, l'apéritif du soir et tout ce qui se passe entre les deux. Souvent, on paie d'abord à la caisse, puis on commande au comptoir avec le ticket.",
+  "dialogue": [
+    { "who": "Barista", "it": "Buongiorno! Cosa le preparo?", "fr": "Bonjour ! Qu'est-ce que je vous sers ?" },
+    { "who": "Cliente", "it": "Un caffè macchiato e un cornetto alla crema, grazie.", "fr": "Un café noisette et un croissant à la crème, merci." },
+    { "who": "Barista", "it": "Glielo scaldo il cornetto?", "fr": "Je vous fais chauffer le croissant ?" },
+    { "who": "Cliente", "it": "Sì, grazie. Quant'è?", "fr": "Oui, merci. Ça fait combien ?" },
+    { "who": "Barista", "it": "Due euro e cinquanta. Paghi pure alla cassa.", "fr": "Deux euros cinquante. Vous pouvez payer à la caisse." },
+    { "who": "Cliente", "it": "Perfetto, grazie mille!", "fr": "Parfait, merci beaucoup !" }
+  ],
+  "items": [
+    { "it": "Cosa le preparo?", "fr": "Qu'est-ce que je vous sers ?", "note": "La question du barista, au vouvoiement (le).", "example": "Buonasera signora, cosa le preparo?", "exampleFr": "Bonsoir madame, qu'est-ce que je vous sers ?" },
+    { "it": "un caffè macchiato", "fr": "un café avec une goutte de lait", "note": "L'équivalent de notre noisette.", "example": "Per me un caffè macchiato caldo.", "exampleFr": "Pour moi un café noisette avec du lait chaud." },
+    { "it": "un caffè lungo, un caffè ristretto", "fr": "un café allongé, un café serré", "example": "Mi fa un caffè lungo, per favore?", "exampleFr": "Vous me faites un café allongé, s'il vous plaît ?" },
+    { "it": "un caffè corretto", "fr": "un café arrosé d'alcool", "note": "Souvent à la grappa ou à la sambuca.", "example": "Dopo pranzo il nonno prende sempre un caffè corretto.", "exampleFr": "Après le déjeuner, grand-père prend toujours un café arrosé." },
+    { "it": "Quant'è?", "fr": "Ça fait combien ?", "note": "Plus naturel que « quanto costa? » au moment de payer.", "example": "Allora, quant'è in tutto?", "exampleFr": "Alors, ça fait combien en tout ?" },
+    { "it": "fare lo scontrino", "fr": "prendre son ticket à la caisse", "example": "Prima faccio lo scontrino alla cassa, poi ordino al banco.", "exampleFr": "D'abord je prends le ticket à la caisse, puis je commande au comptoir." },
+    { "it": "al banco, al tavolo", "fr": "au comptoir, à table", "note": "Au comptoir, le café coûte souvent moins cher qu'en salle.", "example": "Lo prendiamo al banco, facciamo prima.", "exampleFr": "On le prend au comptoir, ce sera plus rapide." },
+    { "it": "fare l'aperitivo", "fr": "prendre l'apéritif", "note": "Un vrai rituel en fin de journée, souvent avec des petites choses à grignoter.", "example": "Facciamo l'aperitivo dopo il lavoro?", "exampleFr": "On prend l'apéro après le travail ?" },
+    { "it": "Offro io!", "fr": "C'est moi qui offre !", "example": "Metti via il portafoglio, offro io!", "exampleFr": "Range ton portefeuille, c'est moi qui offre !" },
+    { "it": "per cortesia", "fr": "s'il vous plaît (poli)", "note": "Variante polie de per favore.", "example": "Un bicchiere d'acqua, per cortesia.", "exampleFr": "Un verre d'eau, s'il vous plaît." }
+  ]
+}

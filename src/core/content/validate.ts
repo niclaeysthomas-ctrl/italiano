@@ -150,6 +150,32 @@ export function validateReading(data: unknown, where: string): string[] {
   return r.errors;
 }
 
+export function validateEveryday(data: unknown, where: string): string[] {
+  const r = new Report(where);
+  if (!r.check(isObject(data), 'la situation doit être un objet')) return r.errors;
+  const topic = data as Json;
+  r.check(isText(topic.id), 'id manquant');
+  r.check(isText(topic.title), 'title manquant');
+  r.check(isLevel(topic.level), 'niveau invalide');
+  r.check(isText(topic.intro), 'intro manquante');
+  r.check(topic.practice === undefined || typeof topic.practice === 'boolean', 'practice doit être un booléen');
+  if (r.check(Array.isArray(topic.dialogue), 'dialogue doit être une liste')) {
+    (topic.dialogue as unknown[]).forEach((line, i) => {
+      r.check(isObject(line) && isText(line.who) && isText(line.it) && isText(line.fr), `réplique ${i + 1} : who, it et fr requis`);
+    });
+  }
+  if (r.check(Array.isArray(topic.items) && (topic.items as unknown[]).length > 0, 'items doit être une liste non vide')) {
+    (topic.items as unknown[]).forEach((item, i) => {
+      const label = `expression ${i + 1}`;
+      if (!r.check(isObject(item), `${label} doit être un objet`)) return;
+      const e = item as Json;
+      r.check(isText(e.it) && isText(e.fr), `${label} : it et fr requis`);
+      r.check((e.example === undefined) === (e.exampleFr === undefined), `${label} : example et exampleFr vont ensemble`);
+    });
+  }
+  return r.errors;
+}
+
 /** Vérifie qu'aucun identifiant n'est utilisé deux fois dans une collection. */
 export function findDuplicateIds(ids: readonly string[]): string[] {
   const seen = new Set<string>();

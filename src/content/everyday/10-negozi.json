@@ -1,0 +1,26 @@
+{
+  "id": "q-negozi",
+  "title": "Dans les magasins",
+  "level": "A2",
+  "intro": "Au marché et dans les petites boutiques, on discute volontiers. Pour un cadeau, on vous proposera souvent un paquet sans supplément.",
+  "dialogue": [
+    { "who": "Cliente", "it": "Buongiorno, mi può aiutare? Cerco un regalo.", "fr": "Bonjour, vous pouvez m'aider ? Je cherche un cadeau." },
+    { "who": "Commessa", "it": "Certo. Per chi?", "fr": "Bien sûr. Pour qui ?" },
+    { "who": "Cliente", "it": "Per mia sorella, compie trent'anni.", "fr": "Pour ma sœur, elle fête ses trente ans." },
+    { "who": "Commessa", "it": "Questa sciarpa piace molto.", "fr": "Cette écharpe plaît beaucoup." },
+    { "who": "Cliente", "it": "Bellissima. Me la può incartare?", "fr": "Superbe. Vous pouvez me l'emballer ?" },
+    { "who": "Commessa", "it": "Certo, gliela incarto subito.", "fr": "Bien sûr, je vous l'emballe tout de suite." }
+  ],
+  "items": [
+    { "it": "Sto solo guardando, grazie.", "fr": "Je regarde seulement, merci.", "example": "Posso aiutarla? — Sto solo guardando, grazie.", "exampleFr": "Je peux vous aider ? — Je regarde seulement, merci." },
+    { "it": "Cerco…", "fr": "Je cherche…", "example": "Cerco un paio di scarpe comode.", "exampleFr": "Je cherche une paire de chaussures confortables." },
+    { "it": "Me lo può incartare?", "fr": "Vous pouvez me l'emballer ?", "example": "È un regalo: me lo può incartare?", "exampleFr": "C'est un cadeau : vous pouvez me l'emballer ?" },
+    { "it": "Posso provarlo?", "fr": "Je peux l'essayer ?", "example": "Questo maglione mi piace, posso provarlo?", "exampleFr": "Ce pull me plaît, je peux l'essayer ?" },
+    { "it": "C'è in un'altra taglia?", "fr": "Il existe dans une autre taille ?", "example": "È troppo stretto: c'è in un'altra taglia?", "exampleFr": "Il est trop serré : il existe dans une autre taille ?" },
+    { "it": "Mi fa uno sconto?", "fr": "Vous me faites une réduction ?", "note": "Possible au marché, plus rare en magasin.", "example": "Se ne prendo due, mi fa uno sconto?", "exampleFr": "Si j'en prends deux, vous me faites une réduction ?" },
+    { "it": "Lo prendo.", "fr": "Je le prends.", "example": "Va bene, lo prendo.", "exampleFr": "D'accord, je le prends." },
+    { "it": "Ci penso.", "fr": "Je vais réfléchir.", "example": "È un po' caro, ci penso e ripasso.", "exampleFr": "C'est un peu cher, je vais réfléchir et je repasserai." },
+    { "it": "Le serve una busta?", "fr": "Vous avez besoin d'un sac ?", "note": "Les sacs sont généralement payants.", "example": "Le serve una busta? Costa dieci centesimi.", "exampleFr": "Vous avez besoin d'un sac ? Il coûte dix centimes." },
+    { "it": "Chi è l'ultimo?", "fr": "Qui est le dernier ?", "note": "Au marché ou à la boulangerie, pour savoir après qui on passe.", "example": "Buongiorno, chi è l'ultimo?", "exampleFr": "Bonjour, qui est le dernier ?" }
+  ]
+}

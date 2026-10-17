@@ -12,6 +12,8 @@ import type { IconName } from '../../ui/Icon.tsx';
 import { LevelLine } from '../../ui/LevelLine.tsx';
 import type { Line } from '../../ui/Page.tsx';
 import { loadStudySnapshot } from '../cards/studyData.ts';
+import { expressionOfTheDay } from '../everyday/daily.ts';
+import { AudioButton } from '../../ui/AudioButton.tsx';
 
 export function HomePage() {
   const { level } = useProfile();
@@ -38,6 +40,7 @@ export function HomePage() {
   const levelLessons = lessons.filter((l) => l.level === level);
   const lesson = levelLessons.find((l) => !passedLessons.has(l.id)) ?? levelLessons[0];
 
+  const expression = expressionOfTheDay(today);
   const hour = new Date().getHours();
   const greeting = hour >= 5 && hour < 18 ? 'Buongiorno' : 'Buonasera';
   const streakText =
@@ -97,6 +100,27 @@ export function HomePage() {
           <TaskRow to="/oral" line="oral" icon="mic" title="Prononciation" meta="Répète après le modèle" done={doneToday('speaking')} />
         </ul>
       </section>
+
+      {expression && (
+        <section className="section" aria-labelledby="expr">
+          <h2 id="expr">Expression du jour</h2>
+          <a className="daily-expr daily-expr--link" href={`#/quotidien/${expression.topic.id}`}>
+            <span className="daily-expr__it it" lang="it">
+              {expression.item.it}
+            </span>
+            <span className="daily-expr__fr">{expression.item.fr}</span>
+            {expression.item.example && (
+              <span className="small muted it" lang="it">
+                {expression.item.example}
+              </span>
+            )}
+            <span className="small daily-expr__more">L’italien du quotidien : {expression.topic.title.toLowerCase()}</span>
+          </a>
+          <div className="toolbar">
+            <AudioButton text={expression.item.example ?? expression.item.it} label="Écouter" />
+          </div>
+        </section>
+      )}
 
       <p className="muted small home__level">
         Niveau {level}, {LEVEL_NAMES[level].toLowerCase()}. Tu peux le changer dans ton profil.

@@ -1,0 +1,26 @@
+{
+  "id": "q-telefono",
+  "title": "Au téléphone",
+  "level": "A2",
+  "intro": "On décroche en disant « Pronto? ». Au téléphone, les phrases sont courtes et rapides : ces formules reviennent sans cesse.",
+  "dialogue": [
+    { "who": "Segretaria", "it": "Pronto?", "fr": "Allô ?" },
+    { "who": "Paziente", "it": "Pronto, buongiorno. Parlo con lo studio del dottor Ferri?", "fr": "Allô, bonjour. Je suis bien au cabinet du docteur Ferri ?" },
+    { "who": "Segretaria", "it": "Sì, mi dica.", "fr": "Oui, je vous écoute." },
+    { "who": "Paziente", "it": "Vorrei spostare l'appuntamento di giovedì.", "fr": "Je voudrais déplacer le rendez-vous de jeudi." },
+    { "who": "Segretaria", "it": "Un attimo che controllo. Le va bene venerdì alle dieci?", "fr": "Un instant, je vérifie. Vendredi à dix heures, ça vous va ?" },
+    { "who": "Paziente", "it": "Perfetto. Grazie, buona giornata.", "fr": "Parfait. Merci, bonne journée." }
+  ],
+  "items": [
+    { "it": "Pronto?", "fr": "Allô ?", "example": "Pronto? Chi parla?", "exampleFr": "Allô ? Qui est à l'appareil ?" },
+    { "it": "Chi parla?", "fr": "Qui est à l'appareil ?", "example": "Scusi, non ho capito: chi parla?", "exampleFr": "Pardon, je n'ai pas compris : qui est à l'appareil ?" },
+    { "it": "Mi dica.", "fr": "Je vous écoute.", "note": "Formule polie très courante, au vouvoiement.", "example": "Buongiorno, mi dica pure.", "exampleFr": "Bonjour, je vous écoute." },
+    { "it": "Un attimo che controllo.", "fr": "Un instant, je vérifie.", "example": "Il suo ordine? Un attimo che controllo.", "exampleFr": "Votre commande ? Un instant, je vérifie." },
+    { "it": "Le passo il collega.", "fr": "Je vous passe mon collègue.", "example": "Non me ne occupo io, le passo il collega.", "exampleFr": "Ce n'est pas moi qui m'en occupe, je vous passe mon collègue." },
+    { "it": "Non si sente bene.", "fr": "On n'entend pas bien ; ça coupe.", "example": "Scusa, non si sente bene, ti richiamo.", "exampleFr": "Désolé, ça coupe, je te rappelle." },
+    { "it": "Ti richiamo.", "fr": "Je te rappelle.", "example": "Adesso sono in macchina, ti richiamo più tardi.", "exampleFr": "Là je suis en voiture, je te rappelle plus tard." },
+    { "it": "fare uno squillo", "fr": "biper ; faire sonner une fois", "example": "Quando arrivi, fammi uno squillo.", "exampleFr": "Quand tu arrives, bipe-moi." },
+    { "it": "la segreteria telefonica", "fr": "le répondeur", "example": "Ho chiamato ma c'era la segreteria.", "exampleFr": "J'ai appelé mais je suis tombé sur le répondeur." },
+    { "it": "È occupato.", "fr": "C'est occupé.", "example": "Provo a chiamare la banca, ma è sempre occupato.", "exampleFr": "J'essaie d'appeler la banque, mais c'est toujours occupé." }
+  ]
+}

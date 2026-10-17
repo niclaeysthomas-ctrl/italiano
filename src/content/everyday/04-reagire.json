@@ -1,0 +1,27 @@
+{
+  "id": "q-reagire",
+  "title": "Réagir en conversation",
+  "level": "A2",
+  "intro": "Ces petits mots rendent un italien vivant. Certains sont régionaux (ammazza vient de Rome) mais compris partout.",
+  "dialogue": [
+    { "who": "Anna", "it": "Sai che Paolo ha vinto la maratona?", "fr": "Tu sais que Paolo a gagné le marathon ?" },
+    { "who": "Luca", "it": "Ma dai! Davvero?", "fr": "Non ! Vraiment ?" },
+    { "who": "Anna", "it": "Giuro! E ha battuto il record.", "fr": "Je te jure ! Et il a battu le record." },
+    { "who": "Luca", "it": "Ammazza, che forza!", "fr": "Waouh, trop fort !" },
+    { "who": "Anna", "it": "E adesso vuole correre a New York.", "fr": "Et maintenant il veut courir à New York." },
+    { "who": "Luca", "it": "Boh, contento lui!", "fr": "Bof, si ça lui fait plaisir !" }
+  ],
+  "items": [
+    { "it": "Ma dai!", "fr": "Non ! Sans blague !", "note": "Surprise ou incrédulité. Dai! seul veut dire « Allez ! ».", "example": "Si sposano a giugno? Ma dai!", "exampleFr": "Ils se marient en juin ? Sans blague !" },
+    { "it": "Davvero?", "fr": "Vraiment ?", "example": "Hai mangiato tutta la torta? Davvero?", "exampleFr": "Tu as mangé tout le gâteau ? Vraiment ?" },
+    { "it": "Boh.", "fr": "Aucune idée ; bof.", "note": "Souvent accompagné d'un haussement d'épaules.", "example": "Dov'è Luca? — Boh, non l'ho visto.", "exampleFr": "Où est Luca ? — Aucune idée, je ne l'ai pas vu." },
+    { "it": "Ammazza!", "fr": "Waouh ! La vache !", "note": "Romain et familier.", "example": "Ammazza quanta gente c'è stasera!", "exampleFr": "La vache, qu'est-ce qu'il y a comme monde ce soir !" },
+    { "it": "Che forza!", "fr": "Trop fort ! Génial !", "example": "Hai trovato i biglietti per il concerto? Che forza!", "exampleFr": "Tu as trouvé des billets pour le concert ? Génial !" },
+    { "it": "Che schifo!", "fr": "Beurk ! C'est dégoûtant !", "example": "Il latte è scaduto da una settimana, che schifo!", "exampleFr": "Le lait est périmé depuis une semaine, beurk !" },
+    { "it": "Uffa!", "fr": "Pff ! (agacement)", "example": "Uffa, piove di nuovo!", "exampleFr": "Pff, il pleut encore !" },
+    { "it": "Magari!", "fr": "Si seulement ! J'aimerais bien !", "example": "Parti in vacanza quest'estate? — Magari!", "exampleFr": "Tu pars en vacances cet été ? — Si seulement !" },
+    { "it": "Mamma mia!", "fr": "Oh là là !", "example": "Mamma mia, che caldo oggi!", "exampleFr": "Oh là là, qu'est-ce qu'il fait chaud aujourd'hui !" },
+    { "it": "Ci mancherebbe!", "fr": "C'est bien normal ! Je vous en prie !", "note": "En réponse à un remerciement. Littéralement : « il ne manquerait plus que ça ».", "example": "Grazie dell'aiuto! — Ci mancherebbe!", "exampleFr": "Merci pour ton aide ! — C'est bien normal !" },
+    { "it": "Che figata!", "fr": "Trop cool !", "note": "Très familier, surtout chez les jeunes.", "example": "Hai comprato una moto? Che figata!", "exampleFr": "Tu as acheté une moto ? Trop cool !" }
+  ]
+}

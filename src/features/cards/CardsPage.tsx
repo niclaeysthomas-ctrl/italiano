@@ -42,21 +42,30 @@ export function CardsPage() {
       <a className="btn btn--primary btn--block" href="#/cartes/session">
         Commencer la séance
       </a>
+      <a className="btn btn--block lexicon-link" href="#/lexique">
+        <Icon name="search" size={18} /> Chercher un mot dans le lexique
+      </a>
 
       <section className="section">
         <h2>Paquets</h2>
+        <p className="muted small">Ouvre un paquet pour parcourir ses mots et leurs exemples.</p>
         <ul className="rows">
           {decks.map((deck) => {
             const seen = deck.notes.filter((n) => states.has(cardId(n.id, 'rec'))).length;
             return (
-              <li key={deck.id} className="row row--static">
-                <span className="chip">{deck.level}</span>
-                <span className="row__body">
-                  <span className="row__title">{deck.title}</span>
-                  <span className="row__meta">
-                    {seen} sur {deck.notes.length} mots commencés
+              <li key={deck.id}>
+                <a className="row" href={`#/lexique/${deck.id}`}>
+                  <span className="chip">{deck.level}</span>
+                  <span className="row__body">
+                    <span className="row__title">{deck.title}</span>
+                    <span className="row__meta">
+                      {seen} sur {deck.notes.length} mots commencés
+                    </span>
                   </span>
-                </span>
+                  <span className="row__end">
+                    <Icon name="chevron" size={18} />
+                  </span>
+                </a>
               </li>
             );
           })}

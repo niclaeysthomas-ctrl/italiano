@@ -2,7 +2,7 @@
  * Registre du contenu. Pour ajouter un fichier : le créer dans le bon dossier,
  * puis l'importer ici (voir docs/CONTENU.md). `npm test` vérifie sa structure.
  */
-import type { Deck, GrammarLesson, PlacementQuestion, Reading } from '../core/content/types.ts';
+import type { Deck, EverydayTopic, GrammarLesson, PlacementQuestion, Reading } from '../core/content/types.ts';
 import type { StudyNote } from '../core/srs/queue.ts';
 
 import deck_a1_cibo from './decks/a1-cibo.json';
@@ -78,6 +78,19 @@ import reading_b2_fuga_dei_cervelli from './readings/b2-fuga-dei-cervelli.json';
 import reading_b2_paradosso_del_turismo from './readings/b2-paradosso-del-turismo.json';
 import reading_c1_arte_di_arrangiarsi from './readings/c1-arte-di-arrangiarsi.json';
 import reading_c1_lingua_e_dialetti from './readings/c1-lingua-e-dialetti.json';
+
+import everyday_01_bar from './everyday/01-bar.json';
+import everyday_02_saluti from './everyday/02-saluti.json';
+import everyday_03_telefono from './everyday/03-telefono.json';
+import everyday_04_reagire from './everyday/04-reagire.json';
+import everyday_05_riempitivi from './everyday/05-riempitivi.json';
+import everyday_06_messaggi from './everyday/06-messaggi.json';
+import everyday_07_ristorante from './everyday/07-ristorante.json';
+import everyday_08_trasporti from './everyday/08-trasporti.json';
+import everyday_09_invito from './everyday/09-invito.json';
+import everyday_10_negozi from './everyday/10-negozi.json';
+import everyday_11_salute from './everyday/11-salute.json';
+import everyday_12_umore from './everyday/12-umore.json';
 
 // Les JSON importés sont typés de façon large (string au lieu de 'A1' | 'A2'…) :
 // la conformité réelle est garantie par les tests de validation du contenu.
@@ -164,6 +177,25 @@ export const readings: Reading[] = [
   reading_c1_arte_di_arrangiarsi,
   reading_c1_lingua_e_dialetti,
 ].map((r) => as<Reading>(r));
+
+export const everydayTopics: EverydayTopic[] = [
+  everyday_01_bar,
+  everyday_02_saluti,
+  everyday_03_telefono,
+  everyday_04_reagire,
+  everyday_05_riempitivi,
+  everyday_06_messaggi,
+  everyday_07_ristorante,
+  everyday_08_trasporti,
+  everyday_09_invito,
+  everyday_10_negozi,
+  everyday_11_salute,
+  everyday_12_umore,
+].map((t) => as<EverydayTopic>(t));
+
+export function findEverydayTopic(id: string): EverydayTopic | undefined {
+  return everydayTopics.find((topic) => topic.id === id);
+}
 
 /** Toutes les notes du contenu, avec leur niveau résolu. */
 export const contentNotes: StudyNote[] = decks.flatMap((deck) =>

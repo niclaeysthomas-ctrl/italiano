@@ -1,0 +1,26 @@
+{
+  "id": "q-umore",
+  "title": "Humeurs et expressions familières",
+  "level": "B1",
+  "intro": "Ce que les Italiens disent vraiment quand ils sont contents, crevés ou agacés. Registre familier : entre amis, pas en entretien d'embauche.",
+  "dialogue": [
+    { "who": "Fede", "it": "Che faccia! Tutto ok?", "fr": "Quelle tête ! Ça va ?" },
+    { "who": "Marta", "it": "Sono distrutta, ho lavorato fino a mezzanotte.", "fr": "Je suis crevée, j'ai travaillé jusqu'à minuit." },
+    { "who": "Fede", "it": "Che palle questo lavoro, eh?", "fr": "Il est pénible ce boulot, hein ?" },
+    { "who": "Marta", "it": "Lascia stare. Non vedo l'ora che arrivi venerdì.", "fr": "Laisse tomber. Vivement vendredi." },
+    { "who": "Fede", "it": "Dai, stasera ti offro una pizza e ti tiro su.", "fr": "Allez, ce soir je t'offre une pizza et je te remonte le moral." }
+  ],
+  "items": [
+    { "it": "Sono distrutto.", "fr": "Je suis crevé.", "note": "Au féminin : sono distrutta.", "example": "Dopo il trasloco ero distrutto.", "exampleFr": "Après le déménagement, j'étais crevé." },
+    { "it": "Che palle!", "fr": "Quelle barbe ! C'est pénible !", "note": "Familier, un peu vulgaire.", "example": "Ancora una riunione? Che palle!", "exampleFr": "Encore une réunion ? Quelle barbe !" },
+    { "it": "Lascia stare.", "fr": "Laisse tomber.", "example": "Lascia stare i piatti, li lavo io domani.", "exampleFr": "Laisse tomber la vaisselle, je la ferai demain." },
+    { "it": "Non ne posso più.", "fr": "Je n'en peux plus.", "example": "Questo rumore non lo sopporto, non ne posso più!", "exampleFr": "Je ne supporte pas ce bruit, je n'en peux plus !" },
+    { "it": "Sono giù.", "fr": "J'ai le moral à zéro.", "example": "Oggi sono un po' giù, non so perché.", "exampleFr": "Aujourd'hui j'ai un peu le moral à zéro, je ne sais pas pourquoi." },
+    { "it": "tirare su qualcuno", "fr": "remonter le moral à quelqu'un", "example": "Le tue parole mi hanno tirato su.", "exampleFr": "Tes paroles m'ont remonté le moral." },
+    { "it": "Mi fa impazzire.", "fr": "Ça me rend fou ; j'adore.", "note": "Positif ou négatif selon le contexte.", "example": "Il tiramisù di mia nonna mi fa impazzire.", "exampleFr": "Le tiramisu de ma grand-mère, j'en raffole." },
+    { "it": "Sono al settimo cielo.", "fr": "Je suis aux anges.", "example": "Ha passato l'esame ed è al settimo cielo.", "exampleFr": "Il a réussi l'examen et il est aux anges." },
+    { "it": "Che sfiga!", "fr": "La poisse ! Pas de chance !", "note": "Familier.", "example": "Mi hanno rubato la bici il giorno dopo averla comprata. Che sfiga!", "exampleFr": "On m'a volé mon vélo le lendemain de l'achat. La poisse !" },
+    { "it": "Non mi va.", "fr": "Je n'ai pas envie.", "example": "Uscire stasera? Non mi va, sono stanco.", "exampleFr": "Sortir ce soir ? Je n'ai pas envie, je suis fatigué." },
+    { "it": "Fregatene!", "fr": "Ne t'en fais pas ! Ignore-le !", "note": "Familier : « fiche-t'en ».", "example": "Ha detto cose cattive su di te? Fregatene!", "exampleFr": "Il a dit des méchancetés sur toi ? Fiche-t'en !" }
+  ]
+}

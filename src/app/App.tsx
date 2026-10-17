@@ -4,6 +4,9 @@ import { useLive } from '../lib/live.ts';
 import { matchPath, usePath } from '../lib/router.tsx';
 import type { Params } from '../lib/router.tsx';
 import { CardsPage } from '../features/cards/CardsPage.tsx';
+import { LexiconPage } from '../features/cards/LexiconPage.tsx';
+import { EverydayPage } from '../features/everyday/EverydayPage.tsx';
+import { EverydayTopicPage } from '../features/everyday/EverydayTopicPage.tsx';
 import { ReviewPage } from '../features/cards/ReviewPage.tsx';
 import { GrammarListPage } from '../features/grammar/GrammarListPage.tsx';
 import { LessonPage } from '../features/grammar/LessonPage.tsx';
@@ -30,6 +33,10 @@ const ROUTES: Route[] = [
   { pattern: '/', render: () => <HomePage /> },
   { pattern: '/cartes', render: () => <CardsPage /> },
   { pattern: '/cartes/session', render: () => <ReviewPage />, focus: true },
+  { pattern: '/lexique', render: () => <LexiconPage /> },
+  { pattern: '/lexique/:deck', render: ({ deck }) => <LexiconPage key={deck} deckId={deck} /> },
+  { pattern: '/quotidien', render: () => <EverydayPage /> },
+  { pattern: '/quotidien/:id', render: ({ id }) => <EverydayTopicPage key={id} id={id} /> },
   { pattern: '/grammaire', render: () => <GrammarListPage /> },
   { pattern: '/grammaire/:id', render: ({ id }) => <LessonPage id={id} /> },
   { pattern: '/pratique', render: () => <PracticePage /> },

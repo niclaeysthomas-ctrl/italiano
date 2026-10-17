@@ -1,0 +1,25 @@
+{
+  "id": "q-messaggi",
+  "title": "Messages et abréviations",
+  "level": "B1",
+  "practice": false,
+  "intro": "Dans les SMS et sur WhatsApp, on abrège beaucoup. Ces formes sont à savoir lire ; inutile de les imiter dans un message formel.",
+  "dialogue": [
+    { "who": "Elena", "it": "Cmq stasera ci sei?", "fr": "Au fait, ce soir tu es là ?" },
+    { "who": "Tommaso", "it": "Nn so, xké domani lavoro presto.", "fr": "Je sais pas, parce que demain je travaille tôt." },
+    { "who": "Elena", "it": "Dai, solo un'oretta!", "fr": "Allez, juste une petite heure !" },
+    { "who": "Tommaso", "it": "Ok, ma alle 11 vado. Tvb", "fr": "OK, mais à 23 h je m'en vais. Je t'adore." }
+  ],
+  "items": [
+    { "it": "cmq", "fr": "comunque : de toute façon ; au fait", "example": "Cmq domani ci sono.", "exampleFr": "De toute façon, demain je suis là." },
+    { "it": "nn", "fr": "non : non ; ne… pas", "example": "Nn posso, scusa.", "exampleFr": "Je peux pas, désolé." },
+    { "it": "xké", "fr": "perché : parce que ; pourquoi", "note": "Le x se lit « per », comme le signe multiplier.", "example": "Xké nn rispondi?", "exampleFr": "Pourquoi tu réponds pas ?" },
+    { "it": "x", "fr": "per : pour", "example": "Grazie x ieri!", "exampleFr": "Merci pour hier !" },
+    { "it": "tvb", "fr": "ti voglio bene : je t'aime (affection)", "note": "Entre amis et en famille ; pour l'amour on dit plutôt ti amo.", "example": "Buon compleanno sorellina, tvb!", "exampleFr": "Joyeux anniversaire petite sœur, je t'aime fort !" },
+    { "it": "tvtb", "fr": "ti voglio tanto bene : je t'aime très fort", "example": "Grazie di tutto, tvtb!", "exampleFr": "Merci pour tout, je t'aime très fort !" },
+    { "it": "grz", "fr": "grazie : merci", "example": "Ok grz!", "exampleFr": "OK merci !" },
+    { "it": "ke", "fr": "che : que ; quoi", "note": "Le k remplace ch.", "example": "Ke fai stasera?", "exampleFr": "Tu fais quoi ce soir ?" },
+    { "it": "sn", "fr": "sono : je suis ; ils sont", "example": "Sn in ritardo, arrivo!", "exampleFr": "Je suis en retard, j'arrive !" },
+    { "it": "+ o -", "fr": "più o meno : plus ou moins", "example": "Arrivo alle 8 + o -.", "exampleFr": "J'arrive vers 20 h, plus ou moins." }
+  ]
+}

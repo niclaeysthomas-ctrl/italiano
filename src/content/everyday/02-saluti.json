@@ -1,0 +1,26 @@
+{
+  "id": "q-saluti",
+  "title": "Saluer et prendre congé",
+  "level": "A1",
+  "intro": "Ciao entre proches, buongiorno et buonasera avec les autres. Buonasera s'emploie dès le milieu de l'après-midi.",
+  "dialogue": [
+    { "who": "Giulia", "it": "Ehi, Marco! Da quanto tempo!", "fr": "Hé, Marco ! Ça fait longtemps !" },
+    { "who": "Marco", "it": "Ciao Giulia! Come va?", "fr": "Salut Giulia ! Comment ça va ?" },
+    { "who": "Giulia", "it": "Tutto bene, dai. E tu?", "fr": "Ça va bien. Et toi ?" },
+    { "who": "Marco", "it": "Si tira avanti. Senti, ora scappo, ma sentiamoci!", "fr": "On fait aller. Écoute, là je file, mais on s'appelle !" },
+    { "who": "Giulia", "it": "Certo! Salutami tua moglie.", "fr": "Bien sûr ! Salue ta femme de ma part." },
+    { "who": "Marco", "it": "Sarà fatto. Ciao ciao!", "fr": "Ce sera fait. Salut !" }
+  ],
+  "items": [
+    { "it": "Da quanto tempo!", "fr": "Ça fait longtemps !", "example": "Paola! Da quanto tempo, come stai?", "exampleFr": "Paola ! Ça fait longtemps, comment vas-tu ?" },
+    { "it": "Come va?", "fr": "Comment ça va ?", "example": "Ciao Luca, come va il nuovo lavoro?", "exampleFr": "Salut Luca, comment ça se passe, le nouveau travail ?" },
+    { "it": "Tutto a posto?", "fr": "Tout va bien ?", "example": "Tutto a posto? Ti vedo un po' stanco.", "exampleFr": "Tout va bien ? Je te trouve un peu fatigué." },
+    { "it": "Si tira avanti.", "fr": "On fait aller.", "note": "Réponse familière, un brin résignée.", "example": "Come va al lavoro? — Si tira avanti.", "exampleFr": "Comment ça va au travail ? — On fait aller." },
+    { "it": "Scappo!", "fr": "Je file !", "example": "Scusate, scappo, ho il treno tra dieci minuti.", "exampleFr": "Désolé, je file, j'ai mon train dans dix minutes." },
+    { "it": "Sentiamoci!", "fr": "On s'appelle !", "example": "Ci vediamo presto? Sentiamoci in settimana!", "exampleFr": "On se voit bientôt ? On s'appelle dans la semaine !" },
+    { "it": "Salutami…", "fr": "Salue… de ma part", "example": "Salutami i tuoi genitori!", "exampleFr": "Salue tes parents de ma part !" },
+    { "it": "Buona serata!", "fr": "Bonne soirée !", "example": "Grazie di tutto e buona serata!", "exampleFr": "Merci pour tout et bonne soirée !" },
+    { "it": "ArrivederLa", "fr": "Au revoir (très poli)", "note": "Forme de politesse marquée, à quelqu'un qu'on vouvoie.", "example": "Grazie, dottore. ArrivederLa.", "exampleFr": "Merci, docteur. Au revoir." },
+    { "it": "Ci vediamo!", "fr": "À plus ! On se voit !", "example": "Ci vediamo domani in ufficio!", "exampleFr": "On se voit demain au bureau !" }
+  ]
+}

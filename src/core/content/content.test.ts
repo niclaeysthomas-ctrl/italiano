@@ -7,7 +7,7 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 import { LEVELS } from '../cefr.ts';
 import { DEFAULT_PLACEMENT } from '../placement/engine.ts';
-import { findDuplicateIds, validateDeck, validateLesson, validatePlacement, validateReading } from './validate.ts';
+import { findDuplicateIds, validateDeck, validateEveryday, validateLesson, validatePlacement, validateReading } from './validate.ts';
 
 const root = join(import.meta.dirname, '..', '..', 'content');
 
@@ -51,4 +51,11 @@ test('lectures', () => {
   const readings = load('readings');
   for (const { file, data } of readings) expectValid(validateReading(data, file));
   assert.deepEqual(findDuplicateIds(readings.map(({ data }) => (data as { id: string }).id)), []);
+});
+
+test('italien du quotidien', () => {
+  const topics = load('everyday');
+  assert.ok(topics.length > 0);
+  for (const { file, data } of topics) expectValid(validateEveryday(data, file));
+  assert.deepEqual(findDuplicateIds(topics.map(({ data }) => (data as { id: string }).id)), []);
 });

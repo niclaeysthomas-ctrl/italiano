@@ -1,0 +1,26 @@
+{
+  "id": "q-riempitivi",
+  "title": "Les petits mots de l'oral",
+  "level": "A2",
+  "intro": "Allora, cioè, insomma… Les Italiens ponctuent leurs phrases de ces mots. Les reconnaître aide énormément à comprendre l'oral.",
+  "dialogue": [
+    { "who": "Sara", "it": "Allora, com'è andato il colloquio?", "fr": "Alors, comment s'est passé l'entretien ?" },
+    { "who": "Dario", "it": "Mah, insomma. Cioè, all'inizio benissimo.", "fr": "Bof, pas terrible. Enfin, au début très bien." },
+    { "who": "Sara", "it": "E poi?", "fr": "Et après ?" },
+    { "who": "Dario", "it": "Praticamente mi hanno fatto parlare in inglese tipo per mezz'ora.", "fr": "En gros, ils m'ont fait parler anglais genre pendant une demi-heure." },
+    { "who": "Sara", "it": "Vabbè, ma te la cavi, no?", "fr": "Bon, mais tu te débrouilles, non ?" },
+    { "who": "Dario", "it": "Diciamo di sì.", "fr": "Disons que oui." }
+  ],
+  "items": [
+    { "it": "allora", "fr": "alors ; bon", "example": "Allora, cosa facciamo stasera?", "exampleFr": "Bon, qu'est-ce qu'on fait ce soir ?" },
+    { "it": "cioè", "fr": "c'est-à-dire ; enfin", "note": "Sert aussi à se corriger en parlant.", "example": "Arrivo alle otto, cioè, forse alle otto e mezza.", "exampleFr": "J'arrive à huit heures, enfin, peut-être à huit heures et demie." },
+    { "it": "insomma", "fr": "bref ; bof", "note": "Seul, en réponse : « pas terrible ».", "example": "Ti è piaciuto il film? — Insomma.", "exampleFr": "Le film t'a plu ? — Bof." },
+    { "it": "praticamente", "fr": "en gros ; pratiquement", "example": "Praticamente ho rifatto tutto da capo.", "exampleFr": "En gros, j'ai tout refait depuis le début." },
+    { "it": "tipo", "fr": "genre", "note": "Familier, très fréquent chez les jeunes.", "example": "C'erano tipo cento persone alla festa.", "exampleFr": "Il y avait genre cent personnes à la fête." },
+    { "it": "vabbè", "fr": "bon ; tant pis", "example": "Vabbè, ci penso domani.", "exampleFr": "Bon, j'y penserai demain." },
+    { "it": "mah", "fr": "bof ; ben…", "note": "Exprime le doute ou l'hésitation.", "example": "Mah, non sono sicuro che sia una buona idea.", "exampleFr": "Ben, je ne suis pas sûr que ce soit une bonne idée." },
+    { "it": "diciamo", "fr": "disons", "example": "È stata, diciamo, una serata particolare.", "exampleFr": "Ça a été, disons, une soirée particulière." },
+    { "it": "no?", "fr": "non ? hein ?", "example": "Vieni anche tu stasera, no?", "exampleFr": "Tu viens aussi ce soir, non ?" },
+    { "it": "ecco", "fr": "voilà", "example": "Ecco, è proprio quello che volevo dire.", "exampleFr": "Voilà, c'est exactement ce que je voulais dire." }
+  ]
+}

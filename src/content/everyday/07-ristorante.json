@@ -1,0 +1,26 @@
+{
+  "id": "q-ristorante",
+  "title": "Au restaurant",
+  "level": "A2",
+  "intro": "En Italie, on ne vous apporte pas l'addition sans la demander : on prend son temps. Le coperto (couvert) apparaît souvent sur la note.",
+  "dialogue": [
+    { "who": "Cliente", "it": "Buonasera, avete un tavolo per due?", "fr": "Bonsoir, vous avez une table pour deux ?" },
+    { "who": "Cameriere", "it": "Avete prenotato?", "fr": "Vous avez réservé ?" },
+    { "who": "Cliente", "it": "No, purtroppo.", "fr": "Non, malheureusement." },
+    { "who": "Cameriere", "it": "Nessun problema, accomodatevi. Ecco il menù.", "fr": "Aucun problème, installez-vous. Voici la carte." },
+    { "who": "Cliente", "it": "Qual è il piatto del giorno?", "fr": "Quel est le plat du jour ?" },
+    { "who": "Cameriere", "it": "Oggi abbiamo le orecchiette con le cime di rapa.", "fr": "Aujourd'hui, nous avons des orecchiette aux feuilles de navet." }
+  ],
+  "items": [
+    { "it": "Avete un tavolo per due?", "fr": "Vous avez une table pour deux ?", "example": "Buonasera, avete un tavolo per due all'aperto?", "exampleFr": "Bonsoir, vous avez une table pour deux en terrasse ?" },
+    { "it": "Accomodatevi.", "fr": "Installez-vous.", "note": "À une seule personne qu'on vouvoie : si accomodi.", "example": "Prego, accomodatevi pure qui vicino alla finestra.", "exampleFr": "Je vous en prie, installez-vous ici près de la fenêtre." },
+    { "it": "il piatto del giorno", "fr": "le plat du jour", "example": "Prendo il piatto del giorno, grazie.", "exampleFr": "Je prends le plat du jour, merci." },
+    { "it": "Per me…", "fr": "Pour moi…", "example": "Per me gli spaghetti alle vongole, grazie.", "exampleFr": "Pour moi les spaghetti aux palourdes, merci." },
+    { "it": "il primo, il secondo, il contorno", "fr": "le premier plat, le plat principal, l'accompagnement", "note": "Le primo est fait de pâtes, de riz ou de soupe ; le secondo de viande ou de poisson.", "example": "Come primo prendo il risotto, come secondo il pesce.", "exampleFr": "En premier plat je prends le risotto, en plat principal le poisson." },
+    { "it": "acqua naturale o frizzante?", "fr": "eau plate ou gazeuse ?", "example": "Una bottiglia d'acqua frizzante, per favore.", "exampleFr": "Une bouteille d'eau gazeuse, s'il vous plaît." },
+    { "it": "al sangue, ben cotto", "fr": "saignant, bien cuit", "example": "La bistecca la vorrei al sangue.", "exampleFr": "Le steak, je le voudrais saignant." },
+    { "it": "il coperto", "fr": "le couvert (frais fixe par personne)", "example": "Il coperto costa due euro a persona.", "exampleFr": "Le couvert coûte deux euros par personne." },
+    { "it": "Possiamo pagare separatamente?", "fr": "Pouvons-nous payer séparément ?", "example": "Scusi, possiamo pagare separatamente con la carta?", "exampleFr": "Excusez-moi, nous pouvons payer séparément par carte ?" },
+    { "it": "fare alla romana", "fr": "partager l'addition à parts égales", "example": "Facciamo alla romana: trenta euro a testa.", "exampleFr": "On partage en parts égales : trente euros chacun." }
+  ]
+}

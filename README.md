@@ -9,6 +9,8 @@ Application web installable pour apprendre l'italien du niveau **A1** au niveau 
 - **Écoute** : synthèse vocale italienne partout, dictée avec correction mot à mot.
 - **Traduction écrite** : phrases du français vers l'italien, correction mot à mot, indice, validation de sa propre traduction.
 - **Oral** : répétition après le modèle avec reconnaissance vocale et score, enregistrement de sa voix pour se réécouter.
+- **L'italien du quotidien** : 12 situations (bar, téléphone, SMS, réactions, petits mots de l'oral…), chacune avec un dialogue à écouter et une dizaine d'expressions expliquées ; une expression du jour sur l'accueil.
+- **Lexique** : recherche dans tout le vocabulaire, fiche par mot avec son exemple et les autres phrases de l'application qui l'emploient.
 - **Progression** : série de jours, statistiques, export et import de toutes les données.
 
 Tout fonctionne hors ligne une fois chargé, sans compte : les données restent dans le navigateur de l'appareil.

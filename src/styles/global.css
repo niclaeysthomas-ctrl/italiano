@@ -28,6 +28,7 @@
   --l-dictee: #1b63b5;
   --l-oral: #8a55b0;
   --l-traduction: #0f8a85;
+  --l-quotidien: #c2410c;
   --l-neutre: #4b575d;
 
   --on-line: #ffffff;
@@ -60,6 +61,7 @@
     --l-dictee: #3b82d6;
     --l-oral: #a477c9;
     --l-traduction: #2bb3ac;
+    --l-quotidien: #f0864a;
     --l-neutre: #8a9792;
   }
 }
@@ -1333,4 +1335,212 @@ audio {
   font-size: 20px;
   letter-spacing: 0.04em;
   color: var(--ink-2);
+}
+
+/* ---------- Quotidien, lexique, exemples ---------- */
+
+.line-quotidien {
+  --line: var(--l-quotidien);
+}
+
+.sheet--tall {
+  max-height: 85dvh;
+  overflow-y: auto;
+  gap: 12px;
+}
+
+.example-block {
+  display: grid;
+  gap: 8px;
+  padding-top: 12px;
+  border-top: 1px solid var(--rule);
+}
+
+.example-block h3 {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink-2);
+}
+
+.example-block--card {
+  text-align: left;
+}
+
+.example-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.example-line .it {
+  font-size: 18px;
+}
+
+.daily-expr {
+  display: grid;
+  gap: 6px;
+  padding: 16px;
+  background: var(--surface);
+  border-radius: var(--r-m);
+  border-left: 4px solid var(--l-quotidien);
+  text-decoration: none;
+}
+
+.daily-expr__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.daily-expr__it {
+  font-size: 26px;
+  line-height: 1.25;
+}
+
+.daily-expr__fr {
+  font-weight: 600;
+}
+
+.daily-expr__more {
+  color: var(--l-quotidien);
+  font-weight: 600;
+}
+
+.daily-expr .btn {
+  justify-self: start;
+  margin-top: 4px;
+}
+
+.dialogue {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.dialogue__line {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-areas: 'who who' 'bubble audio';
+  align-items: center;
+  gap: 2px 8px;
+  max-width: 92%;
+}
+
+.dialogue__line.is-right {
+  justify-self: end;
+}
+
+.dialogue__who {
+  grid-area: who;
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.dialogue__bubble {
+  grid-area: bubble;
+  padding: 10px 14px;
+  background: var(--surface);
+  border-radius: 4px 16px 16px 16px;
+}
+
+.dialogue__line.is-right .dialogue__bubble {
+  border-radius: 16px 4px 16px 16px;
+  background: color-mix(in srgb, var(--l-quotidien) 12%, var(--surface));
+}
+
+.dialogue__bubble .it {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.dialogue__line .audio {
+  grid-area: audio;
+}
+
+.row--split {
+  padding: 0 6px 0 0;
+}
+
+.row__main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  padding: 12px 14px;
+  border: 0;
+  background: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.row--button {
+  width: 100%;
+  border: 0;
+  background: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.row__meta--wrap {
+  white-space: normal;
+}
+
+.icon-btn.is-on {
+  color: var(--correct);
+}
+
+.lexicon-link {
+  margin-top: 10px;
+}
+
+.search {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.search__field {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-left: 12px;
+  border: 1.5px solid var(--rule);
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--ink-2);
+}
+
+.search__field input {
+  border: 0 !important;
+  background: transparent !important;
+  padding-left: 0 !important;
+}
+
+.search__field:focus-within {
+  border-color: var(--focus);
+}
+
+.segmented--small {
+  margin: 0;
+}
+
+.segmented--small label {
+  min-height: 36px;
+  font-size: 14px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.tabbar a {
+  font-size: 11px;
 }

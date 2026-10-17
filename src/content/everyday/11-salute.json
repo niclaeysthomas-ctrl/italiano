@@ -1,0 +1,26 @@
+{
+  "id": "q-salute",
+  "title": "Pharmacie et médecin",
+  "level": "B1",
+  "intro": "Le pharmacien est souvent le premier conseil. En cas d'urgence, le numéro européen 112 fonctionne en Italie.",
+  "dialogue": [
+    { "who": "Cliente", "it": "Buongiorno, avrei bisogno di qualcosa per il mal di gola.", "fr": "Bonjour, j'aurais besoin de quelque chose pour le mal de gorge." },
+    { "who": "Farmacista", "it": "Ha anche la febbre?", "fr": "Vous avez aussi de la fièvre ?" },
+    { "who": "Cliente", "it": "No, solo un po' di tosse.", "fr": "Non, seulement un peu de toux." },
+    { "who": "Farmacista", "it": "Allora le do queste pastiglie, una ogni sei ore.", "fr": "Alors je vous donne ces pastilles, une toutes les six heures." },
+    { "who": "Cliente", "it": "Serve la ricetta?", "fr": "Il faut une ordonnance ?" },
+    { "who": "Farmacista", "it": "No, sono da banco.", "fr": "Non, elles sont en vente libre." }
+  ],
+  "items": [
+    { "it": "Ho mal di gola.", "fr": "J'ai mal à la gorge.", "example": "Ho mal di gola da tre giorni.", "exampleFr": "J'ai mal à la gorge depuis trois jours." },
+    { "it": "Ho la tosse.", "fr": "Je tousse.", "example": "Ho la tosse e non riesco a dormire.", "exampleFr": "Je tousse et je n'arrive pas à dormir." },
+    { "it": "Ho il raffreddore.", "fr": "J'ai un rhume.", "example": "Ho il raffreddore, meglio se non ti abbraccio.", "exampleFr": "J'ai un rhume, mieux vaut que je ne t'embrasse pas." },
+    { "it": "Mi gira la testa.", "fr": "J'ai la tête qui tourne.", "example": "Mi gira la testa, devo sedermi.", "exampleFr": "J'ai la tête qui tourne, je dois m'asseoir." },
+    { "it": "un farmaco da banco", "fr": "un médicament en vente libre", "example": "Per il mal di testa basta un farmaco da banco.", "exampleFr": "Pour le mal de tête, un médicament en vente libre suffit." },
+    { "it": "Serve la ricetta?", "fr": "Il faut une ordonnance ?", "example": "Per questo antibiotico serve la ricetta?", "exampleFr": "Pour cet antibiotique, il faut une ordonnance ?" },
+    { "it": "la guardia medica", "fr": "le médecin de garde", "example": "Di notte puoi chiamare la guardia medica.", "exampleFr": "La nuit, tu peux appeler le médecin de garde." },
+    { "it": "il pronto soccorso", "fr": "les urgences", "example": "Si è fatto male e l'hanno portato al pronto soccorso.", "exampleFr": "Il s'est blessé et on l'a emmené aux urgences." },
+    { "it": "Chiamate un'ambulanza!", "fr": "Appelez une ambulance !", "example": "Presto, chiamate un'ambulanza!", "exampleFr": "Vite, appelez une ambulance !" },
+    { "it": "Sono allergico a…", "fr": "Je suis allergique à…", "example": "Sono allergico alla penicillina.", "exampleFr": "Je suis allergique à la pénicilline." }
+  ]
+}
