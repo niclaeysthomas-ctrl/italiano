@@ -12,6 +12,7 @@ Application web installable pour apprendre l'italien du niveau **A1** au niveau 
 - **Oral** : répétition après le modèle avec reconnaissance vocale et score, enregistrement de sa voix pour se réécouter.
 - **L'italien du quotidien** : 16 situations (bar, téléphone, SMS, réactions, petits mots de l'oral…), chacune avec un dialogue à écouter et une dizaine d'expressions expliquées ; une expression du jour sur l'accueil.
 - **Lexique** : recherche dans tout le vocabulaire, fiche par mot avec son exemple et les autres phrases de l'application qui l'emploient.
+- **Examen blanc** : 5 sujets (deux A1, deux A2, un B1) sur le modèle CILS — écoute (2 écoutes max), lecture, grammaire, écrit et oral — chronométrés, avec correction automatique et grille d'auto-évaluation pour l'écrit et l'oral.
 - **Objectif quotidien** : barre de points sur l'accueil (1 par carte, 5 par exercice), objectif réglable.
 - **Progression** : calendrier d'activité sur 12 semaines ; passage au niveau suivant suggéré quand mots, leçons et exercices du niveau sont acquis ; série de jours, statistiques, export et import de toutes les données.
 

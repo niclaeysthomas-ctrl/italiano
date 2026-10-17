@@ -1883,3 +1883,265 @@ audio {
   height: 14px;
   background: var(--ink);
 }
+
+/* ---------- Examen blanc ---------- */
+
+.exam-link .line-badge {
+  background: var(--ink);
+  color: var(--surface);
+}
+
+.exam-plan {
+  list-style: none;
+  margin: 0 0 16px;
+  padding: 0;
+  background: var(--surface);
+  border-radius: var(--r-m);
+  counter-reset: step;
+}
+
+.exam-plan li {
+  display: grid;
+  grid-template-columns: 28px 1fr auto;
+  grid-template-areas: 'num name time' 'num it time';
+  align-items: center;
+  column-gap: 10px;
+  padding: 10px 14px;
+  counter-increment: step;
+}
+
+.exam-plan li + li {
+  border-top: 1px solid var(--rule);
+}
+
+.exam-plan li::before {
+  content: counter(step);
+  grid-area: num;
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 2px solid var(--linea);
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.exam-plan__name {
+  grid-area: name;
+  font-weight: 600;
+}
+
+.exam-plan li > .muted {
+  grid-area: it;
+}
+
+.exam-plan__time {
+  grid-area: time;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-2);
+}
+
+.toggle {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 8px 0 12px;
+  font-weight: 600;
+}
+
+.toggle input {
+  width: 22px !important;
+  height: 22px;
+  min-height: 0 !important;
+  accent-color: var(--linea);
+}
+
+.timer {
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  font-size: 18px;
+  padding: 2px 10px;
+  border-radius: 8px;
+  background: var(--sunken);
+}
+
+.timer.is-low {
+  color: #fff;
+  background: var(--wrong);
+}
+
+.exam-fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  min-width: 0;
+}
+
+.exam-part {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+.exam-part > h2 {
+  font-size: 17px;
+}
+
+.exam-text {
+  padding: 16px;
+  background: var(--surface);
+  border-radius: var(--r-m);
+  font-size: 18px;
+  line-height: 1.6;
+  display: grid;
+  gap: 8px;
+}
+
+.exam-questions {
+  margin: 0;
+  padding-left: 22px;
+  display: grid;
+  gap: 18px;
+}
+
+.exam-questions.is-plain {
+  list-style: none;
+  padding-left: 0;
+}
+
+.choices--inline {
+  grid-template-columns: 1fr 1fr;
+}
+
+.exam-next,
+.exam-actions {
+  margin-top: 8px;
+}
+
+.exam-prompt {
+  font-size: 19px;
+  line-height: 1.45;
+}
+
+.word-count {
+  text-align: right;
+  color: var(--correct);
+  font-weight: 600;
+}
+
+.word-count.is-off {
+  color: var(--ink-2);
+}
+
+.exam-answer,
+.exam-model {
+  padding: 14px;
+  border-radius: var(--r-m);
+  background: var(--surface);
+  font-size: 18px;
+  line-height: 1.55;
+  white-space: pre-wrap;
+}
+
+.exam-model {
+  border-left: 4px solid var(--correct);
+}
+
+.criteria-list {
+  display: grid;
+  gap: 8px;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.criteria-list legend {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.criteria-list label {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 12px;
+  border: 1.5px solid var(--rule);
+  border-radius: 12px;
+  background: var(--surface);
+  cursor: pointer;
+}
+
+.criteria-list label.is-on {
+  border-color: var(--correct);
+}
+
+.criteria-list input {
+  width: 20px !important;
+  height: 20px;
+  min-height: 0 !important;
+  margin-top: 2px;
+  flex: none;
+  accent-color: var(--correct);
+}
+
+.exam-verdict {
+  display: grid;
+  gap: 4px;
+  padding: 18px;
+  border-radius: var(--r-m);
+  background: var(--surface);
+  border: 2px solid var(--wrong);
+  margin-bottom: 16px;
+}
+
+.exam-verdict.is-pass {
+  border-color: var(--correct);
+}
+
+.exam-verdict__score {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.scores td.is-ok {
+  color: var(--correct);
+  font-weight: 700;
+}
+
+.scores td.is-ko {
+  color: var(--wrong);
+  font-weight: 700;
+}
+
+.exam-review {
+  margin-bottom: 10px;
+  padding: 12px 14px;
+  background: var(--surface);
+  border-radius: var(--r-m);
+}
+
+.exam-review summary {
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.exam-review__item {
+  padding-top: 10px;
+  margin-top: 10px;
+  border-top: 1px solid var(--rule);
+}
+
+.exam-review__item del {
+  color: var(--wrong);
+}
+
+.exam-review__item strong {
+  color: var(--correct);
+}
+
+.page__title > span {
+  white-space: nowrap;
+}

@@ -176,6 +176,55 @@ export function validateEveryday(data: unknown, where: string): string[] {
   return r.errors;
 }
 
+function checkTasks(r: Report, label: string, tasks: unknown, oral: boolean) {
+  if (!r.check(Array.isArray(tasks) && (tasks as unknown[]).length > 0, `${label} : au moins une tâche`)) return;
+  (tasks as unknown[]).forEach((task, i) => {
+    const t = task as Json;
+    const where = `${label}, tâche ${i + 1}`;
+    if (!r.check(isObject(task), `${where} doit être un objet`)) return;
+    r.check(isText(t.prompt) && isText(t.promptFr) && isText(t.model), `${where} : prompt, promptFr et model requis`);
+    r.check(Array.isArray(t.criteria) && (t.criteria as unknown[]).length >= 3 && (t.criteria as unknown[]).every(isText), `${where} : au moins trois critères`);
+    if (oral) r.check(Number.isInteger(t.prepSeconds), `${where} : prepSeconds requis`);
+    else r.check(Number.isInteger(t.minWords) && Number.isInteger(t.maxWords) && (t.minWords as number) < (t.maxWords as number), `${where} : minWords < maxWords requis`);
+  });
+}
+
+export function validateExam(data: unknown, where: string): string[] {
+  const r = new Report(where);
+  if (!r.check(isObject(data), "l'examen doit être un objet")) return r.errors;
+  const e = data as Json;
+  r.check(isText(e.id) && isText(e.title) && isLevel(e.level), 'id, title et level requis');
+  const sections = ['listening', 'reading', 'structures', 'writing', 'speaking'];
+  for (const name of sections) if (!r.check(isObject(e[name]), `section ${name} manquante`)) return r.errors;
+  const listening = e.listening as Json;
+  const reading = e.reading as Json;
+  const structures = e.structures as Json;
+  for (const [name, section] of [['listening', listening], ['reading', reading], ['structures', structures], ['writing', e.writing]] as const) {
+    r.check(Number.isInteger((section as Json).minutes) && ((section as Json).minutes as number) > 0, `${name} : durée en minutes requise`);
+  }
+  if (r.check(Array.isArray(listening.parts) && (listening.parts as unknown[]).length > 0, 'écoute : parties requises')) {
+    (listening.parts as Json[]).forEach((part, i) => {
+      r.check(isText(part.audio), `écoute ${i + 1} : audio manquant`);
+      (part.questions as unknown[] ?? []).forEach((q, j) => checkChoice(r, `écoute ${i + 1}.${j + 1}`, (q as Json).options, (q as Json).answer));
+    });
+  }
+  if (r.check(Array.isArray(reading.texts) && (reading.texts as unknown[]).length > 0, 'lecture : textes requis')) {
+    (reading.texts as Json[]).forEach((text, i) => {
+      r.check(isText(text.title) && isText(text.text), `lecture ${i + 1} : titre et texte requis`);
+      (text.questions as unknown[] ?? []).forEach((q, j) => checkChoice(r, `lecture ${i + 1}.${j + 1}`, (q as Json).options, (q as Json).answer));
+    });
+  }
+  if (r.check(Array.isArray(structures.items) && (structures.items as unknown[]).length >= 8, 'structures : au moins 8 items')) {
+    (structures.items as Json[]).forEach((item, i) => {
+      r.check(isText(item.text) && (item.text as string).includes('___'), `structure ${i + 1} : le texte doit contenir ___`);
+      checkChoice(r, `structure ${i + 1}`, item.options, item.answer);
+    });
+  }
+  checkTasks(r, 'écrit', (e.writing as Json).tasks, false);
+  checkTasks(r, 'oral', (e.speaking as Json).tasks, true);
+  return r.errors;
+}
+
 /** Vérifie qu'aucun identifiant n'est utilisé deux fois dans une collection. */
 export function findDuplicateIds(ids: readonly string[]): string[] {
   const seen = new Set<string>();

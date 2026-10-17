@@ -2,7 +2,7 @@
  * Registre du contenu. Pour ajouter un fichier : le créer dans le bon dossier,
  * puis l'importer ici (voir docs/CONTENU.md). `npm test` vérifie sa structure.
  */
-import type { Deck, EverydayTopic, GrammarLesson, PlacementQuestion, Reading } from '../core/content/types.ts';
+import type { Deck, EverydayTopic, ExamPaper, GrammarLesson, PlacementQuestion, Reading } from '../core/content/types.ts';
 import type { StudyNote } from '../core/srs/queue.ts';
 
 import deck_a1_cibo from './decks/a1-cibo.json';
@@ -105,6 +105,12 @@ import everyday_13_appuntamenti from './everyday/13-appuntamenti.json';
 import everyday_14_ufficio from './everyday/14-ufficio.json';
 import everyday_15_reclami from './everyday/15-reclami.json';
 import everyday_16_chiacchiere from './everyday/16-chiacchiere.json';
+
+import exam_a1_1 from './exams/a1-1.json';
+import exam_a1_2 from './exams/a1-2.json';
+import exam_a2_1 from './exams/a2-1.json';
+import exam_a2_2 from './exams/a2-2.json';
+import exam_b1_1 from './exams/b1-1.json';
 
 // Les JSON importés sont typés de façon large (string au lieu de 'A1' | 'A2'…) :
 // la conformité réelle est garantie par les tests de validation du contenu.
@@ -223,6 +229,18 @@ export const everydayTopics: EverydayTopic[] = [
 
 export function findEverydayTopic(id: string): EverydayTopic | undefined {
   return everydayTopics.find((topic) => topic.id === id);
+}
+
+export const exams: ExamPaper[] = [
+  exam_a1_1,
+  exam_a1_2,
+  exam_a2_1,
+  exam_a2_2,
+  exam_b1_1,
+].map((e) => as<ExamPaper>(e));
+
+export function findExam(id: string): ExamPaper | undefined {
+  return exams.find((exam) => exam.id === id);
 }
 
 /** Toutes les notes du contenu, avec leur niveau résolu. */

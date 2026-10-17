@@ -13,6 +13,18 @@ export function PracticePage() {
 
   return (
     <Page title="Pratique" intro={<p>Lire, écouter, écrire et parler. Tout est calé sur ton niveau.</p>}>
+      <a className="row feature-link exam-link" href="#/examens">
+        <span className="line-badge line-neutre" aria-hidden>
+          <Icon name="check" size={20} />
+        </span>
+        <span className="row__body">
+          <span className="row__title">Examen blanc</span>
+          <span className="row__meta">Simulation A1, A2 et B1 en cinq épreuves</span>
+        </span>
+        <span className="row__end">
+          <Icon name="chevron" size={18} />
+        </span>
+      </a>
       <ul className="rows">
         {daily && (
           <PracticeRow to={`/lecture/${daily.id}`} line="lecture" icon={<Icon name="read" size={20} />} title="Lecture du jour" meta={daily.title} metaLang="it" />

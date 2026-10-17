@@ -107,3 +107,36 @@ export interface EverydayTopic {
   dialogue: DialogueLine[];
   items: EverydayItem[];
 }
+
+/** Question à choix (écoute, lecture, structures). */
+export interface ChoiceQuestion {
+  q: string;
+  options: string[];
+  answer: number;
+}
+
+export interface ProductionTask {
+  /** Consigne en italien, comme à l'examen. */
+  prompt: string;
+  /** Aide en français. */
+  promptFr: string;
+  model: string;
+  /** Critères d'auto-évaluation. */
+  criteria: string[];
+  minWords?: number;
+  maxWords?: number;
+  /** Temps de préparation avant de parler (oral). */
+  prepSeconds?: number;
+}
+
+/** Un sujet d'examen blanc en cinq épreuves, sur le modèle des certifications CILS. */
+export interface ExamPaper {
+  id: string;
+  level: Level;
+  title: string;
+  listening: { minutes: number; parts: { audio: string; questions: ChoiceQuestion[] }[] };
+  reading: { minutes: number; texts: { title: string; text: string; questions: ChoiceQuestion[] }[] };
+  structures: { minutes: number; items: { text: string; options: string[]; answer: number }[] };
+  writing: { minutes: number; tasks: ProductionTask[] };
+  speaking: { tasks: ProductionTask[] };
+}

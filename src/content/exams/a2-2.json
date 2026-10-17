@@ -1,0 +1,104 @@
+{
+  "id": "a2-2",
+  "level": "A2",
+  "title": "Sujet 2",
+  "listening": {
+    "minutes": 12,
+    "parts": [
+      {
+        "audio": "Signori passeggeri, il volo AZ 314 per Palermo è in ritardo di quaranta minuti. L'imbarco è spostato dall'uscita B12 all'uscita C4. Ci scusiamo per il disagio.",
+        "questions": [
+          { "q": "Il volo per Palermo…", "options": ["è cancellato", "è in ritardo di quaranta minuti", "parte in anticipo", "è già partito"], "answer": 1 },
+          { "q": "Da quale uscita parte adesso?", "options": ["B12", "C14", "C4", "B4"], "answer": 2 }
+        ]
+      },
+      {
+        "audio": "Buongiorno dottore, da tre giorni ho mal di gola e un po' di febbre. — Ha anche la tosse? — Sì, soprattutto la notte. — Allora prenda questo sciroppo tre volte al giorno e resti a casa fino a venerdì.",
+        "questions": [
+          { "q": "Da quanto tempo il paziente sta male?", "options": ["Da un giorno", "Da una settimana", "Da tre giorni", "Da un mese"], "answer": 2 },
+          { "q": "Che cosa consiglia il medico?", "options": ["Di andare al lavoro", "Uno sciroppo e riposo fino a venerdì", "Di andare in ospedale", "Di fare sport"], "answer": 1 }
+        ]
+      },
+      {
+        "audio": "Mi chiamo Chen e vivo a Torino da due anni. Sono venuta per studiare architettura. All'inizio non capivo niente, ma i miei compagni di casa mi hanno aiutato molto. Adesso parlo bene e l'anno prossimo vorrei lavorare qui.",
+        "questions": [
+          { "q": "Perché Chen è venuta in Italia?", "options": ["Per lavorare", "Per la famiglia", "Per studiare architettura", "In vacanza"], "answer": 2 },
+          { "q": "Che cosa vuole fare l'anno prossimo?", "options": ["Lavorare a Torino", "Tornare in Cina", "Cambiare università", "Viaggiare"], "answer": 0 }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "minutes": 20,
+    "texts": [
+      {
+        "title": "Regolamento della biblioteca",
+        "text": "I libri si possono prendere in prestito per trenta giorni. È possibile rinnovare il prestito una sola volta, anche online. Chi restituisce un libro in ritardo non può prendere altri libri per due settimane. Nelle sale di lettura è vietato mangiare e telefonare. Il wi-fi è gratuito per tutti gli iscritti.",
+        "questions": [
+          { "q": "Il prestito dura un mese.", "options": ["Vero", "Falso"], "answer": 0 },
+          { "q": "Si può rinnovare il prestito più volte.", "options": ["Vero", "Falso"], "answer": 1 },
+          { "q": "Chi restituisce in ritardo paga una multa.", "options": ["Vero", "Falso"], "answer": 1 },
+          { "q": "Il wi-fi costa due euro.", "options": ["Vero", "Falso"], "answer": 1 }
+        ]
+      },
+      {
+        "title": "Il mercato di Porta Palazzo",
+        "text": "A Torino c'è uno dei mercati all'aperto più grandi d'Europa: Porta Palazzo. È aperto tutte le mattine e il sabato fino a sera. Qui si trovano frutta, verdura, pesce, formaggi, ma anche vestiti e oggetti per la casa. Molti venditori arrivano da paesi diversi, così al mercato si sentono tante lingue e si possono comprare prodotti di tutto il mondo. Per molti torinesi andare a Porta Palazzo è un'abitudine: si fa la spesa, si chiacchiera e si beve un caffè.",
+        "questions": [
+          { "q": "Porta Palazzo è…", "options": ["un supermercato", "un mercato all'aperto", "un museo", "un centro commerciale"], "answer": 1 },
+          { "q": "Quando è aperto fino a sera?", "options": ["Tutti i giorni", "La domenica", "Il sabato", "Mai"], "answer": 2 },
+          { "q": "Perché al mercato si sentono tante lingue?", "options": ["Perché ci sono molti turisti", "Perché i venditori vengono da paesi diversi", "Perché c'è una scuola di lingue", "Perché è vicino all'aeroporto"], "answer": 1 },
+          { "q": "Per molti torinesi, il mercato è…", "options": ["troppo caro", "un'abitudine e un luogo di incontro", "un posto pericoloso", "aperto solo ai turisti"], "answer": 1 }
+        ]
+      }
+    ]
+  },
+  "structures": {
+    "minutes": 12,
+    "items": [
+      { "text": "L'anno prossimo ___ in Australia.", "options": ["andrò", "andavo", "sono andato", "ero andato"], "answer": 0 },
+      { "text": "Quando ___ piccolo, avevo paura del buio.", "options": ["sono stato", "ero", "sarò", "sono"], "answer": 1 },
+      { "text": "Le chiavi? ___ ho lasciate sul tavolo.", "options": ["Li", "La", "Le", "Gli"], "answer": 2 },
+      { "text": "Scrivo a mio fratello e ___ mando una foto.", "options": ["lo", "la", "le", "gli"], "answer": 3 },
+      { "text": "Questo è il film ___ ti ho parlato.", "options": ["di cui", "che", "a cui", "cui"], "answer": 0 },
+      { "text": "Ci ___ due ore per arrivare a Napoli.", "options": ["vuole", "vogliono", "vuoi", "volete"], "answer": 1 },
+      { "text": "Sono ___ stanco che vado a letto.", "options": ["molto", "più", "così", "tanto che"], "answer": 2 },
+      { "text": "Ieri sera ci ___ divertiti molto.", "options": ["abbiamo", "sono", "eravamo", "siamo"], "answer": 3 },
+      { "text": "Se domani piove, ___ a casa.", "options": ["resto", "restavo", "resterei", "sono restato"], "answer": 0 },
+      { "text": "Mia madre è ___ alta di me.", "options": ["meno", "più di", "come", "tanto"], "answer": 0 },
+      { "text": "Sto ___ un libro molto interessante.", "options": ["leggere", "leggendo", "letto", "legge"], "answer": 1 },
+      { "text": "Abbiamo comprato ___ pane e un po' di formaggio.", "options": ["dello", "della", "del", "dei"], "answer": 2 }
+    ]
+  },
+  "writing": {
+    "minutes": 25,
+    "tasks": [
+      {
+        "prompt": "Hai ricevuto un invito al matrimonio di una collega, ma non puoi andare. Scrivile una mail: ringrazia, spiega perché non puoi venire e fai gli auguri.",
+        "promptFr": "Tu ne peux pas aller au mariage d'une collègue : remercie, explique pourquoi, présente tes vœux.",
+        "minWords": 50,
+        "maxWords": 80,
+        "model": "Cara Silvia, grazie mille per l'invito al tuo matrimonio! Purtroppo quel sabato non posso venire, perché sarò in Francia per il compleanno di mia madre. Mi dispiace molto, avrei voluto festeggiare con voi. Ti auguro una giornata bellissima e tanta felicità con Marco. Quando torni dal viaggio di nozze, ti offro un caffè e mi racconti tutto! Un abbraccio, Thomas",
+        "criteria": ["J'ai remercié pour l'invitation", "J'ai expliqué pourquoi je ne peux pas venir", "J'ai présenté mes vœux", "J'ai utilisé le futur ou le conditionnel au moins une fois", "J'ai écrit entre 50 et 80 mots"]
+      }
+    ]
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "prompt": "Parla del tuo lavoro o dei tuoi studi: che cosa fai, che cosa ti piace e che cosa non ti piace.",
+        "promptFr": "Parle de ton travail ou de tes études : ce que tu fais, ce que tu aimes ou pas.",
+        "prepSeconds": 90,
+        "model": "Lavoro come ingegnere in un'azienda di trasporti. Mi occupo di progetti per le ferrovie. Mi piace perché è un lavoro vario e lavoro con colleghi simpatici. Non mi piace molto il tragitto: ci metto un'ora per andare in ufficio. Per fortuna il venerdì lavoro da casa.",
+        "criteria": ["J'ai décrit ce que je fais", "J'ai dit ce que j'aime en justifiant (perché…)", "J'ai dit ce que je n'aime pas", "J'ai utilisé des connecteurs (ma, però, per fortuna…)", "J'ai parlé au moins une minute"]
+      },
+      {
+        "prompt": "In un negozio di vestiti: vuoi cambiare una giacca troppo piccola. Spiega il problema e chiedi un'altra taglia o il rimborso.",
+        "promptFr": "Dans un magasin : tu veux échanger une veste trop petite ; explique et demande une autre taille ou un remboursement.",
+        "prepSeconds": 60,
+        "model": "Buongiorno, la settimana scorsa ho comprato questa giacca, ma è troppo piccola. Ecco lo scontrino. Si può cambiare con una taglia più grande? Se non c'è, vorrei il rimborso, per favore.",
+        "criteria": ["J'ai expliqué quand j'ai acheté (passé composé)", "J'ai décrit le problème", "J'ai demandé un échange", "J'ai proposé une alternative (rimborso)", "J'ai été poli du début à la fin"]
+      }
+    ]
+  }
+}

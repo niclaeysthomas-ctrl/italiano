@@ -1,0 +1,100 @@
+{
+  "id": "a1-1",
+  "level": "A1",
+  "title": "Sujet 1",
+  "listening": {
+    "minutes": 10,
+    "parts": [
+      {
+        "audio": "Buongiorno, signori passeggeri. Il treno regionale per Firenze delle nove e venti partirà dal binario quattro con dieci minuti di ritardo.",
+        "questions": [
+          { "q": "A che ora parte normalmente il treno?", "options": ["Alle 9.20", "Alle 9.10", "Alle 9.30", "Alle 10.20"], "answer": 0 },
+          { "q": "Da quale binario parte?", "options": ["Dal binario 2", "Dal binario 4", "Dal binario 10", "Dal binario 14"], "answer": 1 }
+        ]
+      },
+      {
+        "audio": "Ciao Marta, vieni al cinema stasera? — Stasera no, devo studiare. Domani sera invece sono libera. — Va bene, allora domani alle otto davanti al cinema.",
+        "questions": [
+          { "q": "Quando vanno al cinema?", "options": ["Stasera", "Domani sera", "Sabato", "Domenica"], "answer": 1 },
+          { "q": "Dove si incontrano?", "options": ["A casa di Marta", "Alla stazione", "Davanti al cinema", "Al bar"], "answer": 2 }
+        ]
+      },
+      {
+        "audio": "Questa settimana al supermercato: pasta a un euro al pacco e mele a due euro al chilo. Il negozio è aperto anche la domenica mattina.",
+        "questions": [
+          { "q": "Quanto costa la pasta?", "options": ["Due euro al chilo", "Un euro al chilo", "Un euro al pacco", "Due euro al pacco"], "answer": 2 },
+          { "q": "Quando è aperto anche il negozio?", "options": ["La domenica sera", "La domenica mattina", "Tutta la notte", "Solo il lunedì"], "answer": 1 }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "minutes": 15,
+    "texts": [
+      {
+        "title": "Palestra Sole",
+        "text": "Orari: dal lunedì al venerdì dalle 7 alle 22; il sabato dalle 9 alle 18; la domenica chiuso.\n\nCorso di yoga: il martedì e il giovedì alle 19. La prima lezione è gratuita!",
+        "questions": [
+          { "q": "La palestra è aperta la domenica.", "options": ["Vero", "Falso"], "answer": 1 },
+          { "q": "Il corso di yoga è due volte alla settimana.", "options": ["Vero", "Falso"], "answer": 0 },
+          { "q": "La prima lezione di yoga costa dieci euro.", "options": ["Vero", "Falso"], "answer": 1 }
+        ]
+      },
+      {
+        "title": "Una mail",
+        "text": "Cara Anna,\nsono a Roma per lavoro fino a venerdì. L'albergo è vicino alla stazione Termini. La sera sono libera: vuoi mangiare una pizza con me giovedì? Scrivimi!\nBaci,\nElena",
+        "questions": [
+          { "q": "Perché Elena è a Roma?", "options": ["In vacanza", "Per lavoro", "Per studiare", "Per la famiglia"], "answer": 1 },
+          { "q": "Dov'è l'albergo?", "options": ["Vicino al mare", "In centro", "Vicino alla stazione Termini", "A casa di Anna"], "answer": 2 },
+          { "q": "Che cosa propone Elena?", "options": ["Una pizza giovedì", "Un film venerdì", "Un museo sabato", "Un viaggio"], "answer": 0 }
+        ]
+      }
+    ]
+  },
+  "structures": {
+    "minutes": 10,
+    "items": [
+      { "text": "Io ___ studente.", "options": ["sono", "ho", "è", "sei"], "answer": 0 },
+      { "text": "Maria ___ trent'anni.", "options": ["è", "ha", "hai", "sono"], "answer": 1 },
+      { "text": "___ amici di Luca sono simpatici.", "options": ["I", "Le", "Gli", "Lo"], "answer": 2 },
+      { "text": "Domani vado ___ Milano.", "options": ["in", "da", "su", "a"], "answer": 3 },
+      { "text": "Noi ___ in un appartamento piccolo.", "options": ["abitiamo", "abitano", "abitate", "abito"], "answer": 0 },
+      { "text": "Ti piace ___ pizza?", "options": ["il", "la", "lo", "le"], "answer": 1 },
+      { "text": "Il libro è ___ tavolo.", "options": ["nel", "del", "sul", "dal"], "answer": 2 },
+      { "text": "Che ore sono? Sono ___ tre.", "options": ["la", "i", "gli", "le"], "answer": 3 },
+      { "text": "Loro non ___ il francese.", "options": ["parlano", "parla", "parli", "parliamo"], "answer": 0 },
+      { "text": "Quanti fratelli ___?", "options": ["sei", "hai", "stai", "fai"], "answer": 1 }
+    ]
+  },
+  "writing": {
+    "minutes": 20,
+    "tasks": [
+      {
+        "prompt": "Scrivi un messaggio a un amico: lo inviti alla tua festa di compleanno. Indica il giorno, l'ora e il luogo.",
+        "promptFr": "Écris un message à un ami pour l'inviter à ton anniversaire : jour, heure et lieu.",
+        "minWords": 25,
+        "maxWords": 40,
+        "model": "Ciao Marco! Sabato 12 faccio una festa per il mio compleanno. Ti aspetto a casa mia alle otto di sera, in via Roma 15. Se vuoi, porta anche Giulia! Rispondimi presto. Un abbraccio, Thomas",
+        "criteria": ["J'ai salué mon ami et signé le message", "J'ai indiqué le jour", "J'ai indiqué l'heure", "J'ai indiqué le lieu", "Mes verbes sont au présent et bien conjugués"]
+      }
+    ]
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "prompt": "Presentati: come ti chiami, quanti anni hai, di dove sei, che lavoro fai e che cosa ti piace fare.",
+        "promptFr": "Présente-toi : nom, âge, origine, travail, ce que tu aimes faire.",
+        "prepSeconds": 60,
+        "model": "Mi chiamo Thomas, ho trentadue anni e sono francese, di Lione. Lavoro in un ufficio a Parigi. Nel tempo libero mi piace cucinare, leggere e viaggiare. Studio l'italiano perché amo l'Italia.",
+        "criteria": ["J'ai dit mon nom et mon âge", "J'ai dit d'où je viens", "J'ai parlé de mon travail", "J'ai parlé de mes loisirs", "J'ai parlé sans longues pauses"]
+      },
+      {
+        "prompt": "Sei al bar con un amico. Ordina la colazione per tutti e due e chiedi quanto costa.",
+        "promptFr": "Au bar avec un ami : commande le petit-déjeuner pour vous deux et demande le prix.",
+        "prepSeconds": 45,
+        "model": "Buongiorno! Vorremmo due cappuccini e due cornetti, per favore. Uno alla crema e uno vuoto. Quant'è? Grazie mille!",
+        "criteria": ["J'ai salué", "J'ai commandé pour deux personnes", "J'ai utilisé « vorrei » ou « vorremmo »", "J'ai demandé le prix", "J'ai remercié"]
+      }
+    ]
+  }
+}

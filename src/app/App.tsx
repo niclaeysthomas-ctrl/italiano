@@ -12,6 +12,7 @@ import { ReviewPage } from '../features/cards/ReviewPage.tsx';
 import { GrammarListPage } from '../features/grammar/GrammarListPage.tsx';
 import { LessonPage } from '../features/grammar/LessonPage.tsx';
 import { HomePage } from '../features/home/HomePage.tsx';
+import { ExamListPage, ExamPage } from '../features/exam/ExamPage.tsx';
 import { PlacementPage } from '../features/placement/PlacementPage.tsx';
 import { DictationPage } from '../features/practice/DictationPage.tsx';
 import { PracticePage } from '../features/practice/PracticePage.tsx';
@@ -48,6 +49,8 @@ const ROUTES: Route[] = [
   { pattern: '/dictee', render: () => <DictationPage /> },
   { pattern: '/oral', render: () => <SpeakingPage /> },
   { pattern: '/traduction', render: () => <TranslationPage /> },
+  { pattern: '/examens', render: () => <ExamListPage /> },
+  { pattern: '/examens/:id', render: ({ id }) => <ExamPage key={id} id={id} />, focus: true },
   { pattern: '/profil', render: () => <ProfilePage /> },
   { pattern: '/test', render: () => <PlacementPage />, focus: true },
 ];

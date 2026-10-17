@@ -1,0 +1,89 @@
+{
+  "id": "b1-1",
+  "level": "B1",
+  "title": "Sujet 1",
+  "listening": {
+    "minutes": 15,
+    "parts": [
+      {
+        "audio": "Buonasera e benvenuti al nostro notiziario. Da domani, nel centro di Bologna, la velocità massima per le auto sarà di trenta chilometri all'ora su quasi tutte le strade. Secondo il Comune, la misura ridurrà gli incidenti e l'inquinamento. Alcuni commercianti, però, temono che i clienti avranno più difficoltà a raggiungere i negozi.",
+        "questions": [
+          { "q": "Che cosa cambia da domani a Bologna?", "options": ["Le auto non possono più entrare in centro", "Il limite di velocità diventa 30 km/h", "I parcheggi diventano gratuiti", "Gli autobus sono gratis"], "answer": 1 },
+          { "q": "Qual è l'obiettivo del Comune?", "options": ["Aumentare il turismo", "Ridurre incidenti e inquinamento", "Aiutare i commercianti", "Costruire nuove strade"], "answer": 1 },
+          { "q": "Che cosa temono alcuni commercianti?", "options": ["Di dover chiudere la domenica", "Di pagare più tasse", "Che i clienti arrivino con più difficoltà", "Che aumentino i furti"], "answer": 2 }
+        ]
+      },
+      {
+        "audio": "Allora, hai deciso se accetti il lavoro a Milano? — Non ancora. Lo stipendio è più alto, ma dovrei lasciare la mia città e gli amici. E poi a Milano gli affitti sono carissimi. — Capisco. Però è un'occasione importante per la tua carriera. Io al posto tuo ci proverei almeno per un anno.",
+        "questions": [
+          { "q": "Perché la donna non ha ancora deciso?", "options": ["Perché lo stipendio è basso", "Perché dovrebbe lasciare città e amici", "Perché non le piace il lavoro", "Perché non parla bene l'italiano"], "answer": 1 },
+          { "q": "Che cosa consiglia l'amico?", "options": ["Di rifiutare", "Di aspettare un anno", "Di provare almeno per un anno", "Di cercare un altro lavoro"], "answer": 2 }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "minutes": 25,
+    "texts": [
+      {
+        "title": "Il ritorno delle biciclette",
+        "text": "Negli ultimi anni in molte città italiane è aumentato il numero di persone che vanno al lavoro in bicicletta. Le ragioni sono diverse: il costo della benzina, il desiderio di fare attività fisica e una maggiore attenzione all'ambiente. Anche le amministrazioni comunali hanno fatto la loro parte, costruendo nuove piste ciclabili e introducendo servizi di bike sharing.\n\nNon mancano però i problemi. Molti ciclisti si lamentano della scarsa sicurezza: le piste non sono sempre collegate tra loro e spesso bisogna pedalare in mezzo al traffico. Inoltre, nelle città con molte salite, come Genova, la bicicletta resta una scelta per pochi, anche se le biciclette elettriche stanno cambiando la situazione.\n\nSecondo un recente sondaggio, il sessanta per cento degli italiani userebbe di più la bicicletta se le strade fossero più sicure.",
+        "questions": [
+          { "q": "Quale ragione NON è citata per l'uso della bicicletta?", "options": ["Il prezzo della benzina", "L'attività fisica", "La mancanza di autobus", "L'attenzione all'ambiente"], "answer": 2 },
+          { "q": "Che cosa hanno fatto i Comuni?", "options": ["Hanno vietato le auto", "Hanno costruito piste ciclabili e introdotto il bike sharing", "Hanno regalato biciclette", "Hanno abbassato le tasse"], "answer": 1 },
+          { "q": "Qual è il problema principale secondo i ciclisti?", "options": ["Il prezzo delle biciclette", "La sicurezza", "Il clima", "I furti"], "answer": 1 },
+          { "q": "Perché a Genova la bicicletta è poco usata?", "options": ["Perché piove spesso", "Perché ci sono molte salite", "Perché è vietata", "Perché non ci sono negozi"], "answer": 1 },
+          { "q": "Secondo il sondaggio, il 60 % degli italiani…", "options": ["va già al lavoro in bici", "non ama la bicicletta", "userebbe di più la bici con strade più sicure", "preferisce l'auto elettrica"], "answer": 2 }
+        ]
+      }
+    ]
+  },
+  "structures": {
+    "minutes": 15,
+    "items": [
+      { "text": "Penso che Marco ___ ragione.", "options": ["abbia", "ha avuto", "avrà", "aveva"], "answer": 0 },
+      { "text": "Se avessi più tempo, ___ uno strumento.", "options": ["imparo", "imparerei", "imparerò", "imparassi"], "answer": 1 },
+      { "text": "Do il libro a Sara → ___ do.", "options": ["Gli lo", "Le lo", "Glielo", "Lo le"], "answer": 2 },
+      { "text": "È importante che voi ___ in orario.", "options": ["arrivate", "arriverete", "arrivavate", "arriviate"], "answer": 3 },
+      { "text": "La ragazza ___ ho conosciuto ieri è spagnola.", "options": ["che", "cui", "di cui", "la cui"], "answer": 0 },
+      { "text": "Sarei venuto, ma ___ troppo stanco.", "options": ["sono", "ero", "sarò", "fossi"], "answer": 1 },
+      { "text": "Benché ___ tardi, siamo usciti.", "options": ["era", "è", "fosse", "sarebbe"], "answer": 2 },
+      { "text": "Credo che ieri Paolo ___ al cinema.", "options": ["andrà", "andava", "andrebbe", "sia andato"], "answer": 3 },
+      { "text": "Conosci questo film? — No, non ___ so niente.", "options": ["ne", "ci", "lo", "la"], "answer": 0 },
+      { "text": "Mi ha chiesto ___ aiutarlo.", "options": ["a", "di", "per", "da"], "answer": 1 },
+      { "text": "Vivo a Roma ___ cinque anni.", "options": ["fa", "da", "tra", "per"], "answer": 1 },
+      { "text": "È il libro più bello che io ___ mai letto.", "options": ["ho", "avevo", "avrei", "abbia"], "answer": 3 }
+    ]
+  },
+  "writing": {
+    "minutes": 30,
+    "tasks": [
+      {
+        "prompt": "Sul sito del tuo comune si discute se chiudere il centro storico alle auto. Scrivi un messaggio per il forum: dai la tua opinione con almeno due argomenti e proponi una soluzione.",
+        "promptFr": "Forum municipal : faut-il fermer le centre aux voitures ? Donne ton avis avec deux arguments et propose une solution.",
+        "minWords": 100,
+        "maxWords": 140,
+        "model": "Secondo me chiudere il centro storico alle auto è una buona idea, ma bisogna farlo con attenzione. Da un lato, meno traffico significa meno inquinamento e strade più sicure per pedoni e ciclisti. Inoltre, il centro diventerebbe più piacevole per i turisti e per chi ci abita. Dall'altro lato, capisco la preoccupazione dei commercianti e delle persone anziane, che hanno bisogno di raggiungere facilmente i negozi. Per questo propongo di potenziare gli autobus e di creare parcheggi gratuiti vicino al centro, collegati da navette elettriche. Così tutti potrebbero continuare a vivere il centro senza usare la macchina. Penso che sia la soluzione migliore per tutti.",
+        "criteria": ["J'ai donné clairement mon opinion (secondo me, penso che + subjonctif)", "J'ai donné au moins deux arguments", "J'ai tenu compte d'un point de vue opposé", "J'ai proposé une solution concrète", "J'ai utilisé des connecteurs (da un lato, inoltre, per questo…)", "J'ai écrit entre 100 et 140 mots"]
+      }
+    ]
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "prompt": "Meglio vivere in città o in campagna? Esprimi la tua opinione con esempi personali.",
+        "promptFr": "Mieux vaut vivre en ville ou à la campagne ? Donne ton avis avec des exemples personnels.",
+        "prepSeconds": 120,
+        "model": "Per me dipende dal momento della vita. Quando studiavo preferivo la città, perché c'erano più occasioni: cinema, concerti, amici. Adesso invece apprezzo di più la tranquillità. Se avessi la possibilità di lavorare da casa, mi trasferirei in campagna, magari vicino a una piccola città, per avere i servizi senza il traffico.",
+        "criteria": ["J'ai exprimé et justifié une opinion", "J'ai donné au moins un exemple personnel", "J'ai utilisé une hypothèse (se + subjonctif imparfait, conditionnel)", "J'ai nuancé (dipende, da un lato…)", "J'ai parlé environ deux minutes"]
+      },
+      {
+        "prompt": "Il tuo vicino fa molto rumore la notte. Parlagli in modo gentile ma deciso e trovate un accordo.",
+        "promptFr": "Ton voisin fait du bruit la nuit : parle-lui poliment mais fermement et trouvez un accord.",
+        "prepSeconds": 60,
+        "model": "Buonasera, scusi se la disturbo. Abito al piano di sotto. Volevo dirle che la notte sento molto rumore, soprattutto la musica dopo mezzanotte, e faccio fatica a dormire perché mi alzo presto. Capisco che a volte si fa festa, ma sarebbe possibile abbassare il volume dopo le undici? Grazie per la comprensione.",
+        "criteria": ["J'ai ouvert poliment la conversation", "J'ai décrit le problème précisément", "J'ai expliqué les conséquences pour moi", "J'ai proposé un compromis (sarebbe possibile…?)", "J'ai gardé un ton courtois"]
+      }
+    ]
+  }
+}

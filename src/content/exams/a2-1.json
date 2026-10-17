@@ -1,0 +1,104 @@
+{
+  "id": "a2-1",
+  "level": "A2",
+  "title": "Sujet 1",
+  "listening": {
+    "minutes": 12,
+    "parts": [
+      {
+        "audio": "Ciao Giorgio, sono Federica. Ti chiamo per sabato: purtroppo la gita al lago è annullata perché dicono che pioverà tutto il giorno. Facciamo domenica? Se va bene anche a te, partiamo alle nove dalla stazione. Fammi sapere!",
+        "questions": [
+          { "q": "Perché la gita di sabato è annullata?", "options": ["Perché Federica è malata", "Per il brutto tempo", "Perché il treno è in sciopero", "Perché Giorgio lavora"], "answer": 1 },
+          { "q": "Che cosa propone Federica?", "options": ["Di partire domenica alle nove", "Di andare al cinema sabato", "Di partire sabato alle nove", "Di restare a casa"], "answer": 0 }
+        ]
+      },
+      {
+        "audio": "Gentili clienti, vi informiamo che a partire da lunedì il nostro negozio cambia orario: saremo aperti dalle dieci alle venti, con orario continuato. Il giovedì, apertura serale fino alle ventidue.",
+        "questions": [
+          { "q": "Che cosa cambia da lunedì?", "options": ["L'indirizzo del negozio", "I prezzi", "L'orario di apertura", "Il nome del negozio"], "answer": 2 },
+          { "q": "Fino a che ora è aperto il giovedì?", "options": ["Fino alle 20", "Fino alle 22", "Fino alle 10", "Fino a mezzanotte"], "answer": 1 }
+        ]
+      },
+      {
+        "audio": "Allora, com'è andato il colloquio? — Bene, credo. Mi hanno fatto tante domande sulle mie esperienze all'estero. Mi richiamano la settimana prossima. — Speriamo bene! In bocca al lupo!",
+        "questions": [
+          { "q": "Su che cosa erano le domande del colloquio?", "options": ["Sugli studi", "Sulla famiglia", "Sullo stipendio", "Sulle esperienze all'estero"], "answer": 3 },
+          { "q": "Quando avrà una risposta?", "options": ["Oggi", "Domani", "La settimana prossima", "Fra un mese"], "answer": 2 }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "minutes": 20,
+    "texts": [
+      {
+        "title": "Corsi serali",
+        "text": "Il Comune organizza corsi serali gratuiti per adulti: informatica, inglese e cucina. I corsi cominciano il 3 ottobre e durano tre mesi. Le lezioni sono due volte alla settimana, dalle 19 alle 21. Per iscriversi bisogna presentare un documento d'identità all'ufficio cultura entro il 25 settembre. I posti sono limitati: massimo quindici persone per corso.",
+        "questions": [
+          { "q": "I corsi sono a pagamento.", "options": ["Vero", "Falso"], "answer": 1 },
+          { "q": "Le lezioni durano due ore.", "options": ["Vero", "Falso"], "answer": 0 },
+          { "q": "Ci si può iscrivere fino al 3 ottobre.", "options": ["Vero", "Falso"], "answer": 1 },
+          { "q": "Ogni corso accetta al massimo quindici persone.", "options": ["Vero", "Falso"], "answer": 0 }
+        ]
+      },
+      {
+        "title": "Una nuova vita in campagna",
+        "text": "Due anni fa Laura e Davide abitavano a Milano e lavoravano in banca. Erano sempre stanchi e non avevano mai tempo per loro. Un giorno hanno deciso di cambiare vita: hanno comprato una vecchia casa in Umbria e l'hanno trasformata in un piccolo agriturismo. All'inizio è stato difficile, perché non sapevano niente di agricoltura. Oggi coltivano verdure, fanno l'olio e ospitano turisti da tutto il mondo. «Guadagniamo meno», dice Laura, «ma siamo molto più felici».",
+        "questions": [
+          { "q": "Che lavoro facevano prima Laura e Davide?", "options": ["Erano contadini", "Lavoravano in banca", "Erano insegnanti", "Lavoravano in un albergo"], "answer": 1 },
+          { "q": "Perché hanno cambiato vita?", "options": ["Perché avevano perso il lavoro", "Perché erano stanchi e senza tempo", "Perché la casa costava poco", "Per i figli"], "answer": 1 },
+          { "q": "Che cosa è stato difficile all'inizio?", "options": ["Trovare clienti", "Imparare l'inglese", "Non conoscere l'agricoltura", "Vivere lontano dagli amici"], "answer": 2 },
+          { "q": "Secondo Laura, oggi…", "options": ["guadagnano di più", "vogliono tornare a Milano", "sono più felici anche se guadagnano meno", "lavorano meno"], "answer": 2 }
+        ]
+      }
+    ]
+  },
+  "structures": {
+    "minutes": 12,
+    "items": [
+      { "text": "Ieri ___ al mare con i miei amici.", "options": ["sono andato", "ho andato", "andavo", "vado"], "answer": 0 },
+      { "text": "Da piccola Anna ___ sempre con la nonna.", "options": ["ha giocato", "giocava", "gioca", "giocherà"], "answer": 1 },
+      { "text": "Domani ___ i miei genitori.", "options": ["ho visitato", "visitavo", "visiterò", "visitato"], "answer": 2 },
+      { "text": "Hai visto Luca? — Sì, ___ ho visto stamattina.", "options": ["la", "gli", "le", "l'"], "answer": 3 },
+      { "text": "Telefono a Maria e ___ dico tutto.", "options": ["le", "la", "gli", "lo"], "answer": 0 },
+      { "text": "Stamattina Giulia si ___ alle sei.", "options": ["ha svegliato", "è svegliato", "è svegliata", "svegliava"], "answer": 2 },
+      { "text": "Roma è ___ grande di Firenze.", "options": ["più", "molto", "tanto", "così"], "answer": 0 },
+      { "text": "Quanti caffè bevi? — ___ bevo due.", "options": ["Li", "Ne", "Ci", "Lo"], "answer": 1 },
+      { "text": "Mentre ___ la cena, è arrivato Paolo.", "options": ["ho preparato", "preparerò", "prepari", "preparavo"], "answer": 3 },
+      { "text": "Non ___ mai stato in Sicilia.", "options": ["ho", "sono", "sei", "era"], "answer": 1 },
+      { "text": "Ci vediamo ___ due ore.", "options": ["fra", "da", "di", "per"], "answer": 0 },
+      { "text": "Le ragazze sono ___ al concerto ieri sera.", "options": ["andato", "andati", "andate", "andata"], "answer": 2 }
+    ]
+  },
+  "writing": {
+    "minutes": 25,
+    "tasks": [
+      {
+        "prompt": "Scrivi una mail a un amico italiano e racconta il tuo ultimo fine settimana: dove sei andato, con chi, che cosa hai fatto e se ti è piaciuto.",
+        "promptFr": "Écris un mail à un ami pour raconter ton dernier week-end : où, avec qui, ce que tu as fait, si ça t'a plu.",
+        "minWords": 50,
+        "maxWords": 80,
+        "model": "Caro Matteo, come stai? Io bene! Lo scorso fine settimana sono andato a Lione con la mia ragazza. Sabato abbiamo visitato la città vecchia e abbiamo mangiato in un ristorante tipico. Domenica invece pioveva, così siamo andati al museo. Mi è piaciuto molto, anche se ero un po' stanco. E tu, che cosa hai fatto? Scrivimi presto! Un abbraccio, Thomas",
+        "criteria": ["J'ai utilisé le passé composé correctement (avere / essere)", "J'ai utilisé l'imparfait pour décrire (temps, état)", "J'ai répondu aux quatre questions", "J'ai utilisé des formules de mail (salut, question, signature)", "J'ai écrit entre 50 et 80 mots"]
+      }
+    ]
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "prompt": "Racconta com'era la tua vita da bambino: dove abitavi, la scuola, i giochi, le vacanze.",
+        "promptFr": "Raconte ton enfance : où tu vivais, l'école, les jeux, les vacances.",
+        "prepSeconds": 90,
+        "model": "Da bambino abitavo in una piccola città vicino a Lione. Andavo a scuola a piedi con mio fratello. Dopo la scuola giocavamo a calcio nel parco. D'estate andavamo sempre in vacanza dai nonni, in campagna: c'erano gli animali e mi divertivo moltissimo.",
+        "criteria": ["J'ai utilisé l'imparfait pour les habitudes", "J'ai parlé du lieu et de l'école", "J'ai parlé des jeux ou des vacances", "J'ai relié mes phrases (poi, dopo, d'estate…)", "J'ai parlé au moins une minute"]
+      },
+      {
+        "prompt": "Telefoni a un ristorante per prenotare un tavolo per sei persone sabato sera. Chiedi se c'è un menù vegetariano.",
+        "promptFr": "Téléphone à un restaurant pour réserver pour six samedi soir et demande s'il y a un menu végétarien.",
+        "prepSeconds": 60,
+        "model": "Buonasera, vorrei prenotare un tavolo per sei persone per sabato sera, verso le otto e mezza. A nome Martin. Avete anche un menù vegetariano? Perfetto, grazie mille. Arrivederci!",
+        "criteria": ["J'ai salué et dit pourquoi j'appelle", "J'ai donné le nombre de personnes, le jour et l'heure", "J'ai donné mon nom", "J'ai posé la question sur le menu", "J'ai pris congé poliment"]
+      }
+    ]
+  }
+}

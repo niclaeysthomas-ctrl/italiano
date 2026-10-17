@@ -44,7 +44,7 @@ export interface ReviewEntry {
   day: string;
 }
 
-export type AttemptKind = 'grammar' | 'reading' | 'dictation' | 'speaking' | 'translation' | 'conjugation';
+export type AttemptKind = 'grammar' | 'reading' | 'dictation' | 'speaking' | 'translation' | 'conjugation' | 'exam';
 
 export interface Attempt {
   id?: number;
@@ -55,6 +55,15 @@ export interface Attempt {
   score: number;
   at: number;
   day: string;
+}
+
+export interface ExamResult {
+  examId: string;
+  level: Level;
+  at: number;
+  scores: Record<string, number>;
+  total: number;
+  passed: boolean;
 }
 
 export interface UserNote extends StudyNote {
@@ -143,6 +152,16 @@ export const repo = {
 
   async getActiveDays(): Promise<string[]> {
     return (await idb.get<string[]>('kv', 'activeDays')) ?? [];
+  },
+
+  async getExamResults(): Promise<ExamResult[]> {
+    return (await idb.get<ExamResult[]>('kv', 'examResults')) ?? [];
+  },
+
+  async saveExamResult(result: ExamResult) {
+    const all = await repo.getExamResults();
+    await idb.put('kv', [...all, result], 'examResults');
+    notifyDataChanged();
   },
 
   getUserNotes: () => idb.getAll<UserNote>('userNotes'),

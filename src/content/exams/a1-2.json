@@ -1,0 +1,100 @@
+{
+  "id": "a1-2",
+  "level": "A1",
+  "title": "Sujet 2",
+  "listening": {
+    "minutes": 10,
+    "parts": [
+      {
+        "audio": "Pronto, ciao Luca, sono Sara. Sono in ritardo, scusa! Arrivo al ristorante tra venti minuti. Tu ordina pure da bere, io prendo un'acqua frizzante.",
+        "questions": [
+          { "q": "Perché Sara telefona?", "options": ["Perché è malata", "Perché è in ritardo", "Perché non trova il ristorante", "Perché non può venire"], "answer": 1 },
+          { "q": "Che cosa vuole bere Sara?", "options": ["Un vino rosso", "Un caffè", "Una birra", "Un'acqua frizzante"], "answer": 3 }
+        ]
+      },
+      {
+        "audio": "Attenzione: oggi il museo chiude alle sedici invece che alle diciannove. Domani l'orario è normale, dalle nove alle diciannove.",
+        "questions": [
+          { "q": "A che ora chiude il museo oggi?", "options": ["Alle 16", "Alle 19", "Alle 9", "Alle 6"], "answer": 0 },
+          { "q": "Domani il museo apre alle…", "options": ["16", "19", "9", "10"], "answer": 2 }
+        ]
+      },
+      {
+        "audio": "Scusi, dov'è la farmacia? — È vicino. Vada sempre dritto, poi giri a sinistra. La farmacia è accanto alla banca.",
+        "questions": [
+          { "q": "La farmacia è…", "options": ["lontana", "accanto alla banca", "davanti alla chiesa", "in piazza"], "answer": 1 },
+          { "q": "Dopo il dritto, bisogna girare…", "options": ["a destra", "indietro", "a sinistra", "due volte"], "answer": 2 }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "minutes": 15,
+    "texts": [
+      {
+        "title": "Affittasi",
+        "text": "Affittasi camera singola in appartamento in centro, vicino all'università. Cucina e bagno in comune con altri due studenti. 350 euro al mese, spese incluse. Telefonare a Paola dopo le 18.",
+        "questions": [
+          { "q": "La camera è per una persona.", "options": ["Vero", "Falso"], "answer": 0 },
+          { "q": "Il bagno è privato.", "options": ["Vero", "Falso"], "answer": 1 },
+          { "q": "Il prezzo comprende le spese.", "options": ["Vero", "Falso"], "answer": 0 }
+        ]
+      },
+      {
+        "title": "La giornata di Pietro",
+        "text": "Pietro fa il cuoco in un ristorante di Bologna. Comincia a lavorare alle dieci di mattina e finisce a mezzanotte, con una pausa il pomeriggio. Il lunedì il ristorante è chiuso: Pietro dorme fino a tardi e poi va in bicicletta con sua figlia.",
+        "questions": [
+          { "q": "Che lavoro fa Pietro?", "options": ["Il cameriere", "Il cuoco", "Il barista", "L'insegnante"], "answer": 1 },
+          { "q": "Quando è chiuso il ristorante?", "options": ["La domenica", "Il sabato", "Il martedì", "Il lunedì"], "answer": 3 },
+          { "q": "Che cosa fa Pietro il giorno libero?", "options": ["Va in bicicletta con la figlia", "Lavora in un altro ristorante", "Va al mare", "Cucina per gli amici"], "answer": 0 }
+        ]
+      }
+    ]
+  },
+  "structures": {
+    "minutes": 10,
+    "items": [
+      { "text": "Tu ___ di Parigi?", "options": ["è", "sei", "sono", "siete"], "answer": 1 },
+      { "text": "Ho comprato ___ zaino nuovo.", "options": ["un", "una", "uno", "un'"], "answer": 2 },
+      { "text": "La mattina io ___ un caffè.", "options": ["bevo", "bevi", "beve", "beviamo"], "answer": 0 },
+      { "text": "Mia sorella abita ___ Spagna.", "options": ["a", "da", "su", "in"], "answer": 3 },
+      { "text": "Questo è ___ fratello.", "options": ["il mio", "mio", "la mia", "i miei"], "answer": 1 },
+      { "text": "___ sono le mie chiavi?", "options": ["Dove", "Chi", "Quando", "Perché"], "answer": 0 },
+      { "text": "Ci sono tre ___ nella classe.", "options": ["studente", "studentessa", "studentesse", "studentessi"], "answer": 2 },
+      { "text": "Voi ___ la televisione la sera?", "options": ["guardano", "guardi", "guardiamo", "guardate"], "answer": 3 },
+      { "text": "Vengo ___ casa di Marco.", "options": ["da", "di", "in", "con"], "answer": 0 },
+      { "text": "Oggi fa molto ___.", "options": ["calda", "caldi", "calde", "caldo"], "answer": 3 }
+    ]
+  },
+  "writing": {
+    "minutes": 20,
+    "tasks": [
+      {
+        "prompt": "Sei in vacanza in Italia. Scrivi una cartolina a un amico: dove sei, con chi, com'è il tempo e che cosa fai.",
+        "promptFr": "Écris une carte postale de vacances : où, avec qui, le temps, ce que tu fais.",
+        "minWords": 25,
+        "maxWords": 40,
+        "model": "Cara Giulia, sono a Napoli con mia sorella. Fa caldo e c'è sempre il sole! La mattina visitiamo la città e il pomeriggio andiamo al mare. La pizza qui è buonissima! A presto, Thomas",
+        "criteria": ["J'ai dit où je suis", "J'ai dit avec qui", "J'ai décrit le temps", "J'ai décrit au moins deux activités", "J'ai salué et signé"]
+      }
+    ]
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "prompt": "Descrivi la tua casa: dove si trova, quante stanze ha, che cosa ti piace.",
+        "promptFr": "Décris ton logement : où il est, combien de pièces, ce que tu aimes.",
+        "prepSeconds": 60,
+        "model": "Abito in un appartamento in centro, al secondo piano. Ci sono tre stanze: una cucina, una camera da letto e un soggiorno. Mi piace perché è luminoso e vicino alla metro.",
+        "criteria": ["J'ai dit où se trouve le logement", "J'ai compté les pièces", "J'ai utilisé « c'è / ci sono »", "J'ai dit ce que j'aime", "J'ai fait des phrases complètes"]
+      },
+      {
+        "prompt": "Sei alla stazione. Compra un biglietto per Roma: chiedi l'orario del treno e il prezzo.",
+        "promptFr": "À la gare : achète un billet pour Rome, demande l'horaire et le prix.",
+        "prepSeconds": 45,
+        "model": "Buongiorno, vorrei un biglietto per Roma, per favore. Solo andata. A che ora parte il prossimo treno? E quanto costa il biglietto? Grazie.",
+        "criteria": ["J'ai salué", "J'ai demandé un billet en précisant la destination", "J'ai demandé l'horaire", "J'ai demandé le prix", "J'ai remercié"]
+      }
+    ]
+  }
+}
