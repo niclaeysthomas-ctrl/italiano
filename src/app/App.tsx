@@ -4,6 +4,7 @@ import { useLive } from '../lib/live.ts';
 import { matchPath, usePath } from '../lib/router.tsx';
 import type { Params } from '../lib/router.tsx';
 import { CardsPage } from '../features/cards/CardsPage.tsx';
+import { ConjugationPage, VerbPage } from '../features/conjugation/ConjugationPage.tsx';
 import { LexiconPage } from '../features/cards/LexiconPage.tsx';
 import { EverydayPage } from '../features/everyday/EverydayPage.tsx';
 import { EverydayTopicPage } from '../features/everyday/EverydayTopicPage.tsx';
@@ -38,6 +39,8 @@ const ROUTES: Route[] = [
   { pattern: '/quotidien', render: () => <EverydayPage /> },
   { pattern: '/quotidien/:id', render: ({ id }) => <EverydayTopicPage key={id} id={id} /> },
   { pattern: '/grammaire', render: () => <GrammarListPage /> },
+  { pattern: '/conjugaison', render: () => <ConjugationPage /> },
+  { pattern: '/conjugaison/:verb', render: ({ verb }) => <VerbPage key={verb} inf={verb} /> },
   { pattern: '/grammaire/:id', render: ({ id }) => <LessonPage id={id} /> },
   { pattern: '/pratique', render: () => <PracticePage /> },
   { pattern: '/lecture', render: () => <ReadingPage /> },

@@ -17,6 +17,18 @@ export function GrammarListPage() {
 
   return (
     <Page title="Grammaire" line="grammaire" intro={<p>Une leçon courte, puis quelques exercices corrigés. Les leçons de ton niveau sont mises en avant.</p>}>
+      <a className="row feature-link" href="#/conjugaison">
+        <span className="line-badge line-grammaire" aria-hidden>
+          <Icon name="pencil" size={20} />
+        </span>
+        <span className="row__body">
+          <span className="row__title">Conjugaison</span>
+          <span className="row__meta">Tableaux de verbes et entraînement par temps</span>
+        </span>
+        <span className="row__end">
+          <Icon name="chevron" size={18} />
+        </span>
+      </a>
       {LEVELS.map((l) => {
         const items = lessons.filter((lesson) => lesson.level === l);
         return (
