@@ -5,7 +5,7 @@ Application web installable pour apprendre l'italien du niveau **A1** au niveau 
 - **Test de niveau adaptatif** au premier lancement (questions écrites et à écouter), qui fixe le niveau de départ.
 - **Cartes à la Anki** : répétition espacée (algorithme de type SM-2, boutons À revoir / Difficile / Correct / Facile), deux sens par mot, ajout de ses propres mots.
 - **Grammaire** : leçons courtes (règle, tableaux, exemples écoutables) et exercices corrigés (QCM, textes à trous).
-- **Conjugaison** : 52 verbes, six temps (présent, passé composé, imparfait, futur, conditionnel, subjonctif présent), tableaux à écouter et séries d'entraînement.
+- **Conjugaison** : 51 verbes, six temps (présent, passé composé, imparfait, futur, conditionnel, subjonctif présent), tableaux à écouter et séries d'entraînement.
 - **Lecture du jour** : un texte par jour adapté au niveau, glossaire au toucher, traduction, questions de compréhension, mots à envoyer dans ses cartes.
 - **Écoute** : synthèse vocale italienne partout, dictée avec correction mot à mot.
 - **Traduction écrite** : phrases du français vers l'italien, correction mot à mot, indice, validation de sa propre traduction.
